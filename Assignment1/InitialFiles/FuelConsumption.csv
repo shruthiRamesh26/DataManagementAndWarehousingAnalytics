@@ -1,0 +1,943 @@
+REF_DATE,GEO,DGUID,Companies,Diesel fuel consumption,UOM,UOM_ID,SCALAR_FACTOR,SCALAR_ID,VALUE
+1986,Canada,2016A000011124,Total companies,Total diesel,Litres,203,thousands,3,2168059
+1986,Canada,2016A000011124,Total companies,"Diesel, freight",Litres,203,thousands,3,1826526
+1986,Canada,2016A000011124,Total companies,"Diesel, passenger",Litres,203,thousands,3,200549
+1986,Canada,2016A000011124,Total companies,"Diesel, yard switching",Litres,203,thousands,3,114676
+1986,Canada,2016A000011124,Total companies,"Diesel, work train",Litres,203,thousands,3,26308
+1986,Canada,2016A000011124,Total companies,Total cost of diesel fuel,Dollars,81,units ,0,651231694
+1986,Canada,2016A000011124,Canadian National,Total diesel,Litres,203,thousands,3,1029150
+1986,Canada,2016A000011124,Canadian National,"Diesel, freight",Litres,203,thousands,3,907298
+1986,Canada,2016A000011124,Canadian National,"Diesel, passenger",Litres,203,thousands,3,54604
+1986,Canada,2016A000011124,Canadian National,"Diesel, yard switching",Litres,203,thousands,3,57998
+1986,Canada,2016A000011124,Canadian National,"Diesel, work train",Litres,203,thousands,3,9249
+1986,Canada,2016A000011124,Canadian National,Total cost of diesel fuel,Dollars,81,units ,0,318818032
+1986,Canada,2016A000011124,Canadian Pacific,Total diesel,Litres,203,thousands,3,835499
+1986,Canada,2016A000011124,Canadian Pacific,"Diesel, freight",Litres,203,thousands,3,777698
+1986,Canada,2016A000011124,Canadian Pacific,"Diesel, passenger",Litres,203,thousands,3,0
+1986,Canada,2016A000011124,Canadian Pacific,"Diesel, yard switching",Litres,203,thousands,3,45370
+1986,Canada,2016A000011124,Canadian Pacific,"Diesel, work train",Litres,203,thousands,3,12431
+1986,Canada,2016A000011124,Canadian Pacific,Total cost of diesel fuel,Dollars,81,units ,0,243389009
+1986,Canada,2016A000011124,VIA Rail,Total diesel,Litres,203,thousands,3,137747
+1986,Canada,2016A000011124,VIA Rail,"Diesel, freight",Litres,203,thousands,3,0
+1986,Canada,2016A000011124,VIA Rail,"Diesel, passenger",Litres,203,thousands,3,137747
+1986,Canada,2016A000011124,VIA Rail,"Diesel, yard switching",Litres,203,thousands,3,0
+1986,Canada,2016A000011124,VIA Rail,"Diesel, work train",Litres,203,thousands,3,0
+1986,Canada,2016A000011124,VIA Rail,Total cost of diesel fuel,Dollars,81,units ,0,39788800
+1986,Canada,2016A000011124,Regional railways,Total diesel,Litres,203,thousands,3,165663
+1986,Canada,2016A000011124,Regional railways,"Diesel, freight",Litres,203,thousands,3,141530
+1986,Canada,2016A000011124,Regional railways,"Diesel, passenger",Litres,203,thousands,3,8198
+1986,Canada,2016A000011124,Regional railways,"Diesel, yard switching",Litres,203,thousands,3,11308
+1986,Canada,2016A000011124,Regional railways,"Diesel, work train",Litres,203,thousands,3,4628
+1986,Canada,2016A000011124,Regional railways,Total cost of diesel fuel,Dollars,81,units ,0,49235853
+1987,Canada,2016A000011124,Total companies,Total diesel,Litres,203,thousands,3,2191002
+1987,Canada,2016A000011124,Total companies,"Diesel, freight",Litres,203,thousands,3,1895467
+1987,Canada,2016A000011124,Total companies,"Diesel, passenger",Litres,203,thousands,3,153233
+1987,Canada,2016A000011124,Total companies,"Diesel, yard switching",Litres,203,thousands,3,118622
+1987,Canada,2016A000011124,Total companies,"Diesel, work train",Litres,203,thousands,3,23680
+1987,Canada,2016A000011124,Total companies,Total cost of diesel fuel,Dollars,81,units ,0,656830418
+1987,Canada,2016A000011124,Canadian National,Total diesel,Litres,203,thousands,3,995041
+1987,Canada,2016A000011124,Canadian National,"Diesel, freight",Litres,203,thousands,3,924638
+1987,Canada,2016A000011124,Canadian National,"Diesel, passenger",Litres,203,thousands,3,0
+1987,Canada,2016A000011124,Canadian National,"Diesel, yard switching",Litres,203,thousands,3,60290
+1987,Canada,2016A000011124,Canadian National,"Diesel, work train",Litres,203,thousands,3,10113
+1987,Canada,2016A000011124,Canadian National,Total cost of diesel fuel,Dollars,81,units ,0,320653715
+1987,Canada,2016A000011124,Canadian Pacific,Total diesel,Litres,203,thousands,3,884793
+1987,Canada,2016A000011124,Canadian Pacific,"Diesel, freight",Litres,203,thousands,3,828670
+1987,Canada,2016A000011124,Canadian Pacific,"Diesel, passenger",Litres,203,thousands,3,0
+1987,Canada,2016A000011124,Canadian Pacific,"Diesel, yard switching",Litres,203,thousands,3,47461
+1987,Canada,2016A000011124,Canadian Pacific,"Diesel, work train",Litres,203,thousands,3,8662
+1987,Canada,2016A000011124,Canadian Pacific,Total cost of diesel fuel,Dollars,81,units ,0,256105141
+1987,Canada,2016A000011124,VIA Rail,Total diesel,Litres,203,thousands,3,145475
+1987,Canada,2016A000011124,VIA Rail,"Diesel, freight",Litres,203,thousands,3,0
+1987,Canada,2016A000011124,VIA Rail,"Diesel, passenger",Litres,203,thousands,3,145475
+1987,Canada,2016A000011124,VIA Rail,"Diesel, yard switching",Litres,203,thousands,3,0
+1987,Canada,2016A000011124,VIA Rail,"Diesel, work train",Litres,203,thousands,3,0
+1987,Canada,2016A000011124,VIA Rail,Total cost of diesel fuel,Dollars,81,units ,0,33299000
+1987,Canada,2016A000011124,Regional railways,Total diesel,Litres,203,thousands,3,165693
+1987,Canada,2016A000011124,Regional railways,"Diesel, freight",Litres,203,thousands,3,142159
+1987,Canada,2016A000011124,Regional railways,"Diesel, passenger",Litres,203,thousands,3,7758
+1987,Canada,2016A000011124,Regional railways,"Diesel, yard switching",Litres,203,thousands,3,10871
+1987,Canada,2016A000011124,Regional railways,"Diesel, work train",Litres,203,thousands,3,4904
+1987,Canada,2016A000011124,Regional railways,Total cost of diesel fuel,Dollars,81,units ,0,46772562
+1988,Canada,2016A000011124,Total companies,Total diesel,Litres,203,thousands,3,2220346
+1988,Canada,2016A000011124,Total companies,"Diesel, freight",Litres,203,thousands,3,1954146
+1988,Canada,2016A000011124,Total companies,"Diesel, passenger",Litres,203,thousands,3,125356
+1988,Canada,2016A000011124,Total companies,"Diesel, yard switching",Litres,203,thousands,3,118128
+1988,Canada,2016A000011124,Total companies,"Diesel, work train",Litres,203,thousands,3,22716
+1988,Canada,2016A000011124,Total companies,Total cost of diesel fuel,Dollars,81,units ,0,656075749
+1988,Canada,2016A000011124,Canadian National,Total diesel,Litres,203,thousands,3,1035511
+1988,Canada,2016A000011124,Canadian National,"Diesel, freight",Litres,203,thousands,3,966816
+1988,Canada,2016A000011124,Canadian National,"Diesel, passenger",Litres,203,thousands,3,0
+1988,Canada,2016A000011124,Canadian National,"Diesel, yard switching",Litres,203,thousands,3,58909
+1988,Canada,2016A000011124,Canadian National,"Diesel, work train",Litres,203,thousands,3,9787
+1988,Canada,2016A000011124,Canadian National,Total cost of diesel fuel,Dollars,81,units ,0,320435509
+1988,Canada,2016A000011124,Canadian Pacific,Total diesel,Litres,203,thousands,3,885311
+1988,Canada,2016A000011124,Canadian Pacific,"Diesel, freight",Litres,203,thousands,3,829976
+1988,Canada,2016A000011124,Canadian Pacific,"Diesel, passenger",Litres,203,thousands,3,0
+1988,Canada,2016A000011124,Canadian Pacific,"Diesel, yard switching",Litres,203,thousands,3,47265
+1988,Canada,2016A000011124,Canadian Pacific,"Diesel, work train",Litres,203,thousands,3,8070
+1988,Canada,2016A000011124,Canadian Pacific,Total cost of diesel fuel,Dollars,81,units ,0,249715146
+1988,Canada,2016A000011124,VIA Rail,Total diesel,Litres,203,thousands,3,117560
+1988,Canada,2016A000011124,VIA Rail,"Diesel, freight",Litres,203,thousands,3,0
+1988,Canada,2016A000011124,VIA Rail,"Diesel, passenger",Litres,203,thousands,3,117560
+1988,Canada,2016A000011124,VIA Rail,"Diesel, yard switching",Litres,203,thousands,3,0
+1988,Canada,2016A000011124,VIA Rail,"Diesel, work train",Litres,203,thousands,3,0
+1988,Canada,2016A000011124,VIA Rail,Total cost of diesel fuel,Dollars,81,units ,0,36446000
+1988,Canada,2016A000011124,Regional railways,Total diesel,Litres,203,thousands,3,181964
+1988,Canada,2016A000011124,Regional railways,"Diesel, freight",Litres,203,thousands,3,157354
+1988,Canada,2016A000011124,Regional railways,"Diesel, passenger",Litres,203,thousands,3,7796
+1988,Canada,2016A000011124,Regional railways,"Diesel, yard switching",Litres,203,thousands,3,11955
+1988,Canada,2016A000011124,Regional railways,"Diesel, work train",Litres,203,thousands,3,4859
+1988,Canada,2016A000011124,Regional railways,Total cost of diesel fuel,Dollars,81,units ,0,49479094
+1989,Canada,2016A000011124,Total companies,Total diesel,Litres,203,thousands,3,2024349
+1989,Canada,2016A000011124,Total companies,"Diesel, freight",Litres,203,thousands,3,1770873
+1989,Canada,2016A000011124,Total companies,"Diesel, passenger",Litres,203,thousands,3,126605
+1989,Canada,2016A000011124,Total companies,"Diesel, yard switching",Litres,203,thousands,3,109556
+1989,Canada,2016A000011124,Total companies,"Diesel, work train",Litres,203,thousands,3,17315
+1989,Canada,2016A000011124,Total companies,Total cost of diesel fuel,Dollars,81,units ,0,613680725
+1989,Canada,2016A000011124,Canadian National,Total diesel,Litres,203,thousands,3,906336
+1989,Canada,2016A000011124,Canadian National,"Diesel, freight",Litres,203,thousands,3,845541
+1989,Canada,2016A000011124,Canadian National,"Diesel, passenger",Litres,203,thousands,3,0
+1989,Canada,2016A000011124,Canadian National,"Diesel, yard switching",Litres,203,thousands,3,52956
+1989,Canada,2016A000011124,Canadian National,"Diesel, work train",Litres,203,thousands,3,7840
+1989,Canada,2016A000011124,Canadian National,Total cost of diesel fuel,Dollars,81,units ,0,301815033
+1989,Canada,2016A000011124,Canadian Pacific,Total diesel,Litres,203,thousands,3,817799
+1989,Canada,2016A000011124,Canadian Pacific,"Diesel, freight",Litres,203,thousands,3,769307
+1989,Canada,2016A000011124,Canadian Pacific,"Diesel, passenger",Litres,203,thousands,3,0
+1989,Canada,2016A000011124,Canadian Pacific,"Diesel, yard switching",Litres,203,thousands,3,43515
+1989,Canada,2016A000011124,Canadian Pacific,"Diesel, work train",Litres,203,thousands,3,4977
+1989,Canada,2016A000011124,Canadian Pacific,Total cost of diesel fuel,Dollars,81,units ,0,229441906
+1989,Canada,2016A000011124,VIA Rail,Total diesel,Litres,203,thousands,3,116995
+1989,Canada,2016A000011124,VIA Rail,"Diesel, freight",Litres,203,thousands,3,0
+1989,Canada,2016A000011124,VIA Rail,"Diesel, passenger",Litres,203,thousands,3,116995
+1989,Canada,2016A000011124,VIA Rail,"Diesel, yard switching",Litres,203,thousands,3,0
+1989,Canada,2016A000011124,VIA Rail,"Diesel, work train",Litres,203,thousands,3,0
+1989,Canada,2016A000011124,VIA Rail,Total cost of diesel fuel,Dollars,81,units ,0,30405748
+1989,Canada,2016A000011124,Regional railways,Total diesel,Litres,203,thousands,3,183219
+1989,Canada,2016A000011124,Regional railways,"Diesel, freight",Litres,203,thousands,3,156025
+1989,Canada,2016A000011124,Regional railways,"Diesel, passenger",Litres,203,thousands,3,9610
+1989,Canada,2016A000011124,Regional railways,"Diesel, yard switching",Litres,203,thousands,3,13086
+1989,Canada,2016A000011124,Regional railways,"Diesel, work train",Litres,203,thousands,3,4498
+1989,Canada,2016A000011124,Regional railways,Total cost of diesel fuel,Dollars,81,units ,0,52018038
+1990,Canada,2016A000011124,Total companies,Total diesel,Litres,203,thousands,3,1913814
+1990,Canada,2016A000011124,Total companies,"Diesel, freight",Litres,203,thousands,3,1709760
+1990,Canada,2016A000011124,Total companies,"Diesel, passenger",Litres,203,thousands,3,74878
+1990,Canada,2016A000011124,Total companies,"Diesel, yard switching",Litres,203,thousands,3,116117
+1990,Canada,2016A000011124,Total companies,"Diesel, work train",Litres,203,thousands,3,13058
+1990,Canada,2016A000011124,Total companies,Total cost of diesel fuel,Dollars,81,units ,0,651420485
+1990,Canada,2016A000011124,Canadian National,Total diesel,Litres,203,thousands,3,879142
+1990,Canada,2016A000011124,Canadian National,"Diesel, freight",Litres,203,thousands,3,814586
+1990,Canada,2016A000011124,Canadian National,"Diesel, passenger",Litres,203,thousands,3,0
+1990,Canada,2016A000011124,Canadian National,"Diesel, yard switching",Litres,203,thousands,3,58420
+1990,Canada,2016A000011124,Canadian National,"Diesel, work train",Litres,203,thousands,3,6136
+1990,Canada,2016A000011124,Canadian National,Total cost of diesel fuel,Dollars,81,units ,0,319320848
+1990,Canada,2016A000011124,Canadian Pacific,Total diesel,Litres,203,thousands,3,814917
+1990,Canada,2016A000011124,Canadian Pacific,"Diesel, freight",Litres,203,thousands,3,767230
+1990,Canada,2016A000011124,Canadian Pacific,"Diesel, passenger",Litres,203,thousands,3,0
+1990,Canada,2016A000011124,Canadian Pacific,"Diesel, yard switching",Litres,203,thousands,3,44565
+1990,Canada,2016A000011124,Canadian Pacific,"Diesel, work train",Litres,203,thousands,3,3122
+1990,Canada,2016A000011124,Canadian Pacific,Total cost of diesel fuel,Dollars,81,units ,0,259809657
+1990,Canada,2016A000011124,VIA Rail,Total diesel,Litres,203,thousands,3,68857
+1990,Canada,2016A000011124,VIA Rail,"Diesel, freight",Litres,203,thousands,3,0
+1990,Canada,2016A000011124,VIA Rail,"Diesel, passenger",Litres,203,thousands,3,68110
+1990,Canada,2016A000011124,VIA Rail,"Diesel, yard switching",Litres,203,thousands,3,748
+1990,Canada,2016A000011124,VIA Rail,"Diesel, work train",Litres,203,thousands,3,0
+1990,Canada,2016A000011124,VIA Rail,Total cost of diesel fuel,Dollars,81,units ,0,23942534
+1990,Canada,2016A000011124,Regional railways,Total diesel,Litres,203,thousands,3,150898
+1990,Canada,2016A000011124,Regional railways,"Diesel, freight",Litres,203,thousands,3,127944
+1990,Canada,2016A000011124,Regional railways,"Diesel, passenger",Litres,203,thousands,3,6769
+1990,Canada,2016A000011124,Regional railways,"Diesel, yard switching",Litres,203,thousands,3,12384
+1990,Canada,2016A000011124,Regional railways,"Diesel, work train",Litres,203,thousands,3,3801
+1990,Canada,2016A000011124,Regional railways,Total cost of diesel fuel,Dollars,81,units ,0,48347446
+1991,Canada,2016A000011124,Total companies,Total diesel,Litres,203,thousands,3,1972528
+1991,Canada,2016A000011124,Total companies,"Diesel, freight",Litres,203,thousands,3,1774337
+1991,Canada,2016A000011124,Total companies,"Diesel, passenger",Litres,203,thousands,3,70096
+1991,Canada,2016A000011124,Total companies,"Diesel, yard switching",Litres,203,thousands,3,116916
+1991,Canada,2016A000011124,Total companies,"Diesel, work train",Litres,203,thousands,3,11179
+1991,Canada,2016A000011124,Total companies,Total cost of diesel fuel,Dollars,81,units ,0,641975222
+1991,Canada,2016A000011124,Canadian National,Total diesel,Litres,203,thousands,3,911080
+1991,Canada,2016A000011124,Canadian National,"Diesel, freight",Litres,203,thousands,3,849186
+1991,Canada,2016A000011124,Canadian National,"Diesel, passenger",Litres,203,thousands,3,0
+1991,Canada,2016A000011124,Canadian National,"Diesel, yard switching",Litres,203,thousands,3,58616
+1991,Canada,2016A000011124,Canadian National,"Diesel, work train",Litres,203,thousands,3,3277
+1991,Canada,2016A000011124,Canadian National,Total cost of diesel fuel,Dollars,81,units ,0,324432341
+1991,Canada,2016A000011124,Canadian Pacific,Total diesel,Litres,203,thousands,3,845596
+1991,Canada,2016A000011124,Canadian Pacific,"Diesel, freight",Litres,203,thousands,3,794465
+1991,Canada,2016A000011124,Canadian Pacific,"Diesel, passenger",Litres,203,thousands,3,0
+1991,Canada,2016A000011124,Canadian Pacific,"Diesel, yard switching",Litres,203,thousands,3,46460
+1991,Canada,2016A000011124,Canadian Pacific,"Diesel, work train",Litres,203,thousands,3,4671
+1991,Canada,2016A000011124,Canadian Pacific,Total cost of diesel fuel,Dollars,81,units ,0,252644218
+1991,Canada,2016A000011124,VIA Rail,Total diesel,Litres,203,thousands,3,63955
+1991,Canada,2016A000011124,VIA Rail,"Diesel, freight",Litres,203,thousands,3,0
+1991,Canada,2016A000011124,VIA Rail,"Diesel, passenger",Litres,203,thousands,3,63446
+1991,Canada,2016A000011124,VIA Rail,"Diesel, yard switching",Litres,203,thousands,3,509
+1991,Canada,2016A000011124,VIA Rail,"Diesel, work train",Litres,203,thousands,3,0
+1991,Canada,2016A000011124,VIA Rail,Total cost of diesel fuel,Dollars,81,units ,0,19044806
+1991,Canada,2016A000011124,Regional railways,Total diesel,Litres,203,thousands,3,151898
+1991,Canada,2016A000011124,Regional railways,"Diesel, freight",Litres,203,thousands,3,130685
+1991,Canada,2016A000011124,Regional railways,"Diesel, passenger",Litres,203,thousands,3,6650
+1991,Canada,2016A000011124,Regional railways,"Diesel, yard switching",Litres,203,thousands,3,11331
+1991,Canada,2016A000011124,Regional railways,"Diesel, work train",Litres,203,thousands,3,3231
+1991,Canada,2016A000011124,Regional railways,Total cost of diesel fuel,Dollars,81,units ,0,45853857
+1992,Canada,2016A000011124,Total companies,Total diesel,Litres,203,thousands,3,1894237
+1992,Canada,2016A000011124,Total companies,"Diesel, freight",Litres,203,thousands,3,1704686
+1992,Canada,2016A000011124,Total companies,"Diesel, passenger",Litres,203,thousands,3,61535
+1992,Canada,2016A000011124,Total companies,"Diesel, yard switching",Litres,203,thousands,3,116061
+1992,Canada,2016A000011124,Total companies,"Diesel, work train",Litres,203,thousands,3,11955
+1992,Canada,2016A000011124,Total companies,Total cost of diesel fuel,Dollars,81,units ,0,573189775
+1992,Canada,2016A000011124,Canadian National,Total diesel,Litres,203,thousands,3,895952
+1992,Canada,2016A000011124,Canadian National,"Diesel, freight",Litres,203,thousands,3,832667
+1992,Canada,2016A000011124,Canadian National,"Diesel, passenger",Litres,203,thousands,3,0
+1992,Canada,2016A000011124,Canadian National,"Diesel, yard switching",Litres,203,thousands,3,59031
+1992,Canada,2016A000011124,Canadian National,"Diesel, work train",Litres,203,thousands,3,4254
+1992,Canada,2016A000011124,Canadian National,Total cost of diesel fuel,Dollars,81,units ,0,290213000
+1992,Canada,2016A000011124,Canadian Pacific,Total diesel,Litres,203,thousands,3,795398
+1992,Canada,2016A000011124,Canadian Pacific,"Diesel, freight",Litres,203,thousands,3,744770
+1992,Canada,2016A000011124,Canadian Pacific,"Diesel, passenger",Litres,203,thousands,3,0
+1992,Canada,2016A000011124,Canadian Pacific,"Diesel, yard switching",Litres,203,thousands,3,46432
+1992,Canada,2016A000011124,Canadian Pacific,"Diesel, work train",Litres,203,thousands,3,4196
+1992,Canada,2016A000011124,Canadian Pacific,Total cost of diesel fuel,Dollars,81,units ,0,224245642
+1992,Canada,2016A000011124,VIA Rail,Total diesel,Litres,203,thousands,3,56010
+1992,Canada,2016A000011124,VIA Rail,"Diesel, freight",Litres,203,thousands,3,0
+1992,Canada,2016A000011124,VIA Rail,"Diesel, passenger",Litres,203,thousands,3,56010
+1992,Canada,2016A000011124,VIA Rail,"Diesel, yard switching",Litres,203,thousands,3,0
+1992,Canada,2016A000011124,VIA Rail,"Diesel, work train",Litres,203,thousands,3,0
+1992,Canada,2016A000011124,VIA Rail,Total cost of diesel fuel,Dollars,81,units ,0,15567796
+1992,Canada,2016A000011124,Regional railways,Total diesel,Litres,203,thousands,3,146876
+1992,Canada,2016A000011124,Regional railways,"Diesel, freight",Litres,203,thousands,3,127248
+1992,Canada,2016A000011124,Regional railways,"Diesel, passenger",Litres,203,thousands,3,5525
+1992,Canada,2016A000011124,Regional railways,"Diesel, yard switching",Litres,203,thousands,3,10598
+1992,Canada,2016A000011124,Regional railways,"Diesel, work train",Litres,203,thousands,3,3504
+1992,Canada,2016A000011124,Regional railways,Total cost of diesel fuel,Dollars,81,units ,0,43163337
+1993,Canada,2016A000011124,Total companies,Total diesel,Litres,203,thousands,3,1906796
+1993,Canada,2016A000011124,Total companies,"Diesel, freight",Litres,203,thousands,3,1711074
+1993,Canada,2016A000011124,Total companies,"Diesel, passenger",Litres,203,thousands,3,67002
+1993,Canada,2016A000011124,Total companies,"Diesel, yard switching",Litres,203,thousands,3,118454
+1993,Canada,2016A000011124,Total companies,"Diesel, work train",Litres,203,thousands,3,10266
+1993,Canada,2016A000011124,Total companies,Total cost of diesel fuel,Dollars,81,units ,0,578556585
+1993,Canada,2016A000011124,Canadian National,Total diesel,Litres,203,thousands,3,885216
+1993,Canada,2016A000011124,Canadian National,"Diesel, freight",Litres,203,thousands,3,822648
+1993,Canada,2016A000011124,Canadian National,"Diesel, passenger",Litres,203,thousands,3,0
+1993,Canada,2016A000011124,Canadian National,"Diesel, yard switching",Litres,203,thousands,3,58561
+1993,Canada,2016A000011124,Canadian National,"Diesel, work train",Litres,203,thousands,3,4007
+1993,Canada,2016A000011124,Canadian National,Total cost of diesel fuel,Dollars,81,units ,0,285326026
+1993,Canada,2016A000011124,Canadian Pacific,Total diesel,Litres,203,thousands,3,808162
+1993,Canada,2016A000011124,Canadian Pacific,"Diesel, freight",Litres,203,thousands,3,755527
+1993,Canada,2016A000011124,Canadian Pacific,"Diesel, passenger",Litres,203,thousands,3,0
+1993,Canada,2016A000011124,Canadian Pacific,"Diesel, yard switching",Litres,203,thousands,3,49177
+1993,Canada,2016A000011124,Canadian Pacific,"Diesel, work train",Litres,203,thousands,3,3458
+1993,Canada,2016A000011124,Canadian Pacific,Total cost of diesel fuel,Dollars,81,units ,0,235016513
+1993,Canada,2016A000011124,VIA Rail,Total diesel,Litres,203,thousands,3,61715
+1993,Canada,2016A000011124,VIA Rail,"Diesel, freight",Litres,203,thousands,3,0
+1993,Canada,2016A000011124,VIA Rail,"Diesel, passenger",Litres,203,thousands,3,61715
+1993,Canada,2016A000011124,VIA Rail,"Diesel, yard switching",Litres,203,thousands,3,0
+1993,Canada,2016A000011124,VIA Rail,"Diesel, work train",Litres,203,thousands,3,0
+1993,Canada,2016A000011124,VIA Rail,Total cost of diesel fuel,Dollars,81,units ,0,14839867
+1993,Canada,2016A000011124,Regional railways,Total diesel,Litres,203,thousands,3,151703
+1993,Canada,2016A000011124,Regional railways,"Diesel, freight",Litres,203,thousands,3,132900
+1993,Canada,2016A000011124,Regional railways,"Diesel, passenger",Litres,203,thousands,3,5287
+1993,Canada,2016A000011124,Regional railways,"Diesel, yard switching",Litres,203,thousands,3,10715
+1993,Canada,2016A000011124,Regional railways,"Diesel, work train",Litres,203,thousands,3,2801
+1993,Canada,2016A000011124,Regional railways,Total cost of diesel fuel,Dollars,81,units ,0,43374179
+1994,Canada,2016A000011124,Total companies,Total diesel,Litres,203,thousands,3,1986748
+1994,Canada,2016A000011124,Total companies,"Diesel, freight",Litres,203,thousands,3,1790386
+1994,Canada,2016A000011124,Total companies,"Diesel, passenger",Litres,203,thousands,3,57468
+1994,Canada,2016A000011124,Total companies,"Diesel, yard switching",Litres,203,thousands,3,127704
+1994,Canada,2016A000011124,Total companies,"Diesel, work train",Litres,203,thousands,3,11190
+1994,Canada,2016A000011124,Total companies,Total cost of diesel fuel,Dollars,81,units ,0,621047713
+1994,Canada,2016A000011124,Canadian National,Total diesel,Litres,203,thousands,3,877719
+1994,Canada,2016A000011124,Canadian National,"Diesel, freight",Litres,203,thousands,3,812258
+1994,Canada,2016A000011124,Canadian National,"Diesel, passenger",Litres,203,thousands,3,0
+1994,Canada,2016A000011124,Canadian National,"Diesel, yard switching",Litres,203,thousands,3,60817
+1994,Canada,2016A000011124,Canadian National,"Diesel, work train",Litres,203,thousands,3,4645
+1994,Canada,2016A000011124,Canadian National,Total cost of diesel fuel,Dollars,81,units ,0,304455808
+1994,Canada,2016A000011124,Canadian Pacific,Total diesel,Litres,203,thousands,3,885911
+1994,Canada,2016A000011124,Canadian Pacific,"Diesel, freight",Litres,203,thousands,3,829454
+1994,Canada,2016A000011124,Canadian Pacific,"Diesel, passenger",Litres,203,thousands,3,0
+1994,Canada,2016A000011124,Canadian Pacific,"Diesel, yard switching",Litres,203,thousands,3,54390
+1994,Canada,2016A000011124,Canadian Pacific,"Diesel, work train",Litres,203,thousands,3,2068
+1994,Canada,2016A000011124,Canadian Pacific,Total cost of diesel fuel,Dollars,81,units ,0,253589040
+1994,Canada,2016A000011124,VIA Rail,Total diesel,Litres,203,thousands,3,53036
+1994,Canada,2016A000011124,VIA Rail,"Diesel, freight",Litres,203,thousands,3,0
+1994,Canada,2016A000011124,VIA Rail,"Diesel, passenger",Litres,203,thousands,3,53036
+1994,Canada,2016A000011124,VIA Rail,"Diesel, yard switching",Litres,203,thousands,3,0
+1994,Canada,2016A000011124,VIA Rail,"Diesel, work train",Litres,203,thousands,3,0
+1994,Canada,2016A000011124,VIA Rail,Total cost of diesel fuel,Dollars,81,units ,0,15902033
+1994,Canada,2016A000011124,Regional railways,Total diesel,Litres,203,thousands,3,170082
+1994,Canada,2016A000011124,Regional railways,"Diesel, freight",Litres,203,thousands,3,148675
+1994,Canada,2016A000011124,Regional railways,"Diesel, passenger",Litres,203,thousands,3,4432
+1994,Canada,2016A000011124,Regional railways,"Diesel, yard switching",Litres,203,thousands,3,12498
+1994,Canada,2016A000011124,Regional railways,"Diesel, work train",Litres,203,thousands,3,4477
+1994,Canada,2016A000011124,Regional railways,Total cost of diesel fuel,Dollars,81,units ,0,47100832
+1995,Canada,2016A000011124,Total companies,Total diesel,Litres,203,thousands,3,1998053
+1995,Canada,2016A000011124,Total companies,"Diesel, freight",Litres,203,thousands,3,1804773
+1995,Canada,2016A000011124,Total companies,"Diesel, passenger",Litres,203,thousands,3,53673
+1995,Canada,2016A000011124,Total companies,"Diesel, yard switching",Litres,203,thousands,3,130415
+1995,Canada,2016A000011124,Total companies,"Diesel, work train",Litres,203,thousands,3,9193
+1995,Canada,2016A000011124,Total companies,Total cost of diesel fuel,Dollars,81,units ,0,623650907
+1995,Canada,2016A000011124,Canadian National,Total diesel,Litres,203,thousands,3,884088
+1995,Canada,2016A000011124,Canadian National,"Diesel, freight",Litres,203,thousands,3,815222
+1995,Canada,2016A000011124,Canadian National,"Diesel, passenger",Litres,203,thousands,3,0
+1995,Canada,2016A000011124,Canadian National,"Diesel, yard switching",Litres,203,thousands,3,65907
+1995,Canada,2016A000011124,Canadian National,"Diesel, work train",Litres,203,thousands,3,2960
+1995,Canada,2016A000011124,Canadian National,Total cost of diesel fuel,Dollars,81,units ,0,301603302
+1995,Canada,2016A000011124,Canadian Pacific,Total diesel,Litres,203,thousands,3,889738
+1995,Canada,2016A000011124,Canadian Pacific,"Diesel, freight",Litres,203,thousands,3,836672
+1995,Canada,2016A000011124,Canadian Pacific,"Diesel, passenger",Litres,203,thousands,3,0
+1995,Canada,2016A000011124,Canadian Pacific,"Diesel, yard switching",Litres,203,thousands,3,50845
+1995,Canada,2016A000011124,Canadian Pacific,"Diesel, work train",Litres,203,thousands,3,2222
+1995,Canada,2016A000011124,Canadian Pacific,Total cost of diesel fuel,Dollars,81,units ,0,259554505
+1995,Canada,2016A000011124,VIA Rail,Total diesel,Litres,203,thousands,3,49309
+1995,Canada,2016A000011124,VIA Rail,"Diesel, freight",Litres,203,thousands,3,0
+1995,Canada,2016A000011124,VIA Rail,"Diesel, passenger",Litres,203,thousands,3,49309
+1995,Canada,2016A000011124,VIA Rail,"Diesel, yard switching",Litres,203,thousands,3,0
+1995,Canada,2016A000011124,VIA Rail,"Diesel, work train",Litres,203,thousands,3,0
+1995,Canada,2016A000011124,VIA Rail,Total cost of diesel fuel,Dollars,81,units ,0,15929133
+1995,Canada,2016A000011124,Regional railways,Total diesel,Litres,203,thousands,3,174918
+1995,Canada,2016A000011124,Regional railways,"Diesel, freight",Litres,203,thousands,3,152879
+1995,Canada,2016A000011124,Regional railways,"Diesel, passenger",Litres,203,thousands,3,4364
+1995,Canada,2016A000011124,Regional railways,"Diesel, yard switching",Litres,203,thousands,3,13663
+1995,Canada,2016A000011124,Regional railways,"Diesel, work train",Litres,203,thousands,3,4012
+1995,Canada,2016A000011124,Regional railways,Total cost of diesel fuel,Dollars,81,units ,0,46563967
+1996,Canada,2016A000011124,Total companies,Total diesel,Litres,203,thousands,3,1994354
+1996,Canada,2016A000011124,Total companies,"Diesel, freight",Litres,203,thousands,3,1792495
+1996,Canada,2016A000011124,Total companies,"Diesel, passenger",Litres,203,thousands,3,66285
+1996,Canada,2016A000011124,Total companies,"Diesel, yard switching",Litres,203,thousands,3,129372
+1996,Canada,2016A000011124,Total companies,"Diesel, work train",Litres,203,thousands,3,6203
+1996,Canada,2016A000011124,Total companies,Total cost of diesel fuel,Dollars,81,units ,0,652615580
+1996,Canada,2016A000011124,Canadian National,Total diesel,Litres,203,thousands,3,944376
+1996,Canada,2016A000011124,Canadian National,"Diesel, freight",Litres,203,thousands,3,873314
+1996,Canada,2016A000011124,Canadian National,"Diesel, passenger",Litres,203,thousands,3,0
+1996,Canada,2016A000011124,Canadian National,"Diesel, yard switching",Litres,203,thousands,3,67590
+1996,Canada,2016A000011124,Canadian National,"Diesel, work train",Litres,203,thousands,3,3472
+1996,Canada,2016A000011124,Canadian National,Total cost of diesel fuel,Dollars,81,units ,0,332845996
+1996,Canada,2016A000011124,Canadian Pacific,Total diesel,Litres,203,thousands,3,814172
+1996,Canada,2016A000011124,Canadian Pacific,"Diesel, freight",Litres,203,thousands,3,764952
+1996,Canada,2016A000011124,Canadian Pacific,"Diesel, passenger",Litres,203,thousands,3,0
+1996,Canada,2016A000011124,Canadian Pacific,"Diesel, yard switching",Litres,203,thousands,3,48868
+1996,Canada,2016A000011124,Canadian Pacific,"Diesel, work train",Litres,203,thousands,3,352
+1996,Canada,2016A000011124,Canadian Pacific,Total cost of diesel fuel,Dollars,81,units ,0,251828234
+1996,Canada,2016A000011124,VIA Rail,Total diesel,Litres,203,thousands,3,61391
+1996,Canada,2016A000011124,VIA Rail,"Diesel, freight",Litres,203,thousands,3,0
+1996,Canada,2016A000011124,VIA Rail,"Diesel, passenger",Litres,203,thousands,3,61391
+1996,Canada,2016A000011124,VIA Rail,"Diesel, yard switching",Litres,203,thousands,3,0
+1996,Canada,2016A000011124,VIA Rail,"Diesel, work train",Litres,203,thousands,3,0
+1996,Canada,2016A000011124,VIA Rail,Total cost of diesel fuel,Dollars,81,units ,0,18887945
+1996,Canada,2016A000011124,Regional railways,Total diesel,Litres,203,thousands,3,174415
+1996,Canada,2016A000011124,Regional railways,"Diesel, freight",Litres,203,thousands,3,154229
+1996,Canada,2016A000011124,Regional railways,"Diesel, passenger",Litres,203,thousands,3,4893
+1996,Canada,2016A000011124,Regional railways,"Diesel, yard switching",Litres,203,thousands,3,12914
+1996,Canada,2016A000011124,Regional railways,"Diesel, work train",Litres,203,thousands,3,2378
+1996,Canada,2016A000011124,Regional railways,Total cost of diesel fuel,Dollars,81,units ,0,49053405
+1997,Canada,2016A000011124,Total companies,Total diesel,Litres,203,thousands,3,2204130
+1997,Canada,2016A000011124,Total companies,"Diesel, freight",Litres,203,thousands,3,2011506
+1997,Canada,2016A000011124,Total companies,"Diesel, passenger",Litres,203,thousands,3,64807
+1997,Canada,2016A000011124,Total companies,"Diesel, yard switching",Litres,203,thousands,3,115425
+1997,Canada,2016A000011124,Total companies,"Diesel, work train",Litres,203,thousands,3,12390
+1997,Canada,2016A000011124,Total companies,Total cost of diesel fuel,Dollars,81,units ,0,720134384
+1997,Canada,2016A000011124,Canadian National,Total diesel,Litres,203,thousands,3,1072255
+1997,Canada,2016A000011124,Canadian National,"Diesel, freight",Litres,203,thousands,3,1018197
+1997,Canada,2016A000011124,Canadian National,"Diesel, passenger",Litres,203,thousands,3,0
+1997,Canada,2016A000011124,Canadian National,"Diesel, yard switching",Litres,203,thousands,3,51003
+1997,Canada,2016A000011124,Canadian National,"Diesel, work train",Litres,203,thousands,3,3056
+1997,Canada,2016A000011124,Canadian National,Total cost of diesel fuel,Dollars,81,units ,0,356912660
+1997,Canada,2016A000011124,Canadian Pacific,Total diesel,Litres,203,thousands,3,870381
+1997,Canada,2016A000011124,Canadian Pacific,"Diesel, freight",Litres,203,thousands,3,818037
+1997,Canada,2016A000011124,Canadian Pacific,"Diesel, passenger",Litres,203,thousands,3,0
+1997,Canada,2016A000011124,Canadian Pacific,"Diesel, yard switching",Litres,203,thousands,3,50538
+1997,Canada,2016A000011124,Canadian Pacific,"Diesel, work train",Litres,203,thousands,3,1805
+1997,Canada,2016A000011124,Canadian Pacific,Total cost of diesel fuel,Dollars,81,units ,0,280382550
+1997,Canada,2016A000011124,VIA Rail,Total diesel,Litres,203,thousands,3,60725
+1997,Canada,2016A000011124,VIA Rail,"Diesel, freight",Litres,203,thousands,3,0
+1997,Canada,2016A000011124,VIA Rail,"Diesel, passenger",Litres,203,thousands,3,60725
+1997,Canada,2016A000011124,VIA Rail,"Diesel, yard switching",Litres,203,thousands,3,0
+1997,Canada,2016A000011124,VIA Rail,"Diesel, work train",Litres,203,thousands,3,0
+1997,Canada,2016A000011124,VIA Rail,Total cost of diesel fuel,Dollars,81,units ,0,19821813
+1997,Canada,2016A000011124,Regional railways,Total diesel,Litres,203,thousands,3,200768
+1997,Canada,2016A000011124,Regional railways,"Diesel, freight",Litres,203,thousands,3,175273
+1997,Canada,2016A000011124,Regional railways,"Diesel, passenger",Litres,203,thousands,3,4083
+1997,Canada,2016A000011124,Regional railways,"Diesel, yard switching",Litres,203,thousands,3,13884
+1997,Canada,2016A000011124,Regional railways,"Diesel, work train",Litres,203,thousands,3,7529
+1997,Canada,2016A000011124,Regional railways,Total cost of diesel fuel,Dollars,81,units ,0,63017361
+1998,Canada,2016A000011124,Total companies,Total diesel,Litres,203,thousands,3,2077113
+1998,Canada,2016A000011124,Total companies,"Diesel, freight",Litres,203,thousands,3,1887488
+1998,Canada,2016A000011124,Total companies,"Diesel, passenger",Litres,203,thousands,3,62823
+1998,Canada,2016A000011124,Total companies,"Diesel, yard switching",Litres,203,thousands,3,116080
+1998,Canada,2016A000011124,Total companies,"Diesel, work train",Litres,203,thousands,3,10722
+1998,Canada,2016A000011124,Total companies,Total cost of diesel fuel,Dollars,81,units ,0,582158704
+1998,Canada,2016A000011124,Canadian National,Total diesel,Litres,203,thousands,3,1002939
+1998,Canada,2016A000011124,Canadian National,"Diesel, freight",Litres,203,thousands,3,944588
+1998,Canada,2016A000011124,Canadian National,"Diesel, passenger",Litres,203,thousands,3,0
+1998,Canada,2016A000011124,Canadian National,"Diesel, yard switching",Litres,203,thousands,3,54215
+1998,Canada,2016A000011124,Canadian National,"Diesel, work train",Litres,203,thousands,3,4136
+1998,Canada,2016A000011124,Canadian National,Total cost of diesel fuel,Dollars,81,units ,0,274829019
+1998,Canada,2016A000011124,Canadian Pacific,Total diesel,Litres,203,thousands,3,815556
+1998,Canada,2016A000011124,Canadian Pacific,"Diesel, freight",Litres,203,thousands,3,765316
+1998,Canada,2016A000011124,Canadian Pacific,"Diesel, passenger",Litres,203,thousands,3,0
+1998,Canada,2016A000011124,Canadian Pacific,"Diesel, yard switching",Litres,203,thousands,3,48111
+1998,Canada,2016A000011124,Canadian Pacific,"Diesel, work train",Litres,203,thousands,3,2128
+1998,Canada,2016A000011124,Canadian Pacific,Total cost of diesel fuel,Dollars,81,units ,0,235867167
+1998,Canada,2016A000011124,VIA Rail,Total diesel,Litres,203,thousands,3,58588
+1998,Canada,2016A000011124,VIA Rail,"Diesel, freight",Litres,203,thousands,3,0
+1998,Canada,2016A000011124,VIA Rail,"Diesel, passenger",Litres,203,thousands,3,58403
+1998,Canada,2016A000011124,VIA Rail,"Diesel, yard switching",Litres,203,thousands,3,185
+1998,Canada,2016A000011124,VIA Rail,"Diesel, work train",Litres,203,thousands,3,0
+1998,Canada,2016A000011124,VIA Rail,Total cost of diesel fuel,Dollars,81,units ,0,17435799
+1998,Canada,2016A000011124,Regional railways,Total diesel,Litres,203,thousands,3,200030
+1998,Canada,2016A000011124,Regional railways,"Diesel, freight",Litres,203,thousands,3,177583
+1998,Canada,2016A000011124,Regional railways,"Diesel, passenger",Litres,203,thousands,3,4420
+1998,Canada,2016A000011124,Regional railways,"Diesel, yard switching",Litres,203,thousands,3,13569
+1998,Canada,2016A000011124,Regional railways,"Diesel, work train",Litres,203,thousands,3,4458
+1998,Canada,2016A000011124,Regional railways,Total cost of diesel fuel,Dollars,81,units ,0,54026719
+1999,Canada,2016A000011124,Total companies,Total diesel,Litres,203,thousands,3,1950034
+1999,Canada,2016A000011124,Total companies,"Diesel, freight",Litres,203,thousands,3,1784841
+1999,Canada,2016A000011124,Total companies,"Diesel, passenger",Litres,203,thousands,3,62921
+1999,Canada,2016A000011124,Total companies,"Diesel, yard switching",Litres,203,thousands,3,94782
+1999,Canada,2016A000011124,Total companies,"Diesel, work train",Litres,203,thousands,3,7491
+1999,Canada,2016A000011124,Total companies,Total cost of diesel fuel,Dollars,81,units ,0,551887072
+1999,Canada,2016A000011124,Canadian National,Total diesel,Litres,203,thousands,3,882300
+1999,Canada,2016A000011124,Canadian National,"Diesel, freight",Litres,203,thousands,3,833304
+1999,Canada,2016A000011124,Canadian National,"Diesel, passenger",Litres,203,thousands,3,0
+1999,Canada,2016A000011124,Canadian National,"Diesel, yard switching",Litres,203,thousands,3,47904
+1999,Canada,2016A000011124,Canadian National,"Diesel, work train",Litres,203,thousands,3,1092
+1999,Canada,2016A000011124,Canadian National,Total cost of diesel fuel,Dollars,81,units ,0,240069607
+1999,Canada,2016A000011124,Canadian Pacific,Total diesel,Litres,203,thousands,3,798652
+1999,Canada,2016A000011124,Canadian Pacific,"Diesel, freight",Litres,203,thousands,3,762354
+1999,Canada,2016A000011124,Canadian Pacific,"Diesel, passenger",Litres,203,thousands,3,0
+1999,Canada,2016A000011124,Canadian Pacific,"Diesel, yard switching",Litres,203,thousands,3,32868
+1999,Canada,2016A000011124,Canadian Pacific,"Diesel, work train",Litres,203,thousands,3,3430
+1999,Canada,2016A000011124,Canadian Pacific,Total cost of diesel fuel,Dollars,81,units ,0,228045217
+1999,Canada,2016A000011124,VIA Rail,Total diesel,Litres,203,thousands,3,58371
+1999,Canada,2016A000011124,VIA Rail,"Diesel, freight",Litres,203,thousands,3,0
+1999,Canada,2016A000011124,VIA Rail,"Diesel, passenger",Litres,203,thousands,3,58195
+1999,Canada,2016A000011124,VIA Rail,"Diesel, yard switching",Litres,203,thousands,3,175
+1999,Canada,2016A000011124,VIA Rail,"Diesel, work train",Litres,203,thousands,3,0
+1999,Canada,2016A000011124,VIA Rail,Total cost of diesel fuel,Dollars,81,units ,0,17454192
+1999,Canada,2016A000011124,Regional railways,Total diesel,Litres,203,thousands,3,210713
+1999,Canada,2016A000011124,Regional railways,"Diesel, freight",Litres,203,thousands,3,189183
+1999,Canada,2016A000011124,Regional railways,"Diesel, passenger",Litres,203,thousands,3,4726
+1999,Canada,2016A000011124,Regional railways,"Diesel, yard switching",Litres,203,thousands,3,13835
+1999,Canada,2016A000011124,Regional railways,"Diesel, work train",Litres,203,thousands,3,2969
+1999,Canada,2016A000011124,Regional railways,Total cost of diesel fuel,Dollars,81,units ,0,66318056
+2000,Canada,2016A000011124,Total companies,Total diesel,Litres,203,thousands,3,1977051
+2000,Canada,2016A000011124,Total companies,"Diesel, freight",Litres,203,thousands,3,1817271
+2000,Canada,2016A000011124,Total companies,"Diesel, passenger",Litres,203,thousands,3,66306
+2000,Canada,2016A000011124,Total companies,"Diesel, yard switching",Litres,203,thousands,3,87064
+2000,Canada,2016A000011124,Total companies,"Diesel, work train",Litres,203,thousands,3,6409
+2000,Canada,2016A000011124,Total companies,Total cost of diesel fuel,Dollars,81,units ,0,769755416
+2000,Canada,2016A000011124,Canadian National,Total diesel,Litres,203,thousands,3,866120
+2000,Canada,2016A000011124,Canadian National,"Diesel, freight",Litres,203,thousands,3,819369
+2000,Canada,2016A000011124,Canadian National,"Diesel, passenger",Litres,203,thousands,3,0
+2000,Canada,2016A000011124,Canadian National,"Diesel, yard switching",Litres,203,thousands,3,45709
+2000,Canada,2016A000011124,Canadian National,"Diesel, work train",Litres,203,thousands,3,1042
+2000,Canada,2016A000011124,Canadian National,Total cost of diesel fuel,Dollars,81,units ,0,323300204
+2000,Canada,2016A000011124,Canadian Pacific,Total diesel,Litres,203,thousands,3,819023
+2000,Canada,2016A000011124,Canadian Pacific,"Diesel, freight",Litres,203,thousands,3,791698
+2000,Canada,2016A000011124,Canadian Pacific,"Diesel, passenger",Litres,203,thousands,3,0
+2000,Canada,2016A000011124,Canadian Pacific,"Diesel, yard switching",Litres,203,thousands,3,25183
+2000,Canada,2016A000011124,Canadian Pacific,"Diesel, work train",Litres,203,thousands,3,2143
+2000,Canada,2016A000011124,Canadian Pacific,Total cost of diesel fuel,Dollars,81,units ,0,337645187
+2000,Canada,2016A000011124,VIA Rail,Total diesel,Litres,203,thousands,3,60955
+2000,Canada,2016A000011124,VIA Rail,"Diesel, freight",Litres,203,thousands,3,0
+2000,Canada,2016A000011124,VIA Rail,"Diesel, passenger",Litres,203,thousands,3,60756
+2000,Canada,2016A000011124,VIA Rail,"Diesel, yard switching",Litres,203,thousands,3,199
+2000,Canada,2016A000011124,VIA Rail,"Diesel, work train",Litres,203,thousands,3,0
+2000,Canada,2016A000011124,VIA Rail,Total cost of diesel fuel,Dollars,81,units ,0,21110011
+2000,Canada,2016A000011124,Regional railways,Total diesel,Litres,203,thousands,3,230953
+2000,Canada,2016A000011124,Regional railways,"Diesel, freight",Litres,203,thousands,3,206205
+2000,Canada,2016A000011124,Regional railways,"Diesel, passenger",Litres,203,thousands,3,5550
+2000,Canada,2016A000011124,Regional railways,"Diesel, yard switching",Litres,203,thousands,3,15973
+2000,Canada,2016A000011124,Regional railways,"Diesel, work train",Litres,203,thousands,3,3225
+2000,Canada,2016A000011124,Regional railways,Total cost of diesel fuel,Dollars,81,units ,0,87700014
+2001,Canada,2016A000011124,Total companies,Total diesel,Litres,203,thousands,3,1982053
+2001,Canada,2016A000011124,Total companies,"Diesel, freight",Litres,203,thousands,3,1821474
+2001,Canada,2016A000011124,Total companies,"Diesel, passenger",Litres,203,thousands,3,66789
+2001,Canada,2016A000011124,Total companies,"Diesel, yard switching",Litres,203,thousands,3,86397
+2001,Canada,2016A000011124,Total companies,"Diesel, work train",Litres,203,thousands,3,7393
+2001,Canada,2016A000011124,Total companies,Total cost of diesel fuel,Dollars,81,units ,0,798357529
+2001,Canada,2016A000011124,Canadian National,Total diesel,Litres,203,thousands,3,904984
+2001,Canada,2016A000011124,Canadian National,"Diesel, freight",Litres,203,thousands,3,856010
+2001,Canada,2016A000011124,Canadian National,"Diesel, passenger",Litres,203,thousands,3,0
+2001,Canada,2016A000011124,Canadian National,"Diesel, yard switching",Litres,203,thousands,3,47883
+2001,Canada,2016A000011124,Canadian National,"Diesel, work train",Litres,203,thousands,3,1091
+2001,Canada,2016A000011124,Canadian National,Total cost of diesel fuel,Dollars,81,units ,0,361620149
+2001,Canada,2016A000011124,Canadian Pacific,Total diesel,Litres,203,thousands,3,784208
+2001,Canada,2016A000011124,Canadian Pacific,"Diesel, freight",Litres,203,thousands,3,758391
+2001,Canada,2016A000011124,Canadian Pacific,"Diesel, passenger",Litres,203,thousands,3,0
+2001,Canada,2016A000011124,Canadian Pacific,"Diesel, yard switching",Litres,203,thousands,3,22744
+2001,Canada,2016A000011124,Canadian Pacific,"Diesel, work train",Litres,203,thousands,3,3072
+2001,Canada,2016A000011124,Canadian Pacific,Total cost of diesel fuel,Dollars,81,units ,0,320106500
+2001,Canada,2016A000011124,VIA Rail,Total diesel,Litres,203,thousands,3,61391
+2001,Canada,2016A000011124,VIA Rail,"Diesel, freight",Litres,203,thousands,3,0
+2001,Canada,2016A000011124,VIA Rail,"Diesel, passenger",Litres,203,thousands,3,61197
+2001,Canada,2016A000011124,VIA Rail,"Diesel, yard switching",Litres,203,thousands,3,195
+2001,Canada,2016A000011124,VIA Rail,"Diesel, work train",Litres,203,thousands,3,0
+2001,Canada,2016A000011124,VIA Rail,Total cost of diesel fuel,Dollars,81,units ,0,26457234
+2001,Canada,2016A000011124,Regional railways,Total diesel,Litres,203,thousands,3,231471
+2001,Canada,2016A000011124,Regional railways,"Diesel, freight",Litres,203,thousands,3,207073
+2001,Canada,2016A000011124,Regional railways,"Diesel, passenger",Litres,203,thousands,3,5593
+2001,Canada,2016A000011124,Regional railways,"Diesel, yard switching",Litres,203,thousands,3,15576
+2001,Canada,2016A000011124,Regional railways,"Diesel, work train",Litres,203,thousands,3,3230
+2001,Canada,2016A000011124,Regional railways,Total cost of diesel fuel,Dollars,81,units ,0,90173646
+2002,Canada,2016A000011124,Total companies,Total diesel,Litres,203,thousands,3,1969741
+2002,Canada,2016A000011124,Total companies,"Diesel, freight",Litres,203,thousands,3,1819361
+2002,Canada,2016A000011124,Total companies,"Diesel, passenger",Litres,203,thousands,3,68128
+2002,Canada,2016A000011124,Total companies,"Diesel, yard switching",Litres,203,thousands,3,74764
+2002,Canada,2016A000011124,Total companies,"Diesel, work train",Litres,203,thousands,3,7487
+2002,Canada,2016A000011124,Total companies,Total cost of diesel fuel,Dollars,81,units ,0,712742623
+2002,Canada,2016A000011124,Canadian National,Total diesel,Litres,203,thousands,3,910726
+2002,Canada,2016A000011124,Canadian National,"Diesel, freight",Litres,203,thousands,3,868589
+2002,Canada,2016A000011124,Canadian National,"Diesel, passenger",Litres,203,thousands,3,0
+2002,Canada,2016A000011124,Canadian National,"Diesel, yard switching",Litres,203,thousands,3,39797
+2002,Canada,2016A000011124,Canadian National,"Diesel, work train",Litres,203,thousands,3,2340
+2002,Canada,2016A000011124,Canadian National,Total cost of diesel fuel,Dollars,81,units ,0,321268267
+2002,Canada,2016A000011124,Canadian Pacific,Total diesel,Litres,203,thousands,3,786132
+2002,Canada,2016A000011124,Canadian Pacific,"Diesel, freight",Litres,203,thousands,3,763953
+2002,Canada,2016A000011124,Canadian Pacific,"Diesel, passenger",Litres,203,thousands,3,0
+2002,Canada,2016A000011124,Canadian Pacific,"Diesel, yard switching",Litres,203,thousands,3,19540
+2002,Canada,2016A000011124,Canadian Pacific,"Diesel, work train",Litres,203,thousands,3,2639
+2002,Canada,2016A000011124,Canadian Pacific,Total cost of diesel fuel,Dollars,81,units ,0,288691605
+2002,Canada,2016A000011124,VIA Rail,Total diesel,Litres,203,thousands,3,60824
+2002,Canada,2016A000011124,VIA Rail,"Diesel, freight",Litres,203,thousands,3,0
+2002,Canada,2016A000011124,VIA Rail,"Diesel, passenger",Litres,203,thousands,3,60550
+2002,Canada,2016A000011124,VIA Rail,"Diesel, yard switching",Litres,203,thousands,3,274
+2002,Canada,2016A000011124,VIA Rail,"Diesel, work train",Litres,203,thousands,3,0
+2002,Canada,2016A000011124,VIA Rail,Total cost of diesel fuel,Dollars,81,units ,0,24159832
+2002,Canada,2016A000011124,Regional railways,Total diesel,Litres,203,thousands,3,212059
+2002,Canada,2016A000011124,Regional railways,"Diesel, freight",Litres,203,thousands,3,186819
+2002,Canada,2016A000011124,Regional railways,"Diesel, passenger",Litres,203,thousands,3,7578
+2002,Canada,2016A000011124,Regional railways,"Diesel, yard switching",Litres,203,thousands,3,15153
+2002,Canada,2016A000011124,Regional railways,"Diesel, work train",Litres,203,thousands,3,2509
+2002,Canada,2016A000011124,Regional railways,Total cost of diesel fuel,Dollars,81,units ,0,78622919
+2003,Canada,2016A000011124,Total companies,Total diesel,Litres,203,thousands,3,2007813
+2003,Canada,2016A000011124,Total companies,"Diesel, freight",Litres,203,thousands,3,1865509
+2003,Canada,2016A000011124,Total companies,"Diesel, passenger",Litres,203,thousands,3,65428
+2003,Canada,2016A000011124,Total companies,"Diesel, yard switching",Litres,203,thousands,3,70136
+2003,Canada,2016A000011124,Total companies,"Diesel, work train",Litres,203,thousands,3,6741
+2003,Canada,2016A000011124,Total companies,Total cost of diesel fuel,Dollars,81,units ,0,761278286
+2003,Canada,2016A000011124,Canadian National,Total diesel,Litres,203,thousands,3,912280
+2003,Canada,2016A000011124,Canadian National,"Diesel, freight",Litres,203,thousands,3,872848
+2003,Canada,2016A000011124,Canadian National,"Diesel, passenger",Litres,203,thousands,3,462
+2003,Canada,2016A000011124,Canadian National,"Diesel, yard switching",Litres,203,thousands,3,37101
+2003,Canada,2016A000011124,Canadian National,"Diesel, work train",Litres,203,thousands,3,1870
+2003,Canada,2016A000011124,Canadian National,Total cost of diesel fuel,Dollars,81,units ,0,332653051
+2003,Canada,2016A000011124,Canadian Pacific,Total diesel,Litres,203,thousands,3,828027
+2003,Canada,2016A000011124,Canadian Pacific,"Diesel, freight",Litres,203,thousands,3,807845
+2003,Canada,2016A000011124,Canadian Pacific,"Diesel, passenger",Litres,203,thousands,3,0
+2003,Canada,2016A000011124,Canadian Pacific,"Diesel, yard switching",Litres,203,thousands,3,17786
+2003,Canada,2016A000011124,Canadian Pacific,"Diesel, work train",Litres,203,thousands,3,2396
+2003,Canada,2016A000011124,Canadian Pacific,Total cost of diesel fuel,Dollars,81,units ,0,319635513
+2003,Canada,2016A000011124,VIA Rail,Total diesel,Litres,203,thousands,3,61170
+2003,Canada,2016A000011124,VIA Rail,"Diesel, freight",Litres,203,thousands,3,0
+2003,Canada,2016A000011124,VIA Rail,"Diesel, passenger",Litres,203,thousands,3,60873
+2003,Canada,2016A000011124,VIA Rail,"Diesel, yard switching",Litres,203,thousands,3,297
+2003,Canada,2016A000011124,VIA Rail,"Diesel, work train",Litres,203,thousands,3,0
+2003,Canada,2016A000011124,VIA Rail,Total cost of diesel fuel,Dollars,81,units ,0,23715977
+2003,Canada,2016A000011124,Regional railways,Total diesel,Litres,203,thousands,3,206336
+2003,Canada,2016A000011124,Regional railways,"Diesel, freight",Litres,203,thousands,3,184816
+2003,Canada,2016A000011124,Regional railways,"Diesel, passenger",Litres,203,thousands,3,4094
+2003,Canada,2016A000011124,Regional railways,"Diesel, yard switching",Litres,203,thousands,3,14951
+2003,Canada,2016A000011124,Regional railways,"Diesel, work train",Litres,203,thousands,3,2475
+2003,Canada,2016A000011124,Regional railways,Total cost of diesel fuel,Dollars,81,units ,0,85273745
+2004,Canada,2016A000011124,Total companies,Total diesel,Litres,203,thousands,3,2097070
+2004,Canada,2016A000011124,Total companies,"Diesel, freight",Litres,203,thousands,3,1953907
+2004,Canada,2016A000011124,Total companies,"Diesel, passenger",Litres,203,thousands,3,64848
+2004,Canada,2016A000011124,Total companies,"Diesel, yard switching",Litres,203,thousands,3,72421
+2004,Canada,2016A000011124,Total companies,"Diesel, work train",Litres,203,thousands,3,5894
+2004,Canada,2016A000011124,Total companies,Total cost of diesel fuel,Dollars,81,units ,0,846488822
+2004,Canada,2016A000011124,Canadian National,Total diesel,Litres,203,thousands,3,973265
+2004,Canada,2016A000011124,Canadian National,"Diesel, freight",Litres,203,thousands,3,932652
+2004,Canada,2016A000011124,Canadian National,"Diesel, passenger",Litres,203,thousands,3,492
+2004,Canada,2016A000011124,Canadian National,"Diesel, yard switching",Litres,203,thousands,3,38378
+2004,Canada,2016A000011124,Canadian National,"Diesel, work train",Litres,203,thousands,3,1743
+2004,Canada,2016A000011124,Canadian National,Total cost of diesel fuel,Dollars,81,units ,0,372890511
+2004,Canada,2016A000011124,Canadian Pacific,Total diesel,Litres,203,thousands,3,861153
+2004,Canada,2016A000011124,Canadian Pacific,"Diesel, freight",Litres,203,thousands,3,841623
+2004,Canada,2016A000011124,Canadian Pacific,"Diesel, passenger",Litres,203,thousands,3,0
+2004,Canada,2016A000011124,Canadian Pacific,"Diesel, yard switching",Litres,203,thousands,3,17947
+2004,Canada,2016A000011124,Canadian Pacific,"Diesel, work train",Litres,203,thousands,3,1584
+2004,Canada,2016A000011124,Canadian Pacific,Total cost of diesel fuel,Dollars,81,units ,0,355249447
+2004,Canada,2016A000011124,VIA Rail,Total diesel,Litres,203,thousands,3,60638
+2004,Canada,2016A000011124,VIA Rail,"Diesel, freight",Litres,203,thousands,3,0
+2004,Canada,2016A000011124,VIA Rail,"Diesel, passenger",Litres,203,thousands,3,60365
+2004,Canada,2016A000011124,VIA Rail,"Diesel, yard switching",Litres,203,thousands,3,273
+2004,Canada,2016A000011124,VIA Rail,"Diesel, work train",Litres,203,thousands,3,0
+2004,Canada,2016A000011124,VIA Rail,Total cost of diesel fuel,Dollars,81,units ,0,23977018
+2004,Canada,2016A000011124,Regional railways,Total diesel,Litres,203,thousands,3,202014
+2004,Canada,2016A000011124,Regional railways,"Diesel, freight",Litres,203,thousands,3,179632
+2004,Canada,2016A000011124,Regional railways,"Diesel, passenger",Litres,203,thousands,3,3991
+2004,Canada,2016A000011124,Regional railways,"Diesel, yard switching",Litres,203,thousands,3,15823
+2004,Canada,2016A000011124,Regional railways,"Diesel, work train",Litres,203,thousands,3,2567
+2004,Canada,2016A000011124,Regional railways,Total cost of diesel fuel,Dollars,81,units ,0,94371846
+2005,Canada,2016A000011124,Total companies,Total diesel,Litres,203,thousands,3,2130224
+2005,Canada,2016A000011124,Total companies,"Diesel, freight",Litres,203,thousands,3,1987726
+2005,Canada,2016A000011124,Total companies,"Diesel, passenger",Litres,203,thousands,3,64986
+2005,Canada,2016A000011124,Total companies,"Diesel, yard switching",Litres,203,thousands,3,67909
+2005,Canada,2016A000011124,Total companies,"Diesel, work train",Litres,203,thousands,3,9603
+2005,Canada,2016A000011124,Total companies,Total cost of diesel fuel,Dollars,81,units ,0,1153590667
+2005,Canada,2016A000011124,Canadian National,Total diesel,Litres,203,thousands,3,1028785
+2005,Canada,2016A000011124,Canadian National,"Diesel, freight",Litres,203,thousands,3,985880
+2005,Canada,2016A000011124,Canadian National,"Diesel, passenger",Litres,203,thousands,3,424
+2005,Canada,2016A000011124,Canadian National,"Diesel, yard switching",Litres,203,thousands,3,40106
+2005,Canada,2016A000011124,Canadian National,"Diesel, work train",Litres,203,thousands,3,2375
+2005,Canada,2016A000011124,Canadian National,Total cost of diesel fuel,Dollars,81,units ,0,552605898
+2005,Canada,2016A000011124,Canadian Pacific,Total diesel,Litres,203,thousands,3,875823
+2005,Canada,2016A000011124,Canadian Pacific,"Diesel, freight",Litres,203,thousands,3,854644
+2005,Canada,2016A000011124,Canadian Pacific,"Diesel, passenger",Litres,203,thousands,3,0
+2005,Canada,2016A000011124,Canadian Pacific,"Diesel, yard switching",Litres,203,thousands,3,16902
+2005,Canada,2016A000011124,Canadian Pacific,"Diesel, work train",Litres,203,thousands,3,4276
+2005,Canada,2016A000011124,Canadian Pacific,Total cost of diesel fuel,Dollars,81,units ,0,472080734
+2005,Canada,2016A000011124,VIA Rail,Total diesel,Litres,203,thousands,3,60088
+2005,Canada,2016A000011124,VIA Rail,"Diesel, freight",Litres,203,thousands,3,0
+2005,Canada,2016A000011124,VIA Rail,"Diesel, passenger",Litres,203,thousands,3,59838
+2005,Canada,2016A000011124,VIA Rail,"Diesel, yard switching",Litres,203,thousands,3,249
+2005,Canada,2016A000011124,VIA Rail,"Diesel, work train",Litres,203,thousands,3,0
+2005,Canada,2016A000011124,VIA Rail,Total cost of diesel fuel,Dollars,81,units ,0,30196526
+2005,Canada,2016A000011124,Regional railways,Total diesel,Litres,203,thousands,3,165529
+2005,Canada,2016A000011124,Regional railways,"Diesel, freight",Litres,203,thousands,3,147202
+2005,Canada,2016A000011124,Regional railways,"Diesel, passenger",Litres,203,thousands,3,4724
+2005,Canada,2016A000011124,Regional railways,"Diesel, yard switching",Litres,203,thousands,3,10651
+2005,Canada,2016A000011124,Regional railways,"Diesel, work train",Litres,203,thousands,3,2953
+2005,Canada,2016A000011124,Regional railways,Total cost of diesel fuel,Dollars,81,units ,0,98707509
+2006,Canada,2016A000011124,Total companies,Total diesel,Litres,203,thousands,3,2119082
+2006,Canada,2016A000011124,Total companies,"Diesel, freight",Litres,203,thousands,3,1979536
+2006,Canada,2016A000011124,Total companies,"Diesel, passenger",Litres,203,thousands,3,62441
+2006,Canada,2016A000011124,Total companies,"Diesel, yard switching",Litres,203,thousands,3,66694
+2006,Canada,2016A000011124,Total companies,"Diesel, work train",Litres,203,thousands,3,10411
+2006,Canada,2016A000011124,Total companies,Total cost of diesel fuel,Dollars,81,units ,0,1299571658
+2006,Canada,2016A000011124,Canadian National,Total diesel,Litres,203,thousands,3,1051395
+2006,Canada,2016A000011124,Canadian National,"Diesel, freight",Litres,203,thousands,3,1008573
+2006,Canada,2016A000011124,Canadian National,"Diesel, passenger",Litres,203,thousands,3,344
+2006,Canada,2016A000011124,Canadian National,"Diesel, yard switching",Litres,203,thousands,3,39052
+2006,Canada,2016A000011124,Canadian National,"Diesel, work train",Litres,203,thousands,3,3426
+2006,Canada,2016A000011124,Canadian National,Total cost of diesel fuel,Dollars,81,units ,0,633198093
+2006,Canada,2016A000011124,Canadian Pacific,Total diesel,Litres,203,thousands,3,868931
+2006,Canada,2016A000011124,Canadian Pacific,"Diesel, freight",Litres,203,thousands,3,848711
+2006,Canada,2016A000011124,Canadian Pacific,"Diesel, passenger",Litres,203,thousands,3,0
+2006,Canada,2016A000011124,Canadian Pacific,"Diesel, yard switching",Litres,203,thousands,3,16216
+2006,Canada,2016A000011124,Canadian Pacific,"Diesel, work train",Litres,203,thousands,3,4004
+2006,Canada,2016A000011124,Canadian Pacific,Total cost of diesel fuel,Dollars,81,units ,0,536126560
+2006,Canada,2016A000011124,VIA Rail,Total diesel,Litres,203,thousands,3,58361
+2006,Canada,2016A000011124,VIA Rail,"Diesel, freight",Litres,203,thousands,3,0
+2006,Canada,2016A000011124,VIA Rail,"Diesel, passenger",Litres,203,thousands,3,58148
+2006,Canada,2016A000011124,VIA Rail,"Diesel, yard switching",Litres,203,thousands,3,213
+2006,Canada,2016A000011124,VIA Rail,"Diesel, work train",Litres,203,thousands,3,0
+2006,Canada,2016A000011124,VIA Rail,Total cost of diesel fuel,Dollars,81,units ,0,37186421
+2006,Canada,2016A000011124,Regional railways,Total diesel,Litres,203,thousands,3,140396
+2006,Canada,2016A000011124,Regional railways,"Diesel, freight",Litres,203,thousands,3,122251
+2006,Canada,2016A000011124,Regional railways,"Diesel, passenger",Litres,203,thousands,3,3949
+2006,Canada,2016A000011124,Regional railways,"Diesel, yard switching",Litres,203,thousands,3,11214
+2006,Canada,2016A000011124,Regional railways,"Diesel, work train",Litres,203,thousands,3,2981
+2006,Canada,2016A000011124,Regional railways,Total cost of diesel fuel,Dollars,81,units ,0,93060584
+2007,Canada,2016A000011124,Total companies,Total diesel,Litres,203,thousands,3,2193684
+2007,Canada,2016A000011124,Total companies,"Diesel, freight",Litres,203,thousands,3,2058345
+2007,Canada,2016A000011124,Total companies,"Diesel, passenger",Litres,203,thousands,3,62962
+2007,Canada,2016A000011124,Total companies,"Diesel, yard switching",Litres,203,thousands,3,63425
+2007,Canada,2016A000011124,Total companies,"Diesel, work train",Litres,203,thousands,3,8952
+2007,Canada,2016A000011124,Total companies,Total cost of diesel fuel,Dollars,81,units ,0,1486001147
+2007,Canada,2016A000011124,Canadian National,Total diesel,Litres,203,thousands,3,1044591
+2007,Canada,2016A000011124,Canadian National,"Diesel, freight",Litres,203,thousands,3,1004256
+2007,Canada,2016A000011124,Canadian National,"Diesel, passenger",Litres,203,thousands,3,427
+2007,Canada,2016A000011124,Canadian National,"Diesel, yard switching",Litres,203,thousands,3,37787
+2007,Canada,2016A000011124,Canadian National,"Diesel, work train",Litres,203,thousands,3,2121
+2007,Canada,2016A000011124,Canadian National,Total cost of diesel fuel,Dollars,81,units ,0,731933193
+2007,Canada,2016A000011124,Canadian Pacific,Total diesel,Litres,203,thousands,3,931407
+2007,Canada,2016A000011124,Canadian Pacific,"Diesel, freight",Litres,203,thousands,3,912167
+2007,Canada,2016A000011124,Canadian Pacific,"Diesel, passenger",Litres,203,thousands,3,0
+2007,Canada,2016A000011124,Canadian Pacific,"Diesel, yard switching",Litres,203,thousands,3,15521
+2007,Canada,2016A000011124,Canadian Pacific,"Diesel, work train",Litres,203,thousands,3,3720
+2007,Canada,2016A000011124,Canadian Pacific,Total cost of diesel fuel,Dollars,81,units ,0,620873183
+2007,Canada,2016A000011124,VIA Rail,Total diesel,Litres,203,thousands,3,58739
+2007,Canada,2016A000011124,VIA Rail,"Diesel, freight",Litres,203,thousands,3,0
+2007,Canada,2016A000011124,VIA Rail,"Diesel, passenger",Litres,203,thousands,3,58518
+2007,Canada,2016A000011124,VIA Rail,"Diesel, yard switching",Litres,203,thousands,3,220
+2007,Canada,2016A000011124,VIA Rail,"Diesel, work train",Litres,203,thousands,3,0
+2007,Canada,2016A000011124,VIA Rail,Total cost of diesel fuel,Dollars,81,units ,0,37131069
+2007,Canada,2016A000011124,Regional railways,Total diesel,Litres,203,thousands,3,158947
+2007,Canada,2016A000011124,Regional railways,"Diesel, freight",Litres,203,thousands,3,141922
+2007,Canada,2016A000011124,Regional railways,"Diesel, passenger",Litres,203,thousands,3,4017
+2007,Canada,2016A000011124,Regional railways,"Diesel, yard switching",Litres,203,thousands,3,9897
+2007,Canada,2016A000011124,Regional railways,"Diesel, work train",Litres,203,thousands,3,3111
+2007,Canada,2016A000011124,Regional railways,Total cost of diesel fuel,Dollars,81,units ,0,96063702
+2008,Canada,2016A000011124,Total companies,Total diesel,Litres,203,thousands,3,2078060
+2008,Canada,2016A000011124,Total companies,"Diesel, freight",Litres,203,thousands,3,1950585
+2008,Canada,2016A000011124,Total companies,"Diesel, passenger",Litres,203,thousands,3,63666
+2008,Canada,2016A000011124,Total companies,"Diesel, yard switching",Litres,203,thousands,3,55633
+2008,Canada,2016A000011124,Total companies,"Diesel, work train",Litres,203,thousands,3,8176
+2008,Canada,2016A000011124,Total companies,Total cost of diesel fuel,Dollars,81,units ,0,1973051889
+2008,Canada,2016A000011124,Canadian National,Total diesel,Litres,203,thousands,3,1018213
+2008,Canada,2016A000011124,Canadian National,"Diesel, freight",Litres,203,thousands,3,980195
+2008,Canada,2016A000011124,Canadian National,"Diesel, passenger",Litres,203,thousands,3,359
+2008,Canada,2016A000011124,Canadian National,"Diesel, yard switching",Litres,203,thousands,3,34383
+2008,Canada,2016A000011124,Canadian National,"Diesel, work train",Litres,203,thousands,3,3276
+2008,Canada,2016A000011124,Canadian National,Total cost of diesel fuel,Dollars,81,units ,0,1002692222
+2008,Canada,2016A000011124,Canadian Pacific,Total diesel,Litres,203,thousands,3,898023
+2008,Canada,2016A000011124,Canadian Pacific,"Diesel, freight",Litres,203,thousands,3,881035
+2008,Canada,2016A000011124,Canadian Pacific,"Diesel, passenger",Litres,203,thousands,3,0
+2008,Canada,2016A000011124,Canadian Pacific,"Diesel, yard switching",Litres,203,thousands,3,12933
+2008,Canada,2016A000011124,Canadian Pacific,"Diesel, work train",Litres,203,thousands,3,4055
+2008,Canada,2016A000011124,Canadian Pacific,Total cost of diesel fuel,Dollars,81,units ,0,833983799
+2008,Canada,2016A000011124,VIA Rail,Total diesel,Litres,203,thousands,3,59941
+2008,Canada,2016A000011124,VIA Rail,"Diesel, freight",Litres,203,thousands,3,0
+2008,Canada,2016A000011124,VIA Rail,"Diesel, passenger",Litres,203,thousands,3,59718
+2008,Canada,2016A000011124,VIA Rail,"Diesel, yard switching",Litres,203,thousands,3,223
+2008,Canada,2016A000011124,VIA Rail,"Diesel, work train",Litres,203,thousands,3,0
+2008,Canada,2016A000011124,VIA Rail,Total cost of diesel fuel,Dollars,81,units ,0,47418556
+2008,Canada,2016A000011124,Regional railways,Total diesel,Litres,203,thousands,3,101883
+2008,Canada,2016A000011124,Regional railways,"Diesel, freight",Litres,203,thousands,3,89355
+2008,Canada,2016A000011124,Regional railways,"Diesel, passenger",Litres,203,thousands,3,3589
+2008,Canada,2016A000011124,Regional railways,"Diesel, yard switching",Litres,203,thousands,3,8094
+2008,Canada,2016A000011124,Regional railways,"Diesel, work train",Litres,203,thousands,3,845
+2008,Canada,2016A000011124,Regional railways,Total cost of diesel fuel,Dollars,81,units ,0,88957312
+2009,Canada,2016A000011124,Total companies,Total diesel,Litres,203,thousands,3,1769604
+2009,Canada,2016A000011124,Total companies,"Diesel, freight",Litres,203,thousands,3,1663312
+2009,Canada,2016A000011124,Total companies,"Diesel, passenger",Litres,203,thousands,3,60542
+2009,Canada,2016A000011124,Total companies,"Diesel, yard switching",Litres,203,thousands,3,39123
+2009,Canada,2016A000011124,Total companies,"Diesel, work train",Litres,203,thousands,3,6627
+2009,Canada,2016A000011124,Total companies,Total cost of diesel fuel,Dollars,81,units ,0,1125937702
+2009,Canada,2016A000011124,Canadian National,Total diesel,Litres,203,thousands,3,911825
+2009,Canada,2016A000011124,Canadian National,"Diesel, freight",Litres,203,thousands,3,883745
+2009,Canada,2016A000011124,Canadian National,"Diesel, passenger",Litres,203,thousands,3,486
+2009,Canada,2016A000011124,Canadian National,"Diesel, yard switching",Litres,203,thousands,3,24575
+2009,Canada,2016A000011124,Canadian National,"Diesel, work train",Litres,203,thousands,3,3019
+2009,Canada,2016A000011124,Canadian National,Total cost of diesel fuel,Dollars,81,units ,0,560297775
+2009,Canada,2016A000011124,Canadian Pacific,Total diesel,Litres,203,thousands,3,722448
+2009,Canada,2016A000011124,Canadian Pacific,"Diesel, freight",Litres,203,thousands,3,710771
+2009,Canada,2016A000011124,Canadian Pacific,"Diesel, passenger",Litres,203,thousands,3,0
+2009,Canada,2016A000011124,Canadian Pacific,"Diesel, yard switching",Litres,203,thousands,3,8741
+2009,Canada,2016A000011124,Canadian Pacific,"Diesel, work train",Litres,203,thousands,3,2936
+2009,Canada,2016A000011124,Canadian Pacific,Total cost of diesel fuel,Dollars,81,units ,0,461678454
+2009,Canada,2016A000011124,VIA Rail,Total diesel,Litres,203,thousands,3,57000
+2009,Canada,2016A000011124,VIA Rail,"Diesel, freight",Litres,203,thousands,3,0
+2009,Canada,2016A000011124,VIA Rail,"Diesel, passenger",Litres,203,thousands,3,56872
+2009,Canada,2016A000011124,VIA Rail,"Diesel, yard switching",Litres,203,thousands,3,128
+2009,Canada,2016A000011124,VIA Rail,"Diesel, work train",Litres,203,thousands,3,0
+2009,Canada,2016A000011124,VIA Rail,Total cost of diesel fuel,Dollars,81,units ,0,53968213
+2009,Canada,2016A000011124,Regional railways,Total diesel,Litres,203,thousands,3,78331
+2009,Canada,2016A000011124,Regional railways,"Diesel, freight",Litres,203,thousands,3,68796
+2009,Canada,2016A000011124,Regional railways,"Diesel, passenger",Litres,203,thousands,3,3184
+2009,Canada,2016A000011124,Regional railways,"Diesel, yard switching",Litres,203,thousands,3,5678
+2009,Canada,2016A000011124,Regional railways,"Diesel, work train",Litres,203,thousands,3,673
+2009,Canada,2016A000011124,Regional railways,Total cost of diesel fuel,Dollars,81,units ,0,49993260
+2010,Canada,2016A000011124,Total companies,Total diesel,Litres,203,thousands,3,1932685
+2010,Canada,2016A000011124,Total companies,"Diesel, freight",Litres,203,thousands,3,1832353
+2010,Canada,2016A000011124,Total companies,"Diesel, passenger",Litres,203,thousands,3,55815
+2010,Canada,2016A000011124,Total companies,"Diesel, yard switching",Litres,203,thousands,3,37297
+2010,Canada,2016A000011124,Total companies,"Diesel, work train",Litres,203,thousands,3,7220
+2010,Canada,2016A000011124,Total companies,Total cost of diesel fuel,Dollars,81,units ,0,1377926583
+2010,Canada,2016A000011124,Canadian National,Total diesel,Litres,203,thousands,3,NULL
+2010,Canada,2016A000011124,Canadian National,"Diesel, freight",Litres,203,thousands,3,NULL
+2010,Canada,2016A000011124,Canadian National,"Diesel, passenger",Litres,203,thousands,3,NULL
+2010,Canada,2016A000011124,Canadian National,"Diesel, yard switching",Litres,203,thousands,3,NULL
+2010,Canada,2016A000011124,Canadian National,"Diesel, work train",Litres,203,thousands,3,NULL
+2010,Canada,2016A000011124,Canadian National,Total cost of diesel fuel,Dollars,81,units ,0,NULL
+2010,Canada,2016A000011124,Canadian Pacific,Total diesel,Litres,203,thousands,3,NULL
+2010,Canada,2016A000011124,Canadian Pacific,"Diesel, freight",Litres,203,thousands,3,NULL
+2010,Canada,2016A000011124,Canadian Pacific,"Diesel, passenger",Litres,203,thousands,3,NULL
+2010,Canada,2016A000011124,Canadian Pacific,"Diesel, yard switching",Litres,203,thousands,3,NULL
+2010,Canada,2016A000011124,Canadian Pacific,"Diesel, work train",Litres,203,thousands,3,NULL
+2010,Canada,2016A000011124,Canadian Pacific,Total cost of diesel fuel,Dollars,81,units ,0,NULL
+2010,Canada,2016A000011124,VIA Rail,Total diesel,Litres,203,thousands,3,NULL
+2010,Canada,2016A000011124,VIA Rail,"Diesel, freight",Litres,203,thousands,3,NULL
+2010,Canada,2016A000011124,VIA Rail,"Diesel, passenger",Litres,203,thousands,3,NULL
+2010,Canada,2016A000011124,VIA Rail,"Diesel, yard switching",Litres,203,thousands,3,NULL
+2010,Canada,2016A000011124,VIA Rail,"Diesel, work train",Litres,203,thousands,3,NULL
+2010,Canada,2016A000011124,VIA Rail,Total cost of diesel fuel,Dollars,81,units ,0,NULL
+2010,Canada,2016A000011124,Regional railways,Total diesel,Litres,203,thousands,3,83949
+2010,Canada,2016A000011124,Regional railways,"Diesel, freight",Litres,203,thousands,3,74828
+2010,Canada,2016A000011124,Regional railways,"Diesel, passenger",Litres,203,thousands,3,2781
+2010,Canada,2016A000011124,Regional railways,"Diesel, yard switching",Litres,203,thousands,3,5584
+2010,Canada,2016A000011124,Regional railways,"Diesel, work train",Litres,203,thousands,3,756
+2010,Canada,2016A000011124,Regional railways,Total cost of diesel fuel,Dollars,81,units ,0,61533132
+2011,Canada,2016A000011124,Total companies,Total diesel,Litres,203,thousands,3,1898331
+2011,Canada,2016A000011124,Total companies,"Diesel, freight",Litres,203,thousands,3,1792045
+2011,Canada,2016A000011124,Total companies,"Diesel, passenger",Litres,203,thousands,3,54129
+2011,Canada,2016A000011124,Total companies,"Diesel, yard switching",Litres,203,thousands,3,44228
+2011,Canada,2016A000011124,Total companies,"Diesel, work train",Litres,203,thousands,3,7929
+2011,Canada,2016A000011124,Total companies,Total cost of diesel fuel,Dollars,81,units ,0,1736437746
+2011,Canada,2016A000011124,Canadian National,Total diesel,Litres,203,thousands,3,NULL
+2011,Canada,2016A000011124,Canadian National,"Diesel, freight",Litres,203,thousands,3,NULL
+2011,Canada,2016A000011124,Canadian National,"Diesel, passenger",Litres,203,thousands,3,NULL
+2011,Canada,2016A000011124,Canadian National,"Diesel, yard switching",Litres,203,thousands,3,NULL
+2011,Canada,2016A000011124,Canadian National,"Diesel, work train",Litres,203,thousands,3,NULL
+2011,Canada,2016A000011124,Canadian National,Total cost of diesel fuel,Dollars,81,units ,0,NULL
+2011,Canada,2016A000011124,Canadian Pacific,Total diesel,Litres,203,thousands,3,NULL
+2011,Canada,2016A000011124,Canadian Pacific,"Diesel, freight",Litres,203,thousands,3,NULL
+2011,Canada,2016A000011124,Canadian Pacific,"Diesel, passenger",Litres,203,thousands,3,NULL
+2011,Canada,2016A000011124,Canadian Pacific,"Diesel, yard switching",Litres,203,thousands,3,NULL
+2011,Canada,2016A000011124,Canadian Pacific,"Diesel, work train",Litres,203,thousands,3,NULL
+2011,Canada,2016A000011124,Canadian Pacific,Total cost of diesel fuel,Dollars,81,units ,0,NULL
+2011,Canada,2016A000011124,VIA Rail,Total diesel,Litres,203,thousands,3,NULL
+2011,Canada,2016A000011124,VIA Rail,"Diesel, freight",Litres,203,thousands,3,NULL
+2011,Canada,2016A000011124,VIA Rail,"Diesel, passenger",Litres,203,thousands,3,NULL
+2011,Canada,2016A000011124,VIA Rail,"Diesel, yard switching",Litres,203,thousands,3,NULL
+2011,Canada,2016A000011124,VIA Rail,"Diesel, work train",Litres,203,thousands,3,NULL
+2011,Canada,2016A000011124,VIA Rail,Total cost of diesel fuel,Dollars,81,units ,0,NULL
+2011,Canada,2016A000011124,Regional railways,Total diesel,Litres,203,thousands,3,89505
+2011,Canada,2016A000011124,Regional railways,"Diesel, freight",Litres,203,thousands,3,79579
+2011,Canada,2016A000011124,Regional railways,"Diesel, passenger",Litres,203,thousands,3,3542
+2011,Canada,2016A000011124,Regional railways,"Diesel, yard switching",Litres,203,thousands,3,5122
+2011,Canada,2016A000011124,Regional railways,"Diesel, work train",Litres,203,thousands,3,1262
+2011,Canada,2016A000011124,Regional railways,Total cost of diesel fuel,Dollars,81,units ,0,83121898
+2012,Canada,2016A000011124,Total companies,Total diesel,Litres,203,thousands,3,2060281
+2012,Canada,2016A000011124,Total companies,"Diesel, freight",Litres,203,thousands,3,1954550
+2012,Canada,2016A000011124,Total companies,"Diesel, passenger",Litres,203,thousands,3,49416
+2012,Canada,2016A000011124,Total companies,"Diesel, yard switching",Litres,203,thousands,3,48149
+2012,Canada,2016A000011124,Total companies,"Diesel, work train",Litres,203,thousands,3,8167
+2012,Canada,2016A000011124,Total companies,Total cost of diesel fuel,Dollars,81,units ,0,1899666193
+2012,Canada,2016A000011124,Canadian National,Total diesel,Litres,203,thousands,3,NULL
+2012,Canada,2016A000011124,Canadian National,"Diesel, freight",Litres,203,thousands,3,NULL
+2012,Canada,2016A000011124,Canadian National,"Diesel, passenger",Litres,203,thousands,3,NULL
+2012,Canada,2016A000011124,Canadian National,"Diesel, yard switching",Litres,203,thousands,3,NULL
+2012,Canada,2016A000011124,Canadian National,"Diesel, work train",Litres,203,thousands,3,NULL
+2012,Canada,2016A000011124,Canadian National,Total cost of diesel fuel,Dollars,81,units ,0,NULL
+2012,Canada,2016A000011124,Canadian Pacific,Total diesel,Litres,203,thousands,3,NULL
+2012,Canada,2016A000011124,Canadian Pacific,"Diesel, freight",Litres,203,thousands,3,NULL
+2012,Canada,2016A000011124,Canadian Pacific,"Diesel, passenger",Litres,203,thousands,3,NULL
+2012,Canada,2016A000011124,Canadian Pacific,"Diesel, yard switching",Litres,203,thousands,3,NULL
+2012,Canada,2016A000011124,Canadian Pacific,"Diesel, work train",Litres,203,thousands,3,NULL
+2012,Canada,2016A000011124,Canadian Pacific,Total cost of diesel fuel,Dollars,81,units ,0,NULL
+2012,Canada,2016A000011124,VIA Rail,Total diesel,Litres,203,thousands,3,NULL
+2012,Canada,2016A000011124,VIA Rail,"Diesel, freight",Litres,203,thousands,3,NULL
+2012,Canada,2016A000011124,VIA Rail,"Diesel, passenger",Litres,203,thousands,3,NULL
+2012,Canada,2016A000011124,VIA Rail,"Diesel, yard switching",Litres,203,thousands,3,NULL
+2012,Canada,2016A000011124,VIA Rail,"Diesel, work train",Litres,203,thousands,3,NULL
+2012,Canada,2016A000011124,VIA Rail,Total cost of diesel fuel,Dollars,81,units ,0,NULL
+2012,Canada,2016A000011124,Regional railways,Total diesel,Litres,203,thousands,3,87745
+2012,Canada,2016A000011124,Regional railways,"Diesel, freight",Litres,203,thousands,3,78705
+2012,Canada,2016A000011124,Regional railways,"Diesel, passenger",Litres,203,thousands,3,3360
+2012,Canada,2016A000011124,Regional railways,"Diesel, yard switching",Litres,203,thousands,3,4710
+2012,Canada,2016A000011124,Regional railways,"Diesel, work train",Litres,203,thousands,3,970
+2012,Canada,2016A000011124,Regional railways,Total cost of diesel fuel,Dollars,81,units ,0,83738335
+2013,Canada,2016A000011124,Total companies,Total diesel,Litres,203,thousands,3,2018468
+2013,Canada,2016A000011124,Total companies,"Diesel, freight",Litres,203,thousands,3,1922153
+2013,Canada,2016A000011124,Total companies,"Diesel, passenger",Litres,203,thousands,3,44437
+2013,Canada,2016A000011124,Total companies,"Diesel, yard switching",Litres,203,thousands,3,42062
+2013,Canada,2016A000011124,Total companies,"Diesel, work train",Litres,203,thousands,3,9816
+2013,Canada,2016A000011124,Total companies,Total cost of diesel fuel,Dollars,81,units ,0,1933565025
+2013,Canada,2016A000011124,Canadian National,Total diesel,Litres,203,thousands,3,NULL
+2013,Canada,2016A000011124,Canadian National,"Diesel, freight",Litres,203,thousands,3,NULL
+2013,Canada,2016A000011124,Canadian National,"Diesel, passenger",Litres,203,thousands,3,NULL
+2013,Canada,2016A000011124,Canadian National,"Diesel, yard switching",Litres,203,thousands,3,NULL
+2013,Canada,2016A000011124,Canadian National,"Diesel, work train",Litres,203,thousands,3,NULL
+2013,Canada,2016A000011124,Canadian National,Total cost of diesel fuel,Dollars,81,units ,0,NULL
+2013,Canada,2016A000011124,Canadian Pacific,Total diesel,Litres,203,thousands,3,NULL
+2013,Canada,2016A000011124,Canadian Pacific,"Diesel, freight",Litres,203,thousands,3,NULL
+2013,Canada,2016A000011124,Canadian Pacific,"Diesel, passenger",Litres,203,thousands,3,NULL
+2013,Canada,2016A000011124,Canadian Pacific,"Diesel, yard switching",Litres,203,thousands,3,NULL
+2013,Canada,2016A000011124,Canadian Pacific,"Diesel, work train",Litres,203,thousands,3,NULL
+2013,Canada,2016A000011124,Canadian Pacific,Total cost of diesel fuel,Dollars,81,units ,0,NULL
+2013,Canada,2016A000011124,VIA Rail,Total diesel,Litres,203,thousands,3,NULL
+2013,Canada,2016A000011124,VIA Rail,"Diesel, freight",Litres,203,thousands,3,NULL
+2013,Canada,2016A000011124,VIA Rail,"Diesel, passenger",Litres,203,thousands,3,NULL
+2013,Canada,2016A000011124,VIA Rail,"Diesel, yard switching",Litres,203,thousands,3,NULL
+2013,Canada,2016A000011124,VIA Rail,"Diesel, work train",Litres,203,thousands,3,NULL
+2013,Canada,2016A000011124,VIA Rail,Total cost of diesel fuel,Dollars,81,units ,0,NULL
+2013,Canada,2016A000011124,Regional railways,Total diesel,Litres,203,thousands,3,80711
+2013,Canada,2016A000011124,Regional railways,"Diesel, freight",Litres,203,thousands,3,72590
+2013,Canada,2016A000011124,Regional railways,"Diesel, passenger",Litres,203,thousands,3,1972
+2013,Canada,2016A000011124,Regional railways,"Diesel, yard switching",Litres,203,thousands,3,4631
+2013,Canada,2016A000011124,Regional railways,"Diesel, work train",Litres,203,thousands,3,1518
+2013,Canada,2016A000011124,Regional railways,Total cost of diesel fuel,Dollars,81,units ,0,79146100
+2014,Canada,2016A000011124,Total companies,Total diesel,Litres,203,thousands,3,2106723
+2014,Canada,2016A000011124,Total companies,"Diesel, freight",Litres,203,thousands,3,1992089
+2014,Canada,2016A000011124,Total companies,"Diesel, passenger",Litres,203,thousands,3,42395
+2014,Canada,2016A000011124,Total companies,"Diesel, yard switching",Litres,203,thousands,3,61898
+2014,Canada,2016A000011124,Total companies,"Diesel, work train",Litres,203,thousands,3,10340
+2014,Canada,2016A000011124,Total companies,Total cost of diesel fuel,Dollars,81,units ,0,2139416858
+2014,Canada,2016A000011124,Canadian National,Total diesel,Litres,203,thousands,3,NULL
+2014,Canada,2016A000011124,Canadian National,"Diesel, freight",Litres,203,thousands,3,NULL
+2014,Canada,2016A000011124,Canadian National,"Diesel, passenger",Litres,203,thousands,3,NULL
+2014,Canada,2016A000011124,Canadian National,"Diesel, yard switching",Litres,203,thousands,3,NULL
+2014,Canada,2016A000011124,Canadian National,"Diesel, work train",Litres,203,thousands,3,NULL
+2014,Canada,2016A000011124,Canadian National,Total cost of diesel fuel,Dollars,81,units ,0,NULL
+2014,Canada,2016A000011124,Canadian Pacific,Total diesel,Litres,203,thousands,3,NULL
+2014,Canada,2016A000011124,Canadian Pacific,"Diesel, freight",Litres,203,thousands,3,NULL
+2014,Canada,2016A000011124,Canadian Pacific,"Diesel, passenger",Litres,203,thousands,3,NULL
+2014,Canada,2016A000011124,Canadian Pacific,"Diesel, yard switching",Litres,203,thousands,3,NULL
+2014,Canada,2016A000011124,Canadian Pacific,"Diesel, work train",Litres,203,thousands,3,NULL
+2014,Canada,2016A000011124,Canadian Pacific,Total cost of diesel fuel,Dollars,81,units ,0,NULL
+2014,Canada,2016A000011124,VIA Rail,Total diesel,Litres,203,thousands,3,NULL
+2014,Canada,2016A000011124,VIA Rail,"Diesel, freight",Litres,203,thousands,3,NULL
+2014,Canada,2016A000011124,VIA Rail,"Diesel, passenger",Litres,203,thousands,3,NULL
+2014,Canada,2016A000011124,VIA Rail,"Diesel, yard switching",Litres,203,thousands,3,NULL
+2014,Canada,2016A000011124,VIA Rail,"Diesel, work train",Litres,203,thousands,3,NULL
+2014,Canada,2016A000011124,VIA Rail,Total cost of diesel fuel,Dollars,81,units ,0,NULL
+2014,Canada,2016A000011124,Regional railways,Total diesel,Litres,203,thousands,3,82059
+2014,Canada,2016A000011124,Regional railways,"Diesel, freight",Litres,203,thousands,3,73822
+2014,Canada,2016A000011124,Regional railways,"Diesel, passenger",Litres,203,thousands,3,1930
+2014,Canada,2016A000011124,Regional railways,"Diesel, yard switching",Litres,203,thousands,3,4869
+2014,Canada,2016A000011124,Regional railways,"Diesel, work train",Litres,203,thousands,3,1437
+2014,Canada,2016A000011124,Regional railways,Total cost of diesel fuel,Dollars,81,units ,0,80867389
+2015,Canada,2016A000011124,Total companies,Total diesel,Litres,203,thousands,3,2034853
+2015,Canada,2016A000011124,Total companies,"Diesel, freight",Litres,203,thousands,3,1926893
+2015,Canada,2016A000011124,Total companies,"Diesel, passenger",Litres,203,thousands,3,43458
+2015,Canada,2016A000011124,Total companies,"Diesel, yard switching",Litres,203,thousands,3,53951
+2015,Canada,2016A000011124,Total companies,"Diesel, work train",Litres,203,thousands,3,10551
+2015,Canada,2016A000011124,Total companies,Total cost of diesel fuel,Dollars,81,units ,0,1528438949
+2015,Canada,2016A000011124,Canadian National,Total diesel,Litres,203,thousands,3,NULL
+2015,Canada,2016A000011124,Canadian National,"Diesel, freight",Litres,203,thousands,3,NULL
+2015,Canada,2016A000011124,Canadian National,"Diesel, passenger",Litres,203,thousands,3,NULL
+2015,Canada,2016A000011124,Canadian National,"Diesel, yard switching",Litres,203,thousands,3,NULL
+2015,Canada,2016A000011124,Canadian National,"Diesel, work train",Litres,203,thousands,3,NULL
+2015,Canada,2016A000011124,Canadian National,Total cost of diesel fuel,Dollars,81,units ,0,NULL
+2015,Canada,2016A000011124,Canadian Pacific,Total diesel,Litres,203,thousands,3,NULL
+2015,Canada,2016A000011124,Canadian Pacific,"Diesel, freight",Litres,203,thousands,3,NULL
+2015,Canada,2016A000011124,Canadian Pacific,"Diesel, passenger",Litres,203,thousands,3,NULL
+2015,Canada,2016A000011124,Canadian Pacific,"Diesel, yard switching",Litres,203,thousands,3,NULL
+2015,Canada,2016A000011124,Canadian Pacific,"Diesel, work train",Litres,203,thousands,3,NULL
+2015,Canada,2016A000011124,Canadian Pacific,Total cost of diesel fuel,Dollars,81,units ,0,NULL
+2015,Canada,2016A000011124,VIA Rail,Total diesel,Litres,203,thousands,3,NULL
+2015,Canada,2016A000011124,VIA Rail,"Diesel, freight",Litres,203,thousands,3,NULL
+2015,Canada,2016A000011124,VIA Rail,"Diesel, passenger",Litres,203,thousands,3,NULL
+2015,Canada,2016A000011124,VIA Rail,"Diesel, yard switching",Litres,203,thousands,3,NULL
+2015,Canada,2016A000011124,VIA Rail,"Diesel, work train",Litres,203,thousands,3,NULL
+2015,Canada,2016A000011124,VIA Rail,Total cost of diesel fuel,Dollars,81,units ,0,NULL
+2015,Canada,2016A000011124,Regional railways,Total diesel,Litres,203,thousands,3,82088
+2015,Canada,2016A000011124,Regional railways,"Diesel, freight",Litres,203,thousands,3,73919
+2015,Canada,2016A000011124,Regional railways,"Diesel, passenger",Litres,203,thousands,3,1717
+2015,Canada,2016A000011124,Regional railways,"Diesel, yard switching",Litres,203,thousands,3,5025
+2015,Canada,2016A000011124,Regional railways,"Diesel, work train",Litres,203,thousands,3,1427
+2015,Canada,2016A000011124,Regional railways,Total cost of diesel fuel,Dollars,81,units ,0,63667115
+2016,Canada,2016A000011124,Total companies,Total diesel,Litres,203,thousands,3,1907374
+2016,Canada,2016A000011124,Total companies,"Diesel, freight",Litres,203,thousands,3,1803872
+2016,Canada,2016A000011124,Total companies,"Diesel, passenger",Litres,203,thousands,3,44851
+2016,Canada,2016A000011124,Total companies,"Diesel, yard switching",Litres,203,thousands,3,48615
+2016,Canada,2016A000011124,Total companies,"Diesel, work train",Litres,203,thousands,3,10037
+2016,Canada,2016A000011124,Total companies,Total cost of diesel fuel,Dollars,81,units ,0,1261598794
+2016,Canada,2016A000011124,Canadian National,Total diesel,Litres,203,thousands,3,NULL
+2016,Canada,2016A000011124,Canadian National,"Diesel, freight",Litres,203,thousands,3,NULL
+2016,Canada,2016A000011124,Canadian National,"Diesel, passenger",Litres,203,thousands,3,NULL
+2016,Canada,2016A000011124,Canadian National,"Diesel, yard switching",Litres,203,thousands,3,NULL
+2016,Canada,2016A000011124,Canadian National,"Diesel, work train",Litres,203,thousands,3,NULL
+2016,Canada,2016A000011124,Canadian National,Total cost of diesel fuel,Dollars,81,units ,0,NULL
+2016,Canada,2016A000011124,Canadian Pacific,Total diesel,Litres,203,thousands,3,NULL
+2016,Canada,2016A000011124,Canadian Pacific,"Diesel, freight",Litres,203,thousands,3,NULL
+2016,Canada,2016A000011124,Canadian Pacific,"Diesel, passenger",Litres,203,thousands,3,NULL
+2016,Canada,2016A000011124,Canadian Pacific,"Diesel, yard switching",Litres,203,thousands,3,NULL
+2016,Canada,2016A000011124,Canadian Pacific,"Diesel, work train",Litres,203,thousands,3,NULL
+2016,Canada,2016A000011124,Canadian Pacific,Total cost of diesel fuel,Dollars,81,units ,0,NULL
+2016,Canada,2016A000011124,VIA Rail,Total diesel,Litres,203,thousands,3,NULL
+2016,Canada,2016A000011124,VIA Rail,"Diesel, freight",Litres,203,thousands,3,NULL
+2016,Canada,2016A000011124,VIA Rail,"Diesel, passenger",Litres,203,thousands,3,NULL
+2016,Canada,2016A000011124,VIA Rail,"Diesel, yard switching",Litres,203,thousands,3,NULL
+2016,Canada,2016A000011124,VIA Rail,"Diesel, work train",Litres,203,thousands,3,NULL
+2016,Canada,2016A000011124,VIA Rail,Total cost of diesel fuel,Dollars,81,units ,0,NULL
+2016,Canada,2016A000011124,Regional railways,Total diesel,Litres,203,thousands,3,79636
+2016,Canada,2016A000011124,Regional railways,"Diesel, freight",Litres,203,thousands,3,71670
+2016,Canada,2016A000011124,Regional railways,"Diesel, passenger",Litres,203,thousands,3,2004
+2016,Canada,2016A000011124,Regional railways,"Diesel, yard switching",Litres,203,thousands,3,4895
+2016,Canada,2016A000011124,Regional railways,"Diesel, work train",Litres,203,thousands,3,1067
+2016,Canada,2016A000011124,Regional railways,Total cost of diesel fuel,Dollars,81,units ,0,50254311
+2017,Canada,2016A000011124,Total companies,Total diesel,Litres,203,thousands,3,2040497
+2017,Canada,2016A000011124,Total companies,"Diesel, freight",Litres,203,thousands,3,1933822
+2017,Canada,2016A000011124,Total companies,"Diesel, passenger",Litres,203,thousands,3,47492
+2017,Canada,2016A000011124,Total companies,"Diesel, yard switching",Litres,203,thousands,3,49982
+2017,Canada,2016A000011124,Total companies,"Diesel, work train",Litres,203,thousands,3,9201
+2017,Canada,2016A000011124,Total companies,Total cost of diesel fuel,Dollars,81,units ,0,1564486422
+2017,Canada,2016A000011124,Regional railways,Total diesel,Litres,203,thousands,3,76642
+2017,Canada,2016A000011124,Regional railways,"Diesel, freight",Litres,203,thousands,3,68997
+2017,Canada,2016A000011124,Regional railways,"Diesel, passenger",Litres,203,thousands,3,2119
+2017,Canada,2016A000011124,Regional railways,"Diesel, yard switching",Litres,203,thousands,3,4439
+2017,Canada,2016A000011124,Regional railways,"Diesel, work train",Litres,203,thousands,3,1087
+2017,Canada,2016A000011124,Regional railways,Total cost of diesel fuel,Dollars,81,units ,0,57713422

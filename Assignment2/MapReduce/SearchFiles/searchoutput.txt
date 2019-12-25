@@ -1,0 +1,6 @@
+population 	 12 
+economy 	 4 
+oil 	 5 
+expensive 	 6 
+dalhousie 	 2 
+bus 	 1 

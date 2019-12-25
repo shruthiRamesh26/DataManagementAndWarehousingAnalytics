@@ -1,0 +1,1414 @@
+REF_DATE,GEO,DGUID,Companies,Length of track,UOM,UOM_ID,SCALAR_FACTOR,SCALAR_ID,VALUE
+1986,Canada,2016A000011124,Total companies,Total track operated,Kilometres,196,units ,0,91935
+1986,Canada,2016A000011124,Total companies,Total line owned,Kilometres,196,units ,0,75720
+1986,Canada,2016A000011124,Total companies,"Line owned, first main track",Kilometres,196,units ,0,32446
+1986,Canada,2016A000011124,Total companies,"Line owned, second and other main track",Kilometres,196,units ,0,24657
+1986,Canada,2016A000011124,Total companies,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,18617
+1986,Canada,2016A000011124,Total companies,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,16215
+1986,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,4889
+1986,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,5206
+1986,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,6120
+1986,Canada,2016A000011124,Canadian National,Total track operated,Kilometres,196,units ,0,50708
+1986,Canada,2016A000011124,Canadian National,Total line owned,Kilometres,196,units ,0,46293
+1986,Canada,2016A000011124,Canadian National,"Line owned, first main track",Kilometres,196,units ,0,19285
+1986,Canada,2016A000011124,Canadian National,"Line owned, second and other main track",Kilometres,196,units ,0,15493
+1986,Canada,2016A000011124,Canadian National,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,11515
+1986,Canada,2016A000011124,Canadian National,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,4415
+1986,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,592
+1986,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,687
+1986,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,3137
+1986,Canada,2016A000011124,Canadian Pacific,Total track operated,Kilometres,196,units ,0,33458
+1986,Canada,2016A000011124,Canadian Pacific,Total line owned,Kilometres,196,units ,0,23678
+1986,Canada,2016A000011124,Canadian Pacific,"Line owned, first main track",Kilometres,196,units ,0,9041
+1986,Canada,2016A000011124,Canadian Pacific,"Line owned, second and other main track",Kilometres,196,units ,0,8900
+1986,Canada,2016A000011124,Canadian Pacific,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,5737
+1986,Canada,2016A000011124,Canadian Pacific,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,9780
+1986,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,3123
+1986,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,4207
+1986,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,2450
+1986,Canada,2016A000011124,VIA Rail,Total track operated,Kilometres,196,units ,0,0
+1986,Canada,2016A000011124,VIA Rail,Total line owned,Kilometres,196,units ,0,0
+1986,Canada,2016A000011124,VIA Rail,"Line owned, first main track",Kilometres,196,units ,0,0
+1986,Canada,2016A000011124,VIA Rail,"Line owned, second and other main track",Kilometres,196,units ,0,0
+1986,Canada,2016A000011124,VIA Rail,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,0
+1986,Canada,2016A000011124,VIA Rail,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,0
+1986,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,0
+1986,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,0
+1986,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,0
+1986,Canada,2016A000011124,Regional railways,Total track operated,Kilometres,196,units ,0,7769
+1986,Canada,2016A000011124,Regional railways,Total line owned,Kilometres,196,units ,0,5749
+1986,Canada,2016A000011124,Regional railways,"Line owned, first main track",Kilometres,196,units ,0,4120
+1986,Canada,2016A000011124,Regional railways,"Line owned, second and other main track",Kilometres,196,units ,0,264
+1986,Canada,2016A000011124,Regional railways,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,1365
+1986,Canada,2016A000011124,Regional railways,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,2020
+1986,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,1175
+1986,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,312
+1986,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,533
+1987,Canada,2016A000011124,Total companies,Total track operated,Kilometres,196,units ,0,93369
+1987,Canada,2016A000011124,Total companies,Total line owned,Kilometres,196,units ,0,75786
+1987,Canada,2016A000011124,Total companies,"Line owned, first main track",Kilometres,196,units ,0,32590
+1987,Canada,2016A000011124,Total companies,"Line owned, second and other main track",Kilometres,196,units ,0,24402
+1987,Canada,2016A000011124,Total companies,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,18794
+1987,Canada,2016A000011124,Total companies,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,17583
+1987,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,5461
+1987,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,5365
+1987,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,6757
+1987,Canada,2016A000011124,Canadian National,Total track operated,Kilometres,196,units ,0,51364
+1987,Canada,2016A000011124,Canadian National,Total line owned,Kilometres,196,units ,0,46721
+1987,Canada,2016A000011124,Canadian National,"Line owned, first main track",Kilometres,196,units ,0,19426
+1987,Canada,2016A000011124,Canadian National,"Line owned, second and other main track",Kilometres,196,units ,0,15467
+1987,Canada,2016A000011124,Canadian National,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,11828
+1987,Canada,2016A000011124,Canadian National,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,4643
+1987,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,636
+1987,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,637
+1987,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,3370
+1987,Canada,2016A000011124,Canadian Pacific,Total track operated,Kilometres,196,units ,0,33370
+1987,Canada,2016A000011124,Canadian Pacific,Total line owned,Kilometres,196,units ,0,23316
+1987,Canada,2016A000011124,Canadian Pacific,"Line owned, first main track",Kilometres,196,units ,0,9044
+1987,Canada,2016A000011124,Canadian Pacific,"Line owned, second and other main track",Kilometres,196,units ,0,8671
+1987,Canada,2016A000011124,Canadian Pacific,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,5600
+1987,Canada,2016A000011124,Canadian Pacific,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,10054
+1987,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,3256
+1987,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,4261
+1987,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,2537
+1987,Canada,2016A000011124,VIA Rail,Total track operated,Kilometres,196,units ,0,0
+1987,Canada,2016A000011124,VIA Rail,Total line owned,Kilometres,196,units ,0,0
+1987,Canada,2016A000011124,VIA Rail,"Line owned, first main track",Kilometres,196,units ,0,0
+1987,Canada,2016A000011124,VIA Rail,"Line owned, second and other main track",Kilometres,196,units ,0,0
+1987,Canada,2016A000011124,VIA Rail,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,0
+1987,Canada,2016A000011124,VIA Rail,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,0
+1987,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,0
+1987,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,0
+1987,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,0
+1987,Canada,2016A000011124,Regional railways,Total track operated,Kilometres,196,units ,0,8636
+1987,Canada,2016A000011124,Regional railways,Total line owned,Kilometres,196,units ,0,5750
+1987,Canada,2016A000011124,Regional railways,"Line owned, first main track",Kilometres,196,units ,0,4120
+1987,Canada,2016A000011124,Regional railways,"Line owned, second and other main track",Kilometres,196,units ,0,264
+1987,Canada,2016A000011124,Regional railways,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,1366
+1987,Canada,2016A000011124,Regional railways,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,2887
+1987,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,1569
+1987,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,468
+1987,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,849
+1988,Canada,2016A000011124,Total companies,Total track operated,Kilometres,196,units ,0,90372
+1988,Canada,2016A000011124,Total companies,Total line owned,Kilometres,196,units ,0,73786
+1988,Canada,2016A000011124,Total companies,"Line owned, first main track",Kilometres,196,units ,0,32773
+1988,Canada,2016A000011124,Total companies,"Line owned, second and other main track",Kilometres,196,units ,0,22775
+1988,Canada,2016A000011124,Total companies,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,18238
+1988,Canada,2016A000011124,Total companies,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,16586
+1988,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,5452
+1988,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,4536
+1988,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,6599
+1988,Canada,2016A000011124,Canadian National,Total track operated,Kilometres,196,units ,0,48753
+1988,Canada,2016A000011124,Canadian National,Total line owned,Kilometres,196,units ,0,44655
+1988,Canada,2016A000011124,Canadian National,"Line owned, first main track",Kilometres,196,units ,0,19495
+1988,Canada,2016A000011124,Canadian National,"Line owned, second and other main track",Kilometres,196,units ,0,13921
+1988,Canada,2016A000011124,Canadian National,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,11239
+1988,Canada,2016A000011124,Canadian National,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,4098
+1988,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,636
+1988,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,288
+1988,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,3173
+1988,Canada,2016A000011124,Canadian Pacific,Total track operated,Kilometres,196,units ,0,32638
+1988,Canada,2016A000011124,Canadian Pacific,Total line owned,Kilometres,196,units ,0,22988
+1988,Canada,2016A000011124,Canadian Pacific,"Line owned, first main track",Kilometres,196,units ,0,9056
+1988,Canada,2016A000011124,Canadian Pacific,"Line owned, second and other main track",Kilometres,196,units ,0,8425
+1988,Canada,2016A000011124,Canadian Pacific,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,5507
+1988,Canada,2016A000011124,Canadian Pacific,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,9650
+1988,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,3249
+1988,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,3935
+1988,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,2466
+1988,Canada,2016A000011124,VIA Rail,Total track operated,Kilometres,196,units ,0,0
+1988,Canada,2016A000011124,VIA Rail,Total line owned,Kilometres,196,units ,0,0
+1988,Canada,2016A000011124,VIA Rail,"Line owned, first main track",Kilometres,196,units ,0,0
+1988,Canada,2016A000011124,VIA Rail,"Line owned, second and other main track",Kilometres,196,units ,0,0
+1988,Canada,2016A000011124,VIA Rail,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,0
+1988,Canada,2016A000011124,VIA Rail,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,0
+1988,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,0
+1988,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,0
+1988,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,0
+1988,Canada,2016A000011124,Regional railways,Total track operated,Kilometres,196,units ,0,8981
+1988,Canada,2016A000011124,Regional railways,Total line owned,Kilometres,196,units ,0,6143
+1988,Canada,2016A000011124,Regional railways,"Line owned, first main track",Kilometres,196,units ,0,4222
+1988,Canada,2016A000011124,Regional railways,"Line owned, second and other main track",Kilometres,196,units ,0,429
+1988,Canada,2016A000011124,Regional railways,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,1491
+1988,Canada,2016A000011124,Regional railways,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,2838
+1988,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,1567
+1988,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,312
+1988,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,959
+1989,Canada,2016A000011124,Total companies,Total track operated,Kilometres,196,units ,0,88165
+1989,Canada,2016A000011124,Total companies,Total line owned,Kilometres,196,units ,0,71615
+1989,Canada,2016A000011124,Total companies,"Line owned, first main track",Kilometres,196,units ,0,32524
+1989,Canada,2016A000011124,Total companies,"Line owned, second and other main track",Kilometres,196,units ,0,21142
+1989,Canada,2016A000011124,Total companies,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,17948
+1989,Canada,2016A000011124,Total companies,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,16551
+1989,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,5833
+1989,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,4207
+1989,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,6511
+1989,Canada,2016A000011124,Canadian National,Total track operated,Kilometres,196,units ,0,47243
+1989,Canada,2016A000011124,Canadian National,Total line owned,Kilometres,196,units ,0,42798
+1989,Canada,2016A000011124,Canadian National,"Line owned, first main track",Kilometres,196,units ,0,19156
+1989,Canada,2016A000011124,Canadian National,"Line owned, second and other main track",Kilometres,196,units ,0,12721
+1989,Canada,2016A000011124,Canadian National,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,10922
+1989,Canada,2016A000011124,Canadian National,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,4445
+1989,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,961
+1989,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,288
+1989,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,3195
+1989,Canada,2016A000011124,Canadian Pacific,Total track operated,Kilometres,196,units ,0,31720
+1989,Canada,2016A000011124,Canadian Pacific,Total line owned,Kilometres,196,units ,0,22442
+1989,Canada,2016A000011124,Canadian Pacific,"Line owned, first main track",Kilometres,196,units ,0,9054
+1989,Canada,2016A000011124,Canadian Pacific,"Line owned, second and other main track",Kilometres,196,units ,0,7960
+1989,Canada,2016A000011124,Canadian Pacific,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,5427
+1989,Canada,2016A000011124,Canadian Pacific,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,9278
+1989,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,3289
+1989,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,3634
+1989,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,2356
+1989,Canada,2016A000011124,VIA Rail,Total track operated,Kilometres,196,units ,0,0
+1989,Canada,2016A000011124,VIA Rail,Total line owned,Kilometres,196,units ,0,0
+1989,Canada,2016A000011124,VIA Rail,"Line owned, first main track",Kilometres,196,units ,0,0
+1989,Canada,2016A000011124,VIA Rail,"Line owned, second and other main track",Kilometres,196,units ,0,0
+1989,Canada,2016A000011124,VIA Rail,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,0
+1989,Canada,2016A000011124,VIA Rail,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,0
+1989,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,0
+1989,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,0
+1989,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,0
+1989,Canada,2016A000011124,Regional railways,Total track operated,Kilometres,196,units ,0,9202
+1989,Canada,2016A000011124,Regional railways,Total line owned,Kilometres,196,units ,0,6374
+1989,Canada,2016A000011124,Regional railways,"Line owned, first main track",Kilometres,196,units ,0,4315
+1989,Canada,2016A000011124,Regional railways,"Line owned, second and other main track",Kilometres,196,units ,0,461
+1989,Canada,2016A000011124,Regional railways,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,1599
+1989,Canada,2016A000011124,Regional railways,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,2828
+1989,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,1583
+1989,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,285
+1989,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,960
+1990,Canada,2016A000011124,Total companies,Total track operated,Kilometres,196,units ,0,86010
+1990,Canada,2016A000011124,Total companies,Total line owned,Kilometres,196,units ,0,70350
+1990,Canada,2016A000011124,Total companies,"Line owned, first main track",Kilometres,196,units ,0,32459
+1990,Canada,2016A000011124,Total companies,"Line owned, second and other main track",Kilometres,196,units ,0,20244
+1990,Canada,2016A000011124,Total companies,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,17647
+1990,Canada,2016A000011124,Total companies,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,15660
+1990,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,5517
+1990,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,3754
+1990,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,6390
+1990,Canada,2016A000011124,Canadian National,Total track operated,Kilometres,196,units ,0,46205
+1990,Canada,2016A000011124,Canadian National,Total line owned,Kilometres,196,units ,0,42103
+1990,Canada,2016A000011124,Canadian National,"Line owned, first main track",Kilometres,196,units ,0,18854
+1990,Canada,2016A000011124,Canadian National,"Line owned, second and other main track",Kilometres,196,units ,0,12495
+1990,Canada,2016A000011124,Canadian National,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,10754
+1990,Canada,2016A000011124,Canadian National,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,4102
+1990,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,699
+1990,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,288
+1990,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,3115
+1990,Canada,2016A000011124,Canadian Pacific,Total track operated,Kilometres,196,units ,0,30367
+1990,Canada,2016A000011124,Canadian Pacific,Total line owned,Kilometres,196,units ,0,21691
+1990,Canada,2016A000011124,Canadian Pacific,"Line owned, first main track",Kilometres,196,units ,0,9049
+1990,Canada,2016A000011124,Canadian Pacific,"Line owned, second and other main track",Kilometres,196,units ,0,7295
+1990,Canada,2016A000011124,Canadian Pacific,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,5347
+1990,Canada,2016A000011124,Canadian Pacific,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,8676
+1990,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,3235
+1990,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,3180
+1990,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,2261
+1990,Canada,2016A000011124,VIA Rail,Total track operated,Kilometres,196,units ,0,0
+1990,Canada,2016A000011124,VIA Rail,Total line owned,Kilometres,196,units ,0,0
+1990,Canada,2016A000011124,VIA Rail,"Line owned, first main track",Kilometres,196,units ,0,0
+1990,Canada,2016A000011124,VIA Rail,"Line owned, second and other main track",Kilometres,196,units ,0,0
+1990,Canada,2016A000011124,VIA Rail,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,0
+1990,Canada,2016A000011124,VIA Rail,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,0
+1990,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,0
+1990,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,0
+1990,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,0
+1990,Canada,2016A000011124,Regional railways,Total track operated,Kilometres,196,units ,0,9438
+1990,Canada,2016A000011124,Regional railways,Total line owned,Kilometres,196,units ,0,6556
+1990,Canada,2016A000011124,Regional railways,"Line owned, first main track",Kilometres,196,units ,0,4555
+1990,Canada,2016A000011124,Regional railways,"Line owned, second and other main track",Kilometres,196,units ,0,454
+1990,Canada,2016A000011124,Regional railways,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,1546
+1990,Canada,2016A000011124,Regional railways,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,2882
+1990,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,1583
+1990,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,285
+1990,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,1014
+1991,Canada,2016A000011124,Total companies,Total track operated,Kilometres,196,units ,0,85324
+1991,Canada,2016A000011124,Total companies,Total line owned,Kilometres,196,units ,0,69916
+1991,Canada,2016A000011124,Total companies,"Line owned, first main track",Kilometres,196,units ,0,32543
+1991,Canada,2016A000011124,Total companies,"Line owned, second and other main track",Kilometres,196,units ,0,19851
+1991,Canada,2016A000011124,Total companies,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,17523
+1991,Canada,2016A000011124,Total companies,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,15408
+1991,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,5727
+1991,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,3362
+1991,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,6320
+1991,Canada,2016A000011124,Canadian National,Total track operated,Kilometres,196,units ,0,45822
+1991,Canada,2016A000011124,Canadian National,Total line owned,Kilometres,196,units ,0,41772
+1991,Canada,2016A000011124,Canadian National,"Line owned, first main track",Kilometres,196,units ,0,18824
+1991,Canada,2016A000011124,Canadian National,"Line owned, second and other main track",Kilometres,196,units ,0,12289
+1991,Canada,2016A000011124,Canadian National,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,10660
+1991,Canada,2016A000011124,Canadian National,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,4050
+1991,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,903
+1991,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,35
+1991,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,3112
+1991,Canada,2016A000011124,Canadian Pacific,Total track operated,Kilometres,196,units ,0,29939
+1991,Canada,2016A000011124,Canadian Pacific,Total line owned,Kilometres,196,units ,0,21490
+1991,Canada,2016A000011124,Canadian Pacific,"Line owned, first main track",Kilometres,196,units ,0,9051
+1991,Canada,2016A000011124,Canadian Pacific,"Line owned, second and other main track",Kilometres,196,units ,0,7127
+1991,Canada,2016A000011124,Canadian Pacific,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,5312
+1991,Canada,2016A000011124,Canadian Pacific,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,8450
+1991,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,3230
+1991,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,3041
+1991,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,2179
+1991,Canada,2016A000011124,VIA Rail,Total track operated,Kilometres,196,units ,0,0
+1991,Canada,2016A000011124,VIA Rail,Total line owned,Kilometres,196,units ,0,0
+1991,Canada,2016A000011124,VIA Rail,"Line owned, first main track",Kilometres,196,units ,0,0
+1991,Canada,2016A000011124,VIA Rail,"Line owned, second and other main track",Kilometres,196,units ,0,0
+1991,Canada,2016A000011124,VIA Rail,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,0
+1991,Canada,2016A000011124,VIA Rail,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,0
+1991,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,0
+1991,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,0
+1991,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,0
+1991,Canada,2016A000011124,Regional railways,Total track operated,Kilometres,196,units ,0,9562
+1991,Canada,2016A000011124,Regional railways,Total line owned,Kilometres,196,units ,0,6654
+1991,Canada,2016A000011124,Regional railways,"Line owned, first main track",Kilometres,196,units ,0,4668
+1991,Canada,2016A000011124,Regional railways,"Line owned, second and other main track",Kilometres,196,units ,0,435
+1991,Canada,2016A000011124,Regional railways,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,1551
+1991,Canada,2016A000011124,Regional railways,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,2908
+1991,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,1594
+1991,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,285
+1991,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,1029
+1992,Canada,2016A000011124,Total companies,Total track operated,Kilometres,196,units ,0,84951
+1992,Canada,2016A000011124,Total companies,Total line owned,Kilometres,196,units ,0,69929
+1992,Canada,2016A000011124,Total companies,"Line owned, first main track",Kilometres,196,units ,0,33143
+1992,Canada,2016A000011124,Total companies,"Line owned, second and other main track",Kilometres,196,units ,0,19459
+1992,Canada,2016A000011124,Total companies,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,17327
+1992,Canada,2016A000011124,Total companies,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,15022
+1992,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,5770
+1992,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,2982
+1992,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,6269
+1992,Canada,2016A000011124,Canadian National,Total track operated,Kilometres,196,units ,0,45685
+1992,Canada,2016A000011124,Canadian National,Total line owned,Kilometres,196,units ,0,41642
+1992,Canada,2016A000011124,Canadian National,"Line owned, first main track",Kilometres,196,units ,0,19016
+1992,Canada,2016A000011124,Canadian National,"Line owned, second and other main track",Kilometres,196,units ,0,12000
+1992,Canada,2016A000011124,Canadian National,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,10626
+1992,Canada,2016A000011124,Canadian National,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,4042
+1992,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,903
+1992,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,35
+1992,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,3104
+1992,Canada,2016A000011124,Canadian Pacific,Total track operated,Kilometres,196,units ,0,29284
+1992,Canada,2016A000011124,Canadian Pacific,Total line owned,Kilometres,196,units ,0,21212
+1992,Canada,2016A000011124,Canadian Pacific,"Line owned, first main track",Kilometres,196,units ,0,9051
+1992,Canada,2016A000011124,Canadian Pacific,"Line owned, second and other main track",Kilometres,196,units ,0,7024
+1992,Canada,2016A000011124,Canadian Pacific,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,5137
+1992,Canada,2016A000011124,Canadian Pacific,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,8072
+1992,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,3273
+1992,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,2662
+1992,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,2137
+1992,Canada,2016A000011124,VIA Rail,Total track operated,Kilometres,196,units ,0,0
+1992,Canada,2016A000011124,VIA Rail,Total line owned,Kilometres,196,units ,0,0
+1992,Canada,2016A000011124,VIA Rail,"Line owned, first main track",Kilometres,196,units ,0,0
+1992,Canada,2016A000011124,VIA Rail,"Line owned, second and other main track",Kilometres,196,units ,0,0
+1992,Canada,2016A000011124,VIA Rail,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,0
+1992,Canada,2016A000011124,VIA Rail,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,0
+1992,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,0
+1992,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,0
+1992,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,0
+1992,Canada,2016A000011124,Regional railways,Total track operated,Kilometres,196,units ,0,9982
+1992,Canada,2016A000011124,Regional railways,Total line owned,Kilometres,196,units ,0,7074
+1992,Canada,2016A000011124,Regional railways,"Line owned, first main track",Kilometres,196,units ,0,5076
+1992,Canada,2016A000011124,Regional railways,"Line owned, second and other main track",Kilometres,196,units ,0,435
+1992,Canada,2016A000011124,Regional railways,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,1563
+1992,Canada,2016A000011124,Regional railways,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,2908
+1992,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,1594
+1992,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,285
+1992,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,1029
+1993,Canada,2016A000011124,Total companies,Total track operated,Kilometres,196,units ,0,84408
+1993,Canada,2016A000011124,Total companies,Total line owned,Kilometres,196,units ,0,69642
+1993,Canada,2016A000011124,Total companies,"Line owned, first main track",Kilometres,196,units ,0,33071
+1993,Canada,2016A000011124,Total companies,"Line owned, second and other main track",Kilometres,196,units ,0,19350
+1993,Canada,2016A000011124,Total companies,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,17221
+1993,Canada,2016A000011124,Total companies,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,14766
+1993,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,4973
+1993,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,3622
+1993,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,6171
+1993,Canada,2016A000011124,Canadian National,Total track operated,Kilometres,196,units ,0,45203
+1993,Canada,2016A000011124,Canadian National,Total line owned,Kilometres,196,units ,0,41190
+1993,Canada,2016A000011124,Canadian National,"Line owned, first main track",Kilometres,196,units ,0,18829
+1993,Canada,2016A000011124,Canadian National,"Line owned, second and other main track",Kilometres,196,units ,0,11806
+1993,Canada,2016A000011124,Canadian National,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,10555
+1993,Canada,2016A000011124,Canadian National,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,4013
+1993,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,909
+1993,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,35
+1993,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,3069
+1993,Canada,2016A000011124,Canadian Pacific,Total track operated,Kilometres,196,units ,0,28948
+1993,Canada,2016A000011124,Canadian Pacific,Total line owned,Kilometres,196,units ,0,21106
+1993,Canada,2016A000011124,Canadian Pacific,"Line owned, first main track",Kilometres,196,units ,0,8959
+1993,Canada,2016A000011124,Canadian Pacific,"Line owned, second and other main track",Kilometres,196,units ,0,7118
+1993,Canada,2016A000011124,Canadian Pacific,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,5029
+1993,Canada,2016A000011124,Canadian Pacific,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,7842
+1993,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,2470
+1993,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,3301
+1993,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,2071
+1993,Canada,2016A000011124,VIA Rail,Total track operated,Kilometres,196,units ,0,0
+1993,Canada,2016A000011124,VIA Rail,Total line owned,Kilometres,196,units ,0,0
+1993,Canada,2016A000011124,VIA Rail,"Line owned, first main track",Kilometres,196,units ,0,0
+1993,Canada,2016A000011124,VIA Rail,"Line owned, second and other main track",Kilometres,196,units ,0,0
+1993,Canada,2016A000011124,VIA Rail,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,0
+1993,Canada,2016A000011124,VIA Rail,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,0
+1993,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,0
+1993,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,0
+1993,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,0
+1993,Canada,2016A000011124,Regional railways,Total track operated,Kilometres,196,units ,0,10257
+1993,Canada,2016A000011124,Regional railways,Total line owned,Kilometres,196,units ,0,7346
+1993,Canada,2016A000011124,Regional railways,"Line owned, first main track",Kilometres,196,units ,0,5283
+1993,Canada,2016A000011124,Regional railways,"Line owned, second and other main track",Kilometres,196,units ,0,425
+1993,Canada,2016A000011124,Regional railways,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,1638
+1993,Canada,2016A000011124,Regional railways,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,2911
+1993,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,1594
+1993,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,286
+1993,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,1031
+1994,Canada,2016A000011124,Total companies,Total track operated,Kilometres,196,units ,0,83506
+1994,Canada,2016A000011124,Total companies,Total line owned,Kilometres,196,units ,0,69362
+1994,Canada,2016A000011124,Total companies,"Line owned, first main track",Kilometres,196,units ,0,33462
+1994,Canada,2016A000011124,Total companies,"Line owned, second and other main track",Kilometres,196,units ,0,18777
+1994,Canada,2016A000011124,Total companies,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,17124
+1994,Canada,2016A000011124,Total companies,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,14144
+1994,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,4973
+1994,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,3061
+1994,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,6111
+1994,Canada,2016A000011124,Canadian National,Total track operated,Kilometres,196,units ,0,44796
+1994,Canada,2016A000011124,Canadian National,Total line owned,Kilometres,196,units ,0,40796
+1994,Canada,2016A000011124,Canadian National,"Line owned, first main track",Kilometres,196,units ,0,18827
+1994,Canada,2016A000011124,Canadian National,"Line owned, second and other main track",Kilometres,196,units ,0,11457
+1994,Canada,2016A000011124,Canadian National,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,10511
+1994,Canada,2016A000011124,Canadian National,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,4000
+1994,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,907
+1994,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,35
+1994,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,3057
+1994,Canada,2016A000011124,Canadian Pacific,Total track operated,Kilometres,196,units ,0,28152
+1994,Canada,2016A000011124,Canadian Pacific,Total line owned,Kilometres,196,units ,0,20937
+1994,Canada,2016A000011124,Canadian Pacific,"Line owned, first main track",Kilometres,196,units ,0,8959
+1994,Canada,2016A000011124,Canadian Pacific,"Line owned, second and other main track",Kilometres,196,units ,0,6977
+1994,Canada,2016A000011124,Canadian Pacific,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,5000
+1994,Canada,2016A000011124,Canadian Pacific,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,7215
+1994,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,2470
+1994,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,2737
+1994,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,2008
+1994,Canada,2016A000011124,VIA Rail,Total track operated,Kilometres,196,units ,0,0
+1994,Canada,2016A000011124,VIA Rail,Total line owned,Kilometres,196,units ,0,0
+1994,Canada,2016A000011124,VIA Rail,"Line owned, first main track",Kilometres,196,units ,0,0
+1994,Canada,2016A000011124,VIA Rail,"Line owned, second and other main track",Kilometres,196,units ,0,0
+1994,Canada,2016A000011124,VIA Rail,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,0
+1994,Canada,2016A000011124,VIA Rail,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,0
+1994,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,0
+1994,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,0
+1994,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,0
+1994,Canada,2016A000011124,Regional railways,Total track operated,Kilometres,196,units ,0,10558
+1994,Canada,2016A000011124,Regional railways,Total line owned,Kilometres,196,units ,0,7629
+1994,Canada,2016A000011124,Regional railways,"Line owned, first main track",Kilometres,196,units ,0,5675
+1994,Canada,2016A000011124,Regional railways,"Line owned, second and other main track",Kilometres,196,units ,0,342
+1994,Canada,2016A000011124,Regional railways,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,1612
+1994,Canada,2016A000011124,Regional railways,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,2929
+1994,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,1596
+1994,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,288
+1994,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,1045
+1995,Canada,2016A000011124,Total companies,Total track operated,Kilometres,196,units ,0,80267
+1995,Canada,2016A000011124,Total companies,Total line owned,Kilometres,196,units ,0,67653
+1995,Canada,2016A000011124,Total companies,"Line owned, first main track",Kilometres,196,units ,0,33396
+1995,Canada,2016A000011124,Total companies,"Line owned, second and other main track",Kilometres,196,units ,0,17668
+1995,Canada,2016A000011124,Total companies,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,16588
+1995,Canada,2016A000011124,Total companies,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,12615
+1995,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,4615
+1995,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,2309
+1995,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,5690
+1995,Canada,2016A000011124,Canadian National,Total track operated,Kilometres,196,units ,0,42597
+1995,Canada,2016A000011124,Canadian National,Total line owned,Kilometres,196,units ,0,39189
+1995,Canada,2016A000011124,Canadian National,"Line owned, first main track",Kilometres,196,units ,0,18550
+1995,Canada,2016A000011124,Canadian National,"Line owned, second and other main track",Kilometres,196,units ,0,10634
+1995,Canada,2016A000011124,Canadian National,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,10005
+1995,Canada,2016A000011124,Canadian National,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,3408
+1995,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,497
+1995,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,35
+1995,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,2876
+1995,Canada,2016A000011124,Canadian Pacific,Total track operated,Kilometres,196,units ,0,26868
+1995,Canada,2016A000011124,Canadian Pacific,Total line owned,Kilometres,196,units ,0,20612
+1995,Canada,2016A000011124,Canadian Pacific,"Line owned, first main track",Kilometres,196,units ,0,8962
+1995,Canada,2016A000011124,Canadian Pacific,"Line owned, second and other main track",Kilometres,196,units ,0,6694
+1995,Canada,2016A000011124,Canadian Pacific,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,4956
+1995,Canada,2016A000011124,Canadian Pacific,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,6256
+1995,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,2470
+1995,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,1994
+1995,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,1791
+1995,Canada,2016A000011124,VIA Rail,Total track operated,Kilometres,196,units ,0,0
+1995,Canada,2016A000011124,VIA Rail,Total line owned,Kilometres,196,units ,0,0
+1995,Canada,2016A000011124,VIA Rail,"Line owned, first main track",Kilometres,196,units ,0,0
+1995,Canada,2016A000011124,VIA Rail,"Line owned, second and other main track",Kilometres,196,units ,0,0
+1995,Canada,2016A000011124,VIA Rail,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,0
+1995,Canada,2016A000011124,VIA Rail,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,0
+1995,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,0
+1995,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,0
+1995,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,0
+1995,Canada,2016A000011124,Regional railways,Total track operated,Kilometres,196,units ,0,10803
+1995,Canada,2016A000011124,Regional railways,Total line owned,Kilometres,196,units ,0,7852
+1995,Canada,2016A000011124,Regional railways,"Line owned, first main track",Kilometres,196,units ,0,5883
+1995,Canada,2016A000011124,Regional railways,"Line owned, second and other main track",Kilometres,196,units ,0,341
+1995,Canada,2016A000011124,Regional railways,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,1628
+1995,Canada,2016A000011124,Regional railways,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,2951
+1995,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,1649
+1995,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,280
+1995,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,1023
+1996,Canada,2016A000011124,Total companies,Total track operated,Kilometres,196,units ,0,77390
+1996,Canada,2016A000011124,Total companies,Total line owned,Kilometres,196,units ,0,65576
+1996,Canada,2016A000011124,Total companies,"Line owned, first main track",Kilometres,196,units ,0,45931
+1996,Canada,2016A000011124,Total companies,"Line owned, second and other main track",Kilometres,196,units ,0,3321
+1996,Canada,2016A000011124,Total companies,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,16325
+1996,Canada,2016A000011124,Total companies,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,11814
+1996,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,5931
+1996,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,717
+1996,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,5166
+1996,Canada,2016A000011124,Canadian National,Total track operated,Kilometres,196,units ,0,41086
+1996,Canada,2016A000011124,Canadian National,Total line owned,Kilometres,196,units ,0,37704
+1996,Canada,2016A000011124,Canadian National,"Line owned, first main track",Kilometres,196,units ,0,25841
+1996,Canada,2016A000011124,Canadian National,"Line owned, second and other main track",Kilometres,196,units ,0,2062
+1996,Canada,2016A000011124,Canadian National,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,9801
+1996,Canada,2016A000011124,Canadian National,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,3382
+1996,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,467
+1996,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,64
+1996,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,2850
+1996,Canada,2016A000011124,Canadian Pacific,Total track operated,Kilometres,196,units ,0,25757
+1996,Canada,2016A000011124,Canadian Pacific,Total line owned,Kilometres,196,units ,0,20086
+1996,Canada,2016A000011124,Canadian Pacific,"Line owned, first main track",Kilometres,196,units ,0,14099
+1996,Canada,2016A000011124,Canadian Pacific,"Line owned, second and other main track",Kilometres,196,units ,0,1096
+1996,Canada,2016A000011124,Canadian Pacific,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,4891
+1996,Canada,2016A000011124,Canadian Pacific,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,5671
+1996,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,3566
+1996,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,454
+1996,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,1651
+1996,Canada,2016A000011124,VIA Rail,Total track operated,Kilometres,196,units ,0,100
+1996,Canada,2016A000011124,VIA Rail,Total line owned,Kilometres,196,units ,0,92
+1996,Canada,2016A000011124,VIA Rail,"Line owned, first main track",Kilometres,196,units ,0,92
+1996,Canada,2016A000011124,VIA Rail,"Line owned, second and other main track",Kilometres,196,units ,0,0
+1996,Canada,2016A000011124,VIA Rail,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,0
+1996,Canada,2016A000011124,VIA Rail,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,8
+1996,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,8
+1996,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,0
+1996,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,0
+1996,Canada,2016A000011124,Regional railways,Total track operated,Kilometres,196,units ,0,10448
+1996,Canada,2016A000011124,Regional railways,Total line owned,Kilometres,196,units ,0,7694
+1996,Canada,2016A000011124,Regional railways,"Line owned, first main track",Kilometres,196,units ,0,5899
+1996,Canada,2016A000011124,Regional railways,"Line owned, second and other main track",Kilometres,196,units ,0,162
+1996,Canada,2016A000011124,Regional railways,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,1633
+1996,Canada,2016A000011124,Regional railways,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,2753
+1996,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,1890
+1996,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,198
+1996,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,665
+1997,Canada,2016A000011124,Total companies,Total track operated,Kilometres,196,units ,0,76063
+1997,Canada,2016A000011124,Total companies,Total line owned,Kilometres,196,units ,0,64395
+1997,Canada,2016A000011124,Total companies,"Line owned, first main track",Kilometres,196,units ,0,45030
+1997,Canada,2016A000011124,Total companies,"Line owned, second and other main track",Kilometres,196,units ,0,3229
+1997,Canada,2016A000011124,Total companies,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,16136
+1997,Canada,2016A000011124,Total companies,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,11667
+1997,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,5847
+1997,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,684
+1997,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,5136
+1997,Canada,2016A000011124,Canadian National,Total track operated,Kilometres,196,units ,0,37738
+1997,Canada,2016A000011124,Canadian National,Total line owned,Kilometres,196,units ,0,34511
+1997,Canada,2016A000011124,Canadian National,"Line owned, first main track",Kilometres,196,units ,0,23120
+1997,Canada,2016A000011124,Canadian National,"Line owned, second and other main track",Kilometres,196,units ,0,2042
+1997,Canada,2016A000011124,Canadian National,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,9350
+1997,Canada,2016A000011124,Canadian National,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,3227
+1997,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,468
+1997,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,64
+1997,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,2695
+1997,Canada,2016A000011124,Canadian Pacific,Total track operated,Kilometres,196,units ,0,25269
+1997,Canada,2016A000011124,Canadian Pacific,Total line owned,Kilometres,196,units ,0,19225
+1997,Canada,2016A000011124,Canadian Pacific,"Line owned, first main track",Kilometres,196,units ,0,13358
+1997,Canada,2016A000011124,Canadian Pacific,"Line owned, second and other main track",Kilometres,196,units ,0,988
+1997,Canada,2016A000011124,Canadian Pacific,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,4878
+1997,Canada,2016A000011124,Canadian Pacific,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,6044
+1997,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,3832
+1997,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,453
+1997,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,1759
+1997,Canada,2016A000011124,VIA Rail,Total track operated,Kilometres,196,units ,0,100
+1997,Canada,2016A000011124,VIA Rail,Total line owned,Kilometres,196,units ,0,92
+1997,Canada,2016A000011124,VIA Rail,"Line owned, first main track",Kilometres,196,units ,0,92
+1997,Canada,2016A000011124,VIA Rail,"Line owned, second and other main track",Kilometres,196,units ,0,0
+1997,Canada,2016A000011124,VIA Rail,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,0
+1997,Canada,2016A000011124,VIA Rail,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,8
+1997,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,8
+1997,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,0
+1997,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,0
+1997,Canada,2016A000011124,Regional railways,Total track operated,Kilometres,196,units ,0,12956
+1997,Canada,2016A000011124,Regional railways,Total line owned,Kilometres,196,units ,0,10567
+1997,Canada,2016A000011124,Regional railways,"Line owned, first main track",Kilometres,196,units ,0,8460
+1997,Canada,2016A000011124,Regional railways,"Line owned, second and other main track",Kilometres,196,units ,0,199
+1997,Canada,2016A000011124,Regional railways,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,1908
+1997,Canada,2016A000011124,Regional railways,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,2388
+1997,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,1539
+1997,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,167
+1997,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,682
+1998,Canada,2016A000011124,Total companies,Total track operated,Kilometres,196,units ,0,74530
+1998,Canada,2016A000011124,Total companies,Total line owned,Kilometres,196,units ,0,63071
+1998,Canada,2016A000011124,Total companies,"Line owned, first main track",Kilometres,196,units ,0,44054
+1998,Canada,2016A000011124,Total companies,"Line owned, second and other main track",Kilometres,196,units ,0,3243
+1998,Canada,2016A000011124,Total companies,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,15774
+1998,Canada,2016A000011124,Total companies,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,11459
+1998,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,5856
+1998,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,686
+1998,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,4917
+1998,Canada,2016A000011124,Canadian National,Total track operated,Kilometres,196,units ,0,34483
+1998,Canada,2016A000011124,Canadian National,Total line owned,Kilometres,196,units ,0,31520
+1998,Canada,2016A000011124,Canadian National,"Line owned, first main track",Kilometres,196,units ,0,20656
+1998,Canada,2016A000011124,Canadian National,"Line owned, second and other main track",Kilometres,196,units ,0,2054
+1998,Canada,2016A000011124,Canadian National,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,8810
+1998,Canada,2016A000011124,Canadian National,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,2963
+1998,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,457
+1998,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,64
+1998,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,2442
+1998,Canada,2016A000011124,Canadian Pacific,Total track operated,Kilometres,196,units ,0,24635
+1998,Canada,2016A000011124,Canadian Pacific,Total line owned,Kilometres,196,units ,0,19099
+1998,Canada,2016A000011124,Canadian Pacific,"Line owned, first main track",Kilometres,196,units ,0,13183
+1998,Canada,2016A000011124,Canadian Pacific,"Line owned, second and other main track",Kilometres,196,units ,0,988
+1998,Canada,2016A000011124,Canadian Pacific,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,4928
+1998,Canada,2016A000011124,Canadian Pacific,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,5535
+1998,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,3411
+1998,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,453
+1998,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,1671
+1998,Canada,2016A000011124,VIA Rail,Total track operated,Kilometres,196,units ,0,216
+1998,Canada,2016A000011124,VIA Rail,Total line owned,Kilometres,196,units ,0,208
+1998,Canada,2016A000011124,VIA Rail,"Line owned, first main track",Kilometres,196,units ,0,208
+1998,Canada,2016A000011124,VIA Rail,"Line owned, second and other main track",Kilometres,196,units ,0,0
+1998,Canada,2016A000011124,VIA Rail,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,0
+1998,Canada,2016A000011124,VIA Rail,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,8
+1998,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,8
+1998,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,0
+1998,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,0
+1998,Canada,2016A000011124,Regional railways,Total track operated,Kilometres,196,units ,0,15196
+1998,Canada,2016A000011124,Regional railways,Total line owned,Kilometres,196,units ,0,12244
+1998,Canada,2016A000011124,Regional railways,"Line owned, first main track",Kilometres,196,units ,0,10007
+1998,Canada,2016A000011124,Regional railways,"Line owned, second and other main track",Kilometres,196,units ,0,200
+1998,Canada,2016A000011124,Regional railways,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,2037
+1998,Canada,2016A000011124,Regional railways,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,2952
+1998,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,1979
+1998,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,169
+1998,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,804
+1999,Canada,2016A000011124,Total companies,Total track operated,Kilometres,196,units ,0,74052
+1999,Canada,2016A000011124,Total companies,Total line owned,Kilometres,196,units ,0,62373
+1999,Canada,2016A000011124,Total companies,"Line owned, first main track",Kilometres,196,units ,0,43368
+1999,Canada,2016A000011124,Total companies,"Line owned, second and other main track",Kilometres,196,units ,0,3234
+1999,Canada,2016A000011124,Total companies,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,15772
+1999,Canada,2016A000011124,Total companies,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,11679
+1999,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,5888
+1999,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,938
+1999,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,4853
+1999,Canada,2016A000011124,Canadian National,Total track operated,Kilometres,196,units ,0,32360
+1999,Canada,2016A000011124,Canadian National,Total line owned,Kilometres,196,units ,0,29463
+1999,Canada,2016A000011124,Canadian National,"Line owned, first main track",Kilometres,196,units ,0,18866
+1999,Canada,2016A000011124,Canadian National,"Line owned, second and other main track",Kilometres,196,units ,0,2036
+1999,Canada,2016A000011124,Canadian National,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,8561
+1999,Canada,2016A000011124,Canadian National,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,2896
+1999,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,457
+1999,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,64
+1999,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,2375
+1999,Canada,2016A000011124,Canadian Pacific,Total track operated,Kilometres,196,units ,0,23154
+1999,Canada,2016A000011124,Canadian Pacific,Total line owned,Kilometres,196,units ,0,18263
+1999,Canada,2016A000011124,Canadian Pacific,"Line owned, first main track",Kilometres,196,units ,0,12559
+1999,Canada,2016A000011124,Canadian Pacific,"Line owned, second and other main track",Kilometres,196,units ,0,906
+1999,Canada,2016A000011124,Canadian Pacific,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,4797
+1999,Canada,2016A000011124,Canadian Pacific,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,4891
+1999,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,2890
+1999,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,454
+1999,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,1547
+1999,Canada,2016A000011124,VIA Rail,Total track operated,Kilometres,196,units ,0,216
+1999,Canada,2016A000011124,VIA Rail,Total line owned,Kilometres,196,units ,0,208
+1999,Canada,2016A000011124,VIA Rail,"Line owned, first main track",Kilometres,196,units ,0,208
+1999,Canada,2016A000011124,VIA Rail,"Line owned, second and other main track",Kilometres,196,units ,0,0
+1999,Canada,2016A000011124,VIA Rail,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,0
+1999,Canada,2016A000011124,VIA Rail,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,8
+1999,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,8
+1999,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,0
+1999,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,0
+1999,Canada,2016A000011124,Regional railways,Total track operated,Kilometres,196,units ,0,18323
+1999,Canada,2016A000011124,Regional railways,Total line owned,Kilometres,196,units ,0,14440
+1999,Canada,2016A000011124,Regional railways,"Line owned, first main track",Kilometres,196,units ,0,11734
+1999,Canada,2016A000011124,Regional railways,"Line owned, second and other main track",Kilometres,196,units ,0,291
+1999,Canada,2016A000011124,Regional railways,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,2414
+1999,Canada,2016A000011124,Regional railways,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,3883
+1999,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,2532
+1999,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,420
+1999,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,931
+2000,Canada,2016A000011124,Total companies,Total track operated,Kilometres,196,units ,0,74412
+2000,Canada,2016A000011124,Total companies,Total line owned,Kilometres,196,units ,0,62672
+2000,Canada,2016A000011124,Total companies,"Line owned, first main track",Kilometres,196,units ,0,43390
+2000,Canada,2016A000011124,Total companies,"Line owned, second and other main track",Kilometres,196,units ,0,3231
+2000,Canada,2016A000011124,Total companies,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,16051
+2000,Canada,2016A000011124,Total companies,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,11741
+2000,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,6132
+2000,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,932
+2000,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,4677
+2000,Canada,2016A000011124,Canadian National,Total track operated,Kilometres,196,units ,0,31764
+2000,Canada,2016A000011124,Canadian National,Total line owned,Kilometres,196,units ,0,29117
+2000,Canada,2016A000011124,Canadian National,"Line owned, first main track",Kilometres,196,units ,0,18509
+2000,Canada,2016A000011124,Canadian National,"Line owned, second and other main track",Kilometres,196,units ,0,2033
+2000,Canada,2016A000011124,Canadian National,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,8575
+2000,Canada,2016A000011124,Canadian National,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,2647
+2000,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,457
+2000,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,64
+2000,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,2126
+2000,Canada,2016A000011124,Canadian Pacific,Total track operated,Kilometres,196,units ,0,22590
+2000,Canada,2016A000011124,Canadian Pacific,Total line owned,Kilometres,196,units ,0,17762
+2000,Canada,2016A000011124,Canadian Pacific,"Line owned, first main track",Kilometres,196,units ,0,12043
+2000,Canada,2016A000011124,Canadian Pacific,"Line owned, second and other main track",Kilometres,196,units ,0,906
+2000,Canada,2016A000011124,Canadian Pacific,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,4814
+2000,Canada,2016A000011124,Canadian Pacific,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,4828
+2000,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,2839
+2000,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,449
+2000,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,1540
+2000,Canada,2016A000011124,VIA Rail,Total track operated,Kilometres,196,units ,0,216
+2000,Canada,2016A000011124,VIA Rail,Total line owned,Kilometres,196,units ,0,208
+2000,Canada,2016A000011124,VIA Rail,"Line owned, first main track",Kilometres,196,units ,0,208
+2000,Canada,2016A000011124,VIA Rail,"Line owned, second and other main track",Kilometres,196,units ,0,0
+2000,Canada,2016A000011124,VIA Rail,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,0
+2000,Canada,2016A000011124,VIA Rail,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,8
+2000,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,8
+2000,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,0
+2000,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,0
+2000,Canada,2016A000011124,Regional railways,Total track operated,Kilometres,196,units ,0,19842
+2000,Canada,2016A000011124,Regional railways,Total line owned,Kilometres,196,units ,0,15585
+2000,Canada,2016A000011124,Regional railways,"Line owned, first main track",Kilometres,196,units ,0,12630
+2000,Canada,2016A000011124,Regional railways,"Line owned, second and other main track",Kilometres,196,units ,0,292
+2000,Canada,2016A000011124,Regional railways,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,2662
+2000,Canada,2016A000011124,Regional railways,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,4257
+2000,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,2828
+2000,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,418
+2000,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,1011
+2001,Canada,2016A000011124,Total companies,Total track operated,Kilometres,196,units ,0,73821
+2001,Canada,2016A000011124,Total companies,Total line owned,Kilometres,196,units ,0,62004
+2001,Canada,2016A000011124,Total companies,"Line owned, first main track",Kilometres,196,units ,0,43108
+2001,Canada,2016A000011124,Total companies,"Line owned, second and other main track",Kilometres,196,units ,0,2967
+2001,Canada,2016A000011124,Total companies,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,15929
+2001,Canada,2016A000011124,Total companies,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,11816
+2001,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,6130
+2001,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,933
+2001,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,4755
+2001,Canada,2016A000011124,Canadian National,Total track operated,Kilometres,196,units ,0,31333
+2001,Canada,2016A000011124,Canadian National,Total line owned,Kilometres,196,units ,0,28696
+2001,Canada,2016A000011124,Canadian National,"Line owned, first main track",Kilometres,196,units ,0,18394
+2001,Canada,2016A000011124,Canadian National,"Line owned, second and other main track",Kilometres,196,units ,0,1932
+2001,Canada,2016A000011124,Canadian National,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,8370
+2001,Canada,2016A000011124,Canadian National,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,2637
+2001,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,467
+2001,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,64
+2001,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,2106
+2001,Canada,2016A000011124,Canadian Pacific,Total track operated,Kilometres,196,units ,0,22383
+2001,Canada,2016A000011124,Canadian Pacific,Total line owned,Kilometres,196,units ,0,17554
+2001,Canada,2016A000011124,Canadian Pacific,"Line owned, first main track",Kilometres,196,units ,0,11946
+2001,Canada,2016A000011124,Canadian Pacific,"Line owned, second and other main track",Kilometres,196,units ,0,803
+2001,Canada,2016A000011124,Canadian Pacific,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,4805
+2001,Canada,2016A000011124,Canadian Pacific,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,4829
+2001,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,2816
+2001,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,450
+2001,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,1563
+2001,Canada,2016A000011124,VIA Rail,Total track operated,Kilometres,196,units ,0,216
+2001,Canada,2016A000011124,VIA Rail,Total line owned,Kilometres,196,units ,0,208
+2001,Canada,2016A000011124,VIA Rail,"Line owned, first main track",Kilometres,196,units ,0,208
+2001,Canada,2016A000011124,VIA Rail,"Line owned, second and other main track",Kilometres,196,units ,0,0
+2001,Canada,2016A000011124,VIA Rail,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,0
+2001,Canada,2016A000011124,VIA Rail,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,8
+2001,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,8
+2001,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,0
+2001,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,0
+2001,Canada,2016A000011124,Regional railways,Total track operated,Kilometres,196,units ,0,19891
+2001,Canada,2016A000011124,Regional railways,Total line owned,Kilometres,196,units ,0,15546
+2001,Canada,2016A000011124,Regional railways,"Line owned, first main track",Kilometres,196,units ,0,12558
+2001,Canada,2016A000011124,Regional railways,"Line owned, second and other main track",Kilometres,196,units ,0,234
+2001,Canada,2016A000011124,Regional railways,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,2753
+2001,Canada,2016A000011124,Regional railways,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,4345
+2001,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,2840
+2001,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,418
+2001,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,1086
+2002,Canada,2016A000011124,Total companies,Total track operated,Kilometres,196,units ,0,73186
+2002,Canada,2016A000011124,Total companies,Total line owned,Kilometres,196,units ,0,61715
+2002,Canada,2016A000011124,Total companies,"Line owned, first main track",Kilometres,196,units ,0,43063
+2002,Canada,2016A000011124,Total companies,"Line owned, second and other main track",Kilometres,196,units ,0,3033
+2002,Canada,2016A000011124,Total companies,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,15619
+2002,Canada,2016A000011124,Total companies,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,11470
+2002,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,6095
+2002,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,906
+2002,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,4471
+2002,Canada,2016A000011124,Canadian National,Total track operated,Kilometres,196,units ,0,30714
+2002,Canada,2016A000011124,Canadian National,Total line owned,Kilometres,196,units ,0,28418
+2002,Canada,2016A000011124,Canadian National,"Line owned, first main track",Kilometres,196,units ,0,18284
+2002,Canada,2016A000011124,Canadian National,"Line owned, second and other main track",Kilometres,196,units ,0,1998
+2002,Canada,2016A000011124,Canadian National,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,8137
+2002,Canada,2016A000011124,Canadian National,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,2296
+2002,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,330
+2002,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,62
+2002,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,1903
+2002,Canada,2016A000011124,Canadian Pacific,Total track operated,Kilometres,196,units ,0,22360
+2002,Canada,2016A000011124,Canadian Pacific,Total line owned,Kilometres,196,units ,0,17542
+2002,Canada,2016A000011124,Canadian Pacific,"Line owned, first main track",Kilometres,196,units ,0,11948
+2002,Canada,2016A000011124,Canadian Pacific,"Line owned, second and other main track",Kilometres,196,units ,0,801
+2002,Canada,2016A000011124,Canadian Pacific,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,4793
+2002,Canada,2016A000011124,Canadian Pacific,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,4818
+2002,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,2807
+2002,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,452
+2002,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,1559
+2002,Canada,2016A000011124,VIA Rail,Total track operated,Kilometres,196,units ,0,216
+2002,Canada,2016A000011124,VIA Rail,Total line owned,Kilometres,196,units ,0,208
+2002,Canada,2016A000011124,VIA Rail,"Line owned, first main track",Kilometres,196,units ,0,208
+2002,Canada,2016A000011124,VIA Rail,"Line owned, second and other main track",Kilometres,196,units ,0,0
+2002,Canada,2016A000011124,VIA Rail,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,0
+2002,Canada,2016A000011124,VIA Rail,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,8
+2002,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,8
+2002,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,0
+2002,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,0
+2002,Canada,2016A000011124,Regional railways,Total track operated,Kilometres,196,units ,0,19896
+2002,Canada,2016A000011124,Regional railways,Total line owned,Kilometres,196,units ,0,15548
+2002,Canada,2016A000011124,Regional railways,"Line owned, first main track",Kilometres,196,units ,0,12624
+2002,Canada,2016A000011124,Regional railways,"Line owned, second and other main track",Kilometres,196,units ,0,234
+2002,Canada,2016A000011124,Regional railways,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,2690
+2002,Canada,2016A000011124,Regional railways,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,4348
+2002,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,2950
+2002,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,391
+2002,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,1008
+2003,Canada,2016A000011124,Total companies,Total track operated,Kilometres,196,units ,0,71920
+2003,Canada,2016A000011124,Total companies,Total line owned,Kilometres,196,units ,0,60431
+2003,Canada,2016A000011124,Total companies,"Line owned, first main track",Kilometres,196,units ,0,42082
+2003,Canada,2016A000011124,Total companies,"Line owned, second and other main track",Kilometres,196,units ,0,2889
+2003,Canada,2016A000011124,Total companies,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,15460
+2003,Canada,2016A000011124,Total companies,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,11488
+2003,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,6115
+2003,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,923
+2003,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,4450
+2003,Canada,2016A000011124,Canadian National,Total track operated,Kilometres,196,units ,0,30822
+2003,Canada,2016A000011124,Canadian National,Total line owned,Kilometres,196,units ,0,28535
+2003,Canada,2016A000011124,Canadian National,"Line owned, first main track",Kilometres,196,units ,0,18420
+2003,Canada,2016A000011124,Canadian National,"Line owned, second and other main track",Kilometres,196,units ,0,1966
+2003,Canada,2016A000011124,Canadian National,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,8149
+2003,Canada,2016A000011124,Canadian National,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,2287
+2003,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,333
+2003,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,59
+2003,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,1894
+2003,Canada,2016A000011124,Canadian Pacific,Total track operated,Kilometres,196,units ,0,22222
+2003,Canada,2016A000011124,Canadian Pacific,Total line owned,Kilometres,196,units ,0,17405
+2003,Canada,2016A000011124,Canadian Pacific,"Line owned, first main track",Kilometres,196,units ,0,11866
+2003,Canada,2016A000011124,Canadian Pacific,"Line owned, second and other main track",Kilometres,196,units ,0,763
+2003,Canada,2016A000011124,Canadian Pacific,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,4777
+2003,Canada,2016A000011124,Canadian Pacific,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,4817
+2003,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,2807
+2003,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,452
+2003,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,1558
+2003,Canada,2016A000011124,VIA Rail,Total track operated,Kilometres,196,units ,0,216
+2003,Canada,2016A000011124,VIA Rail,Total line owned,Kilometres,196,units ,0,208
+2003,Canada,2016A000011124,VIA Rail,"Line owned, first main track",Kilometres,196,units ,0,208
+2003,Canada,2016A000011124,VIA Rail,"Line owned, second and other main track",Kilometres,196,units ,0,0
+2003,Canada,2016A000011124,VIA Rail,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,0
+2003,Canada,2016A000011124,VIA Rail,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,8
+2003,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,8
+2003,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,0
+2003,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,0
+2003,Canada,2016A000011124,Regional railways,Total track operated,Kilometres,196,units ,0,18660
+2003,Canada,2016A000011124,Regional railways,Total line owned,Kilometres,196,units ,0,14284
+2003,Canada,2016A000011124,Regional railways,"Line owned, first main track",Kilometres,196,units ,0,11588
+2003,Canada,2016A000011124,Regional railways,"Line owned, second and other main track",Kilometres,196,units ,0,160
+2003,Canada,2016A000011124,Regional railways,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,2535
+2003,Canada,2016A000011124,Regional railways,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,4377
+2003,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,2967
+2003,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,412
+2003,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,998
+2004,Canada,2016A000011124,Total companies,Total track operated,Kilometres,196,units ,0,72048
+2004,Canada,2016A000011124,Total companies,Total line owned,Kilometres,196,units ,0,60655
+2004,Canada,2016A000011124,Total companies,"Line owned, first main track",Kilometres,196,units ,0,42163
+2004,Canada,2016A000011124,Total companies,"Line owned, second and other main track",Kilometres,196,units ,0,3017
+2004,Canada,2016A000011124,Total companies,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,15475
+2004,Canada,2016A000011124,Total companies,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,11393
+2004,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,6099
+2004,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,970
+2004,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,4325
+2004,Canada,2016A000011124,Canadian National,Total track operated,Kilometres,196,units ,0,30853
+2004,Canada,2016A000011124,Canadian National,Total line owned,Kilometres,196,units ,0,28561
+2004,Canada,2016A000011124,Canadian National,"Line owned, first main track",Kilometres,196,units ,0,18424
+2004,Canada,2016A000011124,Canadian National,"Line owned, second and other main track",Kilometres,196,units ,0,1967
+2004,Canada,2016A000011124,Canadian National,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,8170
+2004,Canada,2016A000011124,Canadian National,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,2291
+2004,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,338
+2004,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,59
+2004,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,1894
+2004,Canada,2016A000011124,Canadian Pacific,Total track operated,Kilometres,196,units ,0,22193
+2004,Canada,2016A000011124,Canadian Pacific,Total line owned,Kilometres,196,units ,0,17384
+2004,Canada,2016A000011124,Canadian Pacific,"Line owned, first main track",Kilometres,196,units ,0,11827
+2004,Canada,2016A000011124,Canadian Pacific,"Line owned, second and other main track",Kilometres,196,units ,0,766
+2004,Canada,2016A000011124,Canadian Pacific,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,4791
+2004,Canada,2016A000011124,Canadian Pacific,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,4809
+2004,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,2807
+2004,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,452
+2004,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,1550
+2004,Canada,2016A000011124,VIA Rail,Total track operated,Kilometres,196,units ,0,216
+2004,Canada,2016A000011124,VIA Rail,Total line owned,Kilometres,196,units ,0,208
+2004,Canada,2016A000011124,VIA Rail,"Line owned, first main track",Kilometres,196,units ,0,208
+2004,Canada,2016A000011124,VIA Rail,"Line owned, second and other main track",Kilometres,196,units ,0,0
+2004,Canada,2016A000011124,VIA Rail,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,0
+2004,Canada,2016A000011124,VIA Rail,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,8
+2004,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,8
+2004,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,0
+2004,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,0
+2004,Canada,2016A000011124,Regional railways,Total track operated,Kilometres,196,units ,0,18787
+2004,Canada,2016A000011124,Regional railways,Total line owned,Kilometres,196,units ,0,14502
+2004,Canada,2016A000011124,Regional railways,"Line owned, first main track",Kilometres,196,units ,0,11704
+2004,Canada,2016A000011124,Regional railways,"Line owned, second and other main track",Kilometres,196,units ,0,284
+2004,Canada,2016A000011124,Regional railways,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,2514
+2004,Canada,2016A000011124,Regional railways,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,4285
+2004,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,2946
+2004,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,458
+2004,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,881
+2005,Canada,2016A000011124,Total companies,Total track operated,Kilometres,196,units ,0,72367
+2005,Canada,2016A000011124,Total companies,Total line owned,Kilometres,196,units ,0,57884
+2005,Canada,2016A000011124,Total companies,"Line owned, first main track",Kilometres,196,units ,0,39391
+2005,Canada,2016A000011124,Total companies,"Line owned, second and other main track",Kilometres,196,units ,0,3378
+2005,Canada,2016A000011124,Total companies,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,15116
+2005,Canada,2016A000011124,Total companies,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,14483
+2005,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,8379
+2005,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,1032
+2005,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,5071
+2005,Canada,2016A000011124,Canadian National,Total track operated,Kilometres,196,units ,0,34110
+2005,Canada,2016A000011124,Canadian National,Total line owned,Kilometres,196,units ,0,28829
+2005,Canada,2016A000011124,Canadian National,"Line owned, first main track",Kilometres,196,units ,0,18422
+2005,Canada,2016A000011124,Canadian National,"Line owned, second and other main track",Kilometres,196,units ,0,1969
+2005,Canada,2016A000011124,Canadian National,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,8438
+2005,Canada,2016A000011124,Canadian National,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,5281
+2005,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,2609
+2005,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,56
+2005,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,2617
+2005,Canada,2016A000011124,Canadian Pacific,Total track operated,Kilometres,196,units ,0,21956
+2005,Canada,2016A000011124,Canadian Pacific,Total line owned,Kilometres,196,units ,0,17144
+2005,Canada,2016A000011124,Canadian Pacific,"Line owned, first main track",Kilometres,196,units ,0,11542
+2005,Canada,2016A000011124,Canadian Pacific,"Line owned, second and other main track",Kilometres,196,units ,0,817
+2005,Canada,2016A000011124,Canadian Pacific,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,4785
+2005,Canada,2016A000011124,Canadian Pacific,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,4812
+2005,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,2807
+2005,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,455
+2005,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,1550
+2005,Canada,2016A000011124,VIA Rail,Total track operated,Kilometres,196,units ,0,216
+2005,Canada,2016A000011124,VIA Rail,Total line owned,Kilometres,196,units ,0,208
+2005,Canada,2016A000011124,VIA Rail,"Line owned, first main track",Kilometres,196,units ,0,208
+2005,Canada,2016A000011124,VIA Rail,"Line owned, second and other main track",Kilometres,196,units ,0,0
+2005,Canada,2016A000011124,VIA Rail,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,0
+2005,Canada,2016A000011124,VIA Rail,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,8
+2005,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,8
+2005,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,0
+2005,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,0
+2005,Canada,2016A000011124,Regional railways,Total track operated,Kilometres,196,units ,0,16085
+2005,Canada,2016A000011124,Regional railways,Total line owned,Kilometres,196,units ,0,11704
+2005,Canada,2016A000011124,Regional railways,"Line owned, first main track",Kilometres,196,units ,0,9219
+2005,Canada,2016A000011124,Regional railways,"Line owned, second and other main track",Kilometres,196,units ,0,592
+2005,Canada,2016A000011124,Regional railways,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,1893
+2005,Canada,2016A000011124,Regional railways,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,4382
+2005,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,2956
+2005,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,521
+2005,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,905
+2006,Canada,2016A000011124,Total companies,Total track operated,Kilometres,196,units ,0,71812
+2006,Canada,2016A000011124,Total companies,Total line owned,Kilometres,196,units ,0,57349
+2006,Canada,2016A000011124,Total companies,"Line owned, first main track",Kilometres,196,units ,0,39045
+2006,Canada,2016A000011124,Total companies,"Line owned, second and other main track",Kilometres,196,units ,0,3377
+2006,Canada,2016A000011124,Total companies,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,14926
+2006,Canada,2016A000011124,Total companies,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,14463
+2006,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,8374
+2006,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,1075
+2006,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,5014
+2006,Canada,2016A000011124,Canadian National,Total track operated,Kilometres,196,units ,0,35802
+2006,Canada,2016A000011124,Canadian National,Total line owned,Kilometres,196,units ,0,30534
+2006,Canada,2016A000011124,Canadian National,"Line owned, first main track",Kilometres,196,units ,0,20098
+2006,Canada,2016A000011124,Canadian National,"Line owned, second and other main track",Kilometres,196,units ,0,1955
+2006,Canada,2016A000011124,Canadian National,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,8481
+2006,Canada,2016A000011124,Canadian National,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,5268
+2006,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,2598
+2006,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,56
+2006,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,2614
+2006,Canada,2016A000011124,Canadian Pacific,Total track operated,Kilometres,196,units ,0,21675
+2006,Canada,2016A000011124,Canadian Pacific,Total line owned,Kilometres,196,units ,0,16872
+2006,Canada,2016A000011124,Canadian Pacific,"Line owned, first main track",Kilometres,196,units ,0,11288
+2006,Canada,2016A000011124,Canadian Pacific,"Line owned, second and other main track",Kilometres,196,units ,0,830
+2006,Canada,2016A000011124,Canadian Pacific,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,4754
+2006,Canada,2016A000011124,Canadian Pacific,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,4802
+2006,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,2797
+2006,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,457
+2006,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,1548
+2006,Canada,2016A000011124,VIA Rail,Total track operated,Kilometres,196,units ,0,216
+2006,Canada,2016A000011124,VIA Rail,Total line owned,Kilometres,196,units ,0,208
+2006,Canada,2016A000011124,VIA Rail,"Line owned, first main track",Kilometres,196,units ,0,208
+2006,Canada,2016A000011124,VIA Rail,"Line owned, second and other main track",Kilometres,196,units ,0,0
+2006,Canada,2016A000011124,VIA Rail,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,0
+2006,Canada,2016A000011124,VIA Rail,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,8
+2006,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,8
+2006,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,0
+2006,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,0
+2006,Canada,2016A000011124,Regional railways,Total track operated,Kilometres,196,units ,0,14120
+2006,Canada,2016A000011124,Regional railways,Total line owned,Kilometres,196,units ,0,9735
+2006,Canada,2016A000011124,Regional railways,"Line owned, first main track",Kilometres,196,units ,0,7452
+2006,Canada,2016A000011124,Regional railways,"Line owned, second and other main track",Kilometres,196,units ,0,592
+2006,Canada,2016A000011124,Regional railways,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,1691
+2006,Canada,2016A000011124,Regional railways,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,4385
+2006,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,2971
+2006,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,562
+2006,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,851
+2007,Canada,2016A000011124,Total companies,Total track operated,Kilometres,196,units ,0,71716
+2007,Canada,2016A000011124,Total companies,Total line owned,Kilometres,196,units ,0,57646
+2007,Canada,2016A000011124,Total companies,"Line owned, first main track",Kilometres,196,units ,0,39222
+2007,Canada,2016A000011124,Total companies,"Line owned, second and other main track",Kilometres,196,units ,0,3392
+2007,Canada,2016A000011124,Total companies,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,15033
+2007,Canada,2016A000011124,Total companies,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,14069
+2007,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,8057
+2007,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,1052
+2007,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,4961
+2007,Canada,2016A000011124,Canadian National,Total track operated,Kilometres,196,units ,0,36160
+2007,Canada,2016A000011124,Canadian National,Total line owned,Kilometres,196,units ,0,30891
+2007,Canada,2016A000011124,Canadian National,"Line owned, first main track",Kilometres,196,units ,0,20352
+2007,Canada,2016A000011124,Canadian National,"Line owned, second and other main track",Kilometres,196,units ,0,1955
+2007,Canada,2016A000011124,Canadian National,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,8584
+2007,Canada,2016A000011124,Canadian National,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,5270
+2007,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,2598
+2007,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,56
+2007,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,2616
+2007,Canada,2016A000011124,Canadian Pacific,Total track operated,Kilometres,196,units ,0,21589
+2007,Canada,2016A000011124,Canadian Pacific,Total line owned,Kilometres,196,units ,0,16829
+2007,Canada,2016A000011124,Canadian Pacific,"Line owned, first main track",Kilometres,196,units ,0,11243
+2007,Canada,2016A000011124,Canadian Pacific,"Line owned, second and other main track",Kilometres,196,units ,0,829
+2007,Canada,2016A000011124,Canadian Pacific,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,4757
+2007,Canada,2016A000011124,Canadian Pacific,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,4760
+2007,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,2754
+2007,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,457
+2007,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,1550
+2007,Canada,2016A000011124,VIA Rail,Total track operated,Kilometres,196,units ,0,216
+2007,Canada,2016A000011124,VIA Rail,Total line owned,Kilometres,196,units ,0,208
+2007,Canada,2016A000011124,VIA Rail,"Line owned, first main track",Kilometres,196,units ,0,208
+2007,Canada,2016A000011124,VIA Rail,"Line owned, second and other main track",Kilometres,196,units ,0,0
+2007,Canada,2016A000011124,VIA Rail,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,0
+2007,Canada,2016A000011124,VIA Rail,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,8
+2007,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,8
+2007,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,0
+2007,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,0
+2007,Canada,2016A000011124,Regional railways,Total track operated,Kilometres,196,units ,0,13750
+2007,Canada,2016A000011124,Regional railways,Total line owned,Kilometres,196,units ,0,9719
+2007,Canada,2016A000011124,Regional railways,"Line owned, first main track",Kilometres,196,units ,0,7419
+2007,Canada,2016A000011124,Regional railways,"Line owned, second and other main track",Kilometres,196,units ,0,608
+2007,Canada,2016A000011124,Regional railways,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,1692
+2007,Canada,2016A000011124,Regional railways,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,4031
+2007,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,2697
+2007,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,539
+2007,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,795
+2008,Canada,2016A000011124,Total companies,Total track operated,Kilometres,196,units ,0,70230
+2008,Canada,2016A000011124,Total companies,Total line owned,Kilometres,196,units ,0,56989
+2008,Canada,2016A000011124,Total companies,"Line owned, first main track",Kilometres,196,units ,0,38599
+2008,Canada,2016A000011124,Total companies,"Line owned, second and other main track",Kilometres,196,units ,0,3399
+2008,Canada,2016A000011124,Total companies,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,14991
+2008,Canada,2016A000011124,Total companies,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,13240
+2008,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,7670
+2008,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,938
+2008,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,4632
+2008,Canada,2016A000011124,Canadian National,Total track operated,Kilometres,196,units ,0,37465
+2008,Canada,2016A000011124,Canadian National,Total line owned,Kilometres,196,units ,0,31995
+2008,Canada,2016A000011124,Canadian National,"Line owned, first main track",Kilometres,196,units ,0,21187
+2008,Canada,2016A000011124,Canadian National,"Line owned, second and other main track",Kilometres,196,units ,0,1988
+2008,Canada,2016A000011124,Canadian National,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,8819
+2008,Canada,2016A000011124,Canadian National,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,5471
+2008,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,2756
+2008,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,98
+2008,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,2617
+2008,Canada,2016A000011124,Canadian Pacific,Total track operated,Kilometres,196,units ,0,21345
+2008,Canada,2016A000011124,Canadian Pacific,Total line owned,Kilometres,196,units ,0,16584
+2008,Canada,2016A000011124,Canadian Pacific,"Line owned, first main track",Kilometres,196,units ,0,10993
+2008,Canada,2016A000011124,Canadian Pacific,"Line owned, second and other main track",Kilometres,196,units ,0,840
+2008,Canada,2016A000011124,Canadian Pacific,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,4751
+2008,Canada,2016A000011124,Canadian Pacific,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,4760
+2008,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,2754
+2008,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,457
+2008,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,1550
+2008,Canada,2016A000011124,VIA Rail,Total track operated,Kilometres,196,units ,0,269
+2008,Canada,2016A000011124,VIA Rail,Total line owned,Kilometres,196,units ,0,245
+2008,Canada,2016A000011124,VIA Rail,"Line owned, first main track",Kilometres,196,units ,0,208
+2008,Canada,2016A000011124,VIA Rail,"Line owned, second and other main track",Kilometres,196,units ,0,0
+2008,Canada,2016A000011124,VIA Rail,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,37
+2008,Canada,2016A000011124,VIA Rail,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,24
+2008,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,24
+2008,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,0
+2008,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,0
+2008,Canada,2016A000011124,Regional railways,Total track operated,Kilometres,196,units ,0,11151
+2008,Canada,2016A000011124,Regional railways,Total line owned,Kilometres,196,units ,0,8166
+2008,Canada,2016A000011124,Regional railways,"Line owned, first main track",Kilometres,196,units ,0,6210
+2008,Canada,2016A000011124,Regional railways,"Line owned, second and other main track",Kilometres,196,units ,0,571
+2008,Canada,2016A000011124,Regional railways,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,1385
+2008,Canada,2016A000011124,Regional railways,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,2985
+2008,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,2136
+2008,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,384
+2008,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,465
+2009,Canada,2016A000011124,Total companies,Total track operated,Kilometres,196,units ,0,67537
+2009,Canada,2016A000011124,Total companies,Total line owned,Kilometres,196,units ,0,54488
+2009,Canada,2016A000011124,Total companies,"Line owned, first main track",Kilometres,196,units ,0,36451
+2009,Canada,2016A000011124,Total companies,"Line owned, second and other main track",Kilometres,196,units ,0,3367
+2009,Canada,2016A000011124,Total companies,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,14671
+2009,Canada,2016A000011124,Total companies,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,13049
+2009,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,7581
+2009,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,873
+2009,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,4594
+2009,Canada,2016A000011124,Canadian National,Total track operated,Kilometres,196,units ,0,36565
+2009,Canada,2016A000011124,Canadian National,Total line owned,Kilometres,196,units ,0,31053
+2009,Canada,2016A000011124,Canadian National,"Line owned, first main track",Kilometres,196,units ,0,20258
+2009,Canada,2016A000011124,Canadian National,"Line owned, second and other main track",Kilometres,196,units ,0,1988
+2009,Canada,2016A000011124,Canadian National,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,8806
+2009,Canada,2016A000011124,Canadian National,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,5512
+2009,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,2797
+2009,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,98
+2009,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,2617
+2009,Canada,2016A000011124,Canadian Pacific,Total track operated,Kilometres,196,units ,0,21055
+2009,Canada,2016A000011124,Canadian Pacific,Total line owned,Kilometres,196,units ,0,16299
+2009,Canada,2016A000011124,Canadian Pacific,"Line owned, first main track",Kilometres,196,units ,0,10755
+2009,Canada,2016A000011124,Canadian Pacific,"Line owned, second and other main track",Kilometres,196,units ,0,842
+2009,Canada,2016A000011124,Canadian Pacific,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,4703
+2009,Canada,2016A000011124,Canadian Pacific,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,4756
+2009,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,2754
+2009,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,457
+2009,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,1545
+2009,Canada,2016A000011124,VIA Rail,Total track operated,Kilometres,196,units ,0,270
+2009,Canada,2016A000011124,VIA Rail,Total line owned,Kilometres,196,units ,0,245
+2009,Canada,2016A000011124,VIA Rail,"Line owned, first main track",Kilometres,196,units ,0,208
+2009,Canada,2016A000011124,VIA Rail,"Line owned, second and other main track",Kilometres,196,units ,0,0
+2009,Canada,2016A000011124,VIA Rail,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,38
+2009,Canada,2016A000011124,VIA Rail,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,24
+2009,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,24
+2009,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,0
+2009,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,0
+2009,Canada,2016A000011124,Regional railways,Total track operated,Kilometres,196,units ,0,9647
+2009,Canada,2016A000011124,Regional railways,Total line owned,Kilometres,196,units ,0,6891
+2009,Canada,2016A000011124,Regional railways,"Line owned, first main track",Kilometres,196,units ,0,5230
+2009,Canada,2016A000011124,Regional railways,"Line owned, second and other main track",Kilometres,196,units ,0,537
+2009,Canada,2016A000011124,Regional railways,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,1124
+2009,Canada,2016A000011124,Regional railways,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,2757
+2009,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,2006
+2009,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,319
+2009,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,432
+2010,Canada,2016A000011124,Total companies,Total track operated,Kilometres,196,units ,0,66312
+2010,Canada,2016A000011124,Total companies,Total line owned,Kilometres,196,units ,0,53410
+2010,Canada,2016A000011124,Total companies,"Line owned, first main track",Kilometres,196,units ,0,35953
+2010,Canada,2016A000011124,Total companies,"Line owned, second and other main track",Kilometres,196,units ,0,3626
+2010,Canada,2016A000011124,Total companies,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,13830
+2010,Canada,2016A000011124,Total companies,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,12902
+2010,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,7489
+2010,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,793
+2010,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,4620
+2010,Canada,2016A000011124,Canadian National,Total track operated,Kilometres,196,units ,0,NULL
+2010,Canada,2016A000011124,Canadian National,Total line owned,Kilometres,196,units ,0,NULL
+2010,Canada,2016A000011124,Canadian National,"Line owned, first main track",Kilometres,196,units ,0,NULL
+2010,Canada,2016A000011124,Canadian National,"Line owned, second and other main track",Kilometres,196,units ,0,NULL
+2010,Canada,2016A000011124,Canadian National,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,NULL
+2010,Canada,2016A000011124,Canadian National,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,NULL
+2010,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,NULL
+2010,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,NULL
+2010,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,NULL
+2010,Canada,2016A000011124,Canadian Pacific,Total track operated,Kilometres,196,units ,0,NULL
+2010,Canada,2016A000011124,Canadian Pacific,Total line owned,Kilometres,196,units ,0,NULL
+2010,Canada,2016A000011124,Canadian Pacific,"Line owned, first main track",Kilometres,196,units ,0,NULL
+2010,Canada,2016A000011124,Canadian Pacific,"Line owned, second and other main track",Kilometres,196,units ,0,NULL
+2010,Canada,2016A000011124,Canadian Pacific,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,NULL
+2010,Canada,2016A000011124,Canadian Pacific,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,NULL
+2010,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,NULL
+2010,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,NULL
+2010,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,NULL
+2010,Canada,2016A000011124,VIA Rail,Total track operated,Kilometres,196,units ,0,NULL
+2010,Canada,2016A000011124,VIA Rail,Total line owned,Kilometres,196,units ,0,NULL
+2010,Canada,2016A000011124,VIA Rail,"Line owned, first main track",Kilometres,196,units ,0,NULL
+2010,Canada,2016A000011124,VIA Rail,"Line owned, second and other main track",Kilometres,196,units ,0,NULL
+2010,Canada,2016A000011124,VIA Rail,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,NULL
+2010,Canada,2016A000011124,VIA Rail,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,NULL
+2010,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,NULL
+2010,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,NULL
+2010,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,NULL
+2010,Canada,2016A000011124,Regional railways,Total track operated,Kilometres,196,units ,0,9104
+2010,Canada,2016A000011124,Regional railways,Total line owned,Kilometres,196,units ,0,6278
+2010,Canada,2016A000011124,Regional railways,"Line owned, first main track",Kilometres,196,units ,0,4855
+2010,Canada,2016A000011124,Regional railways,"Line owned, second and other main track",Kilometres,196,units ,0,474
+2010,Canada,2016A000011124,Regional railways,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,950
+2010,Canada,2016A000011124,Regional railways,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,2826
+2010,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,2202
+2010,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,195
+2010,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,429
+2011,Canada,2016A000011124,Total companies,Total track operated,Kilometres,196,units ,0,64218
+2011,Canada,2016A000011124,Total companies,Total line owned,Kilometres,196,units ,0,51648
+2011,Canada,2016A000011124,Total companies,"Line owned, first main track",Kilometres,196,units ,0,34839
+2011,Canada,2016A000011124,Total companies,"Line owned, second and other main track",Kilometres,196,units ,0,3278
+2011,Canada,2016A000011124,Total companies,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,13531
+2011,Canada,2016A000011124,Total companies,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,12570
+2011,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,7238
+2011,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,827
+2011,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,4506
+2011,Canada,2016A000011124,Canadian National,Total track operated,Kilometres,196,units ,0,NULL
+2011,Canada,2016A000011124,Canadian National,Total line owned,Kilometres,196,units ,0,NULL
+2011,Canada,2016A000011124,Canadian National,"Line owned, first main track",Kilometres,196,units ,0,NULL
+2011,Canada,2016A000011124,Canadian National,"Line owned, second and other main track",Kilometres,196,units ,0,NULL
+2011,Canada,2016A000011124,Canadian National,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,NULL
+2011,Canada,2016A000011124,Canadian National,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,NULL
+2011,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,NULL
+2011,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,NULL
+2011,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,NULL
+2011,Canada,2016A000011124,Canadian Pacific,Total track operated,Kilometres,196,units ,0,NULL
+2011,Canada,2016A000011124,Canadian Pacific,Total line owned,Kilometres,196,units ,0,NULL
+2011,Canada,2016A000011124,Canadian Pacific,"Line owned, first main track",Kilometres,196,units ,0,NULL
+2011,Canada,2016A000011124,Canadian Pacific,"Line owned, second and other main track",Kilometres,196,units ,0,NULL
+2011,Canada,2016A000011124,Canadian Pacific,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,NULL
+2011,Canada,2016A000011124,Canadian Pacific,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,NULL
+2011,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,NULL
+2011,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,NULL
+2011,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,NULL
+2011,Canada,2016A000011124,VIA Rail,Total track operated,Kilometres,196,units ,0,NULL
+2011,Canada,2016A000011124,VIA Rail,Total line owned,Kilometres,196,units ,0,NULL
+2011,Canada,2016A000011124,VIA Rail,"Line owned, first main track",Kilometres,196,units ,0,NULL
+2011,Canada,2016A000011124,VIA Rail,"Line owned, second and other main track",Kilometres,196,units ,0,NULL
+2011,Canada,2016A000011124,VIA Rail,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,NULL
+2011,Canada,2016A000011124,VIA Rail,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,NULL
+2011,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,NULL
+2011,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,NULL
+2011,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,NULL
+2011,Canada,2016A000011124,Regional railways,Total track operated,Kilometres,196,units ,0,8670
+2011,Canada,2016A000011124,Regional railways,Total line owned,Kilometres,196,units ,0,6137
+2011,Canada,2016A000011124,Regional railways,"Line owned, first main track",Kilometres,196,units ,0,4582
+2011,Canada,2016A000011124,Regional railways,"Line owned, second and other main track",Kilometres,196,units ,0,601
+2011,Canada,2016A000011124,Regional railways,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,954
+2011,Canada,2016A000011124,Regional railways,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,2532
+2011,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,1939
+2011,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,199
+2011,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,393
+2012,Canada,2016A000011124,Total companies,Total track operated,Kilometres,196,units ,0,63104
+2012,Canada,2016A000011124,Total companies,Total line owned,Kilometres,196,units ,0,50740
+2012,Canada,2016A000011124,Total companies,"Line owned, first main track",Kilometres,196,units ,0,34685
+2012,Canada,2016A000011124,Total companies,"Line owned, second and other main track",Kilometres,196,units ,0,3280
+2012,Canada,2016A000011124,Total companies,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,12775
+2012,Canada,2016A000011124,Total companies,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,12364
+2012,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,6960
+2012,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,902
+2012,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,4502
+2012,Canada,2016A000011124,Canadian National,Total track operated,Kilometres,196,units ,0,NULL
+2012,Canada,2016A000011124,Canadian National,Total line owned,Kilometres,196,units ,0,NULL
+2012,Canada,2016A000011124,Canadian National,"Line owned, first main track",Kilometres,196,units ,0,NULL
+2012,Canada,2016A000011124,Canadian National,"Line owned, second and other main track",Kilometres,196,units ,0,NULL
+2012,Canada,2016A000011124,Canadian National,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,NULL
+2012,Canada,2016A000011124,Canadian National,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,NULL
+2012,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,NULL
+2012,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,NULL
+2012,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,NULL
+2012,Canada,2016A000011124,Canadian Pacific,Total track operated,Kilometres,196,units ,0,NULL
+2012,Canada,2016A000011124,Canadian Pacific,Total line owned,Kilometres,196,units ,0,NULL
+2012,Canada,2016A000011124,Canadian Pacific,"Line owned, first main track",Kilometres,196,units ,0,NULL
+2012,Canada,2016A000011124,Canadian Pacific,"Line owned, second and other main track",Kilometres,196,units ,0,NULL
+2012,Canada,2016A000011124,Canadian Pacific,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,NULL
+2012,Canada,2016A000011124,Canadian Pacific,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,NULL
+2012,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,NULL
+2012,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,NULL
+2012,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,NULL
+2012,Canada,2016A000011124,VIA Rail,Total track operated,Kilometres,196,units ,0,NULL
+2012,Canada,2016A000011124,VIA Rail,Total line owned,Kilometres,196,units ,0,NULL
+2012,Canada,2016A000011124,VIA Rail,"Line owned, first main track",Kilometres,196,units ,0,NULL
+2012,Canada,2016A000011124,VIA Rail,"Line owned, second and other main track",Kilometres,196,units ,0,NULL
+2012,Canada,2016A000011124,VIA Rail,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,NULL
+2012,Canada,2016A000011124,VIA Rail,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,NULL
+2012,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,NULL
+2012,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,NULL
+2012,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,NULL
+2012,Canada,2016A000011124,Regional railways,Total track operated,Kilometres,196,units ,0,8228
+2012,Canada,2016A000011124,Regional railways,Total line owned,Kilometres,196,units ,0,6081
+2012,Canada,2016A000011124,Regional railways,"Line owned, first main track",Kilometres,196,units ,0,4524
+2012,Canada,2016A000011124,Regional railways,"Line owned, second and other main track",Kilometres,196,units ,0,603
+2012,Canada,2016A000011124,Regional railways,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,954
+2012,Canada,2016A000011124,Regional railways,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,2148
+2012,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,1608
+2012,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,199
+2012,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,341
+2013,Canada,2016A000011124,Total companies,Total track operated,Kilometres,196,units ,0,62341
+2013,Canada,2016A000011124,Total companies,Total line owned,Kilometres,196,units ,0,50269
+2013,Canada,2016A000011124,Total companies,"Line owned, first main track",Kilometres,196,units ,0,34717
+2013,Canada,2016A000011124,Total companies,"Line owned, second and other main track",Kilometres,196,units ,0,3156
+2013,Canada,2016A000011124,Total companies,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,12397
+2013,Canada,2016A000011124,Total companies,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,12072
+2013,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,6788
+2013,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,843
+2013,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,4441
+2013,Canada,2016A000011124,Canadian National,Total track operated,Kilometres,196,units ,0,NULL
+2013,Canada,2016A000011124,Canadian National,Total line owned,Kilometres,196,units ,0,NULL
+2013,Canada,2016A000011124,Canadian National,"Line owned, first main track",Kilometres,196,units ,0,NULL
+2013,Canada,2016A000011124,Canadian National,"Line owned, second and other main track",Kilometres,196,units ,0,NULL
+2013,Canada,2016A000011124,Canadian National,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,NULL
+2013,Canada,2016A000011124,Canadian National,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,NULL
+2013,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,NULL
+2013,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,NULL
+2013,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,NULL
+2013,Canada,2016A000011124,Canadian Pacific,Total track operated,Kilometres,196,units ,0,NULL
+2013,Canada,2016A000011124,Canadian Pacific,Total line owned,Kilometres,196,units ,0,NULL
+2013,Canada,2016A000011124,Canadian Pacific,"Line owned, first main track",Kilometres,196,units ,0,NULL
+2013,Canada,2016A000011124,Canadian Pacific,"Line owned, second and other main track",Kilometres,196,units ,0,NULL
+2013,Canada,2016A000011124,Canadian Pacific,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,NULL
+2013,Canada,2016A000011124,Canadian Pacific,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,NULL
+2013,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,NULL
+2013,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,NULL
+2013,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,NULL
+2013,Canada,2016A000011124,VIA Rail,Total track operated,Kilometres,196,units ,0,NULL
+2013,Canada,2016A000011124,VIA Rail,Total line owned,Kilometres,196,units ,0,NULL
+2013,Canada,2016A000011124,VIA Rail,"Line owned, first main track",Kilometres,196,units ,0,NULL
+2013,Canada,2016A000011124,VIA Rail,"Line owned, second and other main track",Kilometres,196,units ,0,NULL
+2013,Canada,2016A000011124,VIA Rail,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,NULL
+2013,Canada,2016A000011124,VIA Rail,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,NULL
+2013,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,NULL
+2013,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,NULL
+2013,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,NULL
+2013,Canada,2016A000011124,Regional railways,Total track operated,Kilometres,196,units ,0,7911
+2013,Canada,2016A000011124,Regional railways,Total line owned,Kilometres,196,units ,0,6032
+2013,Canada,2016A000011124,Regional railways,"Line owned, first main track",Kilometres,196,units ,0,4674
+2013,Canada,2016A000011124,Regional railways,"Line owned, second and other main track",Kilometres,196,units ,0,483
+2013,Canada,2016A000011124,Regional railways,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,876
+2013,Canada,2016A000011124,Regional railways,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,1880
+2013,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,1400
+2013,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,185
+2013,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,295
+2014,Canada,2016A000011124,Total companies,Total track operated,Kilometres,196,units ,0,62307
+2014,Canada,2016A000011124,Total companies,Total line owned,Kilometres,196,units ,0,50098
+2014,Canada,2016A000011124,Total companies,"Line owned, first main track",Kilometres,196,units ,0,34494
+2014,Canada,2016A000011124,Total companies,"Line owned, second and other main track",Kilometres,196,units ,0,3388
+2014,Canada,2016A000011124,Total companies,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,12217
+2014,Canada,2016A000011124,Total companies,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,12209
+2014,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,6948
+2014,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,876
+2014,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,4384
+2014,Canada,2016A000011124,Canadian National,Total track operated,Kilometres,196,units ,0,NULL
+2014,Canada,2016A000011124,Canadian National,Total line owned,Kilometres,196,units ,0,NULL
+2014,Canada,2016A000011124,Canadian National,"Line owned, first main track",Kilometres,196,units ,0,NULL
+2014,Canada,2016A000011124,Canadian National,"Line owned, second and other main track",Kilometres,196,units ,0,NULL
+2014,Canada,2016A000011124,Canadian National,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,NULL
+2014,Canada,2016A000011124,Canadian National,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,NULL
+2014,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,NULL
+2014,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,NULL
+2014,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,NULL
+2014,Canada,2016A000011124,Canadian Pacific,Total track operated,Kilometres,196,units ,0,NULL
+2014,Canada,2016A000011124,Canadian Pacific,Total line owned,Kilometres,196,units ,0,NULL
+2014,Canada,2016A000011124,Canadian Pacific,"Line owned, first main track",Kilometres,196,units ,0,NULL
+2014,Canada,2016A000011124,Canadian Pacific,"Line owned, second and other main track",Kilometres,196,units ,0,NULL
+2014,Canada,2016A000011124,Canadian Pacific,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,NULL
+2014,Canada,2016A000011124,Canadian Pacific,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,NULL
+2014,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,NULL
+2014,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,NULL
+2014,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,NULL
+2014,Canada,2016A000011124,VIA Rail,Total track operated,Kilometres,196,units ,0,NULL
+2014,Canada,2016A000011124,VIA Rail,Total line owned,Kilometres,196,units ,0,NULL
+2014,Canada,2016A000011124,VIA Rail,"Line owned, first main track",Kilometres,196,units ,0,NULL
+2014,Canada,2016A000011124,VIA Rail,"Line owned, second and other main track",Kilometres,196,units ,0,NULL
+2014,Canada,2016A000011124,VIA Rail,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,NULL
+2014,Canada,2016A000011124,VIA Rail,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,NULL
+2014,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,NULL
+2014,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,NULL
+2014,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,NULL
+2014,Canada,2016A000011124,Regional railways,Total track operated,Kilometres,196,units ,0,8444
+2014,Canada,2016A000011124,Regional railways,Total line owned,Kilometres,196,units ,0,6492
+2014,Canada,2016A000011124,Regional railways,"Line owned, first main track",Kilometres,196,units ,0,4890
+2014,Canada,2016A000011124,Regional railways,"Line owned, second and other main track",Kilometres,196,units ,0,687
+2014,Canada,2016A000011124,Regional railways,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,914
+2014,Canada,2016A000011124,Regional railways,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,1952
+2014,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,1443
+2014,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,210
+2014,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,300
+2015,Canada,2016A000011124,Total companies,Total track operated,Kilometres,196,units ,0,63562
+2015,Canada,2016A000011124,Total companies,Total line owned,Kilometres,196,units ,0,50454
+2015,Canada,2016A000011124,Total companies,"Line owned, first main track",Kilometres,196,units ,0,35205
+2015,Canada,2016A000011124,Total companies,"Line owned, second and other main track",Kilometres,196,units ,0,3252
+2015,Canada,2016A000011124,Total companies,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,11998
+2015,Canada,2016A000011124,Total companies,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,13108
+2015,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,7858
+2015,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,812
+2015,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,4438
+2015,Canada,2016A000011124,Canadian National,Total track operated,Kilometres,196,units ,0,NULL
+2015,Canada,2016A000011124,Canadian National,Total line owned,Kilometres,196,units ,0,NULL
+2015,Canada,2016A000011124,Canadian National,"Line owned, first main track",Kilometres,196,units ,0,NULL
+2015,Canada,2016A000011124,Canadian National,"Line owned, second and other main track",Kilometres,196,units ,0,NULL
+2015,Canada,2016A000011124,Canadian National,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,NULL
+2015,Canada,2016A000011124,Canadian National,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,NULL
+2015,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,NULL
+2015,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,NULL
+2015,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,NULL
+2015,Canada,2016A000011124,Canadian Pacific,Total track operated,Kilometres,196,units ,0,NULL
+2015,Canada,2016A000011124,Canadian Pacific,Total line owned,Kilometres,196,units ,0,NULL
+2015,Canada,2016A000011124,Canadian Pacific,"Line owned, first main track",Kilometres,196,units ,0,NULL
+2015,Canada,2016A000011124,Canadian Pacific,"Line owned, second and other main track",Kilometres,196,units ,0,NULL
+2015,Canada,2016A000011124,Canadian Pacific,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,NULL
+2015,Canada,2016A000011124,Canadian Pacific,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,NULL
+2015,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,NULL
+2015,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,NULL
+2015,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,NULL
+2015,Canada,2016A000011124,VIA Rail,Total track operated,Kilometres,196,units ,0,NULL
+2015,Canada,2016A000011124,VIA Rail,Total line owned,Kilometres,196,units ,0,NULL
+2015,Canada,2016A000011124,VIA Rail,"Line owned, first main track",Kilometres,196,units ,0,NULL
+2015,Canada,2016A000011124,VIA Rail,"Line owned, second and other main track",Kilometres,196,units ,0,NULL
+2015,Canada,2016A000011124,VIA Rail,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,NULL
+2015,Canada,2016A000011124,VIA Rail,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,NULL
+2015,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,NULL
+2015,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,NULL
+2015,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,NULL
+2015,Canada,2016A000011124,Regional railways,Total track operated,Kilometres,196,units ,0,9851
+2015,Canada,2016A000011124,Regional railways,Total line owned,Kilometres,196,units ,0,7623
+2015,Canada,2016A000011124,Regional railways,"Line owned, first main track",Kilometres,196,units ,0,6157
+2015,Canada,2016A000011124,Regional railways,"Line owned, second and other main track",Kilometres,196,units ,0,521
+2015,Canada,2016A000011124,Regional railways,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,946
+2015,Canada,2016A000011124,Regional railways,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,2228
+2015,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,1685
+2015,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,213
+2015,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,329
+2016,Canada,2016A000011124,Total companies,Total track operated,Kilometres,196,units ,0,61856
+2016,Canada,2016A000011124,Total companies,Total line owned,Kilometres,196,units ,0,48902
+2016,Canada,2016A000011124,Total companies,"Line owned, first main track",Kilometres,196,units ,0,33904
+2016,Canada,2016A000011124,Total companies,"Line owned, second and other main track",Kilometres,196,units ,0,3295
+2016,Canada,2016A000011124,Total companies,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,11703
+2016,Canada,2016A000011124,Total companies,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,12953
+2016,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,7545
+2016,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,917
+2016,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,4492
+2016,Canada,2016A000011124,Canadian National,Total track operated,Kilometres,196,units ,0,NULL
+2016,Canada,2016A000011124,Canadian National,Total line owned,Kilometres,196,units ,0,NULL
+2016,Canada,2016A000011124,Canadian National,"Line owned, first main track",Kilometres,196,units ,0,NULL
+2016,Canada,2016A000011124,Canadian National,"Line owned, second and other main track",Kilometres,196,units ,0,NULL
+2016,Canada,2016A000011124,Canadian National,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,NULL
+2016,Canada,2016A000011124,Canadian National,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,NULL
+2016,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,NULL
+2016,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,NULL
+2016,Canada,2016A000011124,Canadian National,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,NULL
+2016,Canada,2016A000011124,Canadian Pacific,Total track operated,Kilometres,196,units ,0,NULL
+2016,Canada,2016A000011124,Canadian Pacific,Total line owned,Kilometres,196,units ,0,NULL
+2016,Canada,2016A000011124,Canadian Pacific,"Line owned, first main track",Kilometres,196,units ,0,NULL
+2016,Canada,2016A000011124,Canadian Pacific,"Line owned, second and other main track",Kilometres,196,units ,0,NULL
+2016,Canada,2016A000011124,Canadian Pacific,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,NULL
+2016,Canada,2016A000011124,Canadian Pacific,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,NULL
+2016,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,NULL
+2016,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,NULL
+2016,Canada,2016A000011124,Canadian Pacific,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,NULL
+2016,Canada,2016A000011124,VIA Rail,Total track operated,Kilometres,196,units ,0,NULL
+2016,Canada,2016A000011124,VIA Rail,Total line owned,Kilometres,196,units ,0,NULL
+2016,Canada,2016A000011124,VIA Rail,"Line owned, first main track",Kilometres,196,units ,0,NULL
+2016,Canada,2016A000011124,VIA Rail,"Line owned, second and other main track",Kilometres,196,units ,0,NULL
+2016,Canada,2016A000011124,VIA Rail,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,NULL
+2016,Canada,2016A000011124,VIA Rail,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,NULL
+2016,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,NULL
+2016,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,NULL
+2016,Canada,2016A000011124,VIA Rail,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,NULL
+2016,Canada,2016A000011124,Regional railways,Total track operated,Kilometres,196,units ,0,8640
+2016,Canada,2016A000011124,Regional railways,Total line owned,Kilometres,196,units ,0,6531
+2016,Canada,2016A000011124,Regional railways,"Line owned, first main track",Kilometres,196,units ,0,5148
+2016,Canada,2016A000011124,Regional railways,"Line owned, second and other main track",Kilometres,196,units ,0,557
+2016,Canada,2016A000011124,Regional railways,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,825
+2016,Canada,2016A000011124,Regional railways,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,2110
+2016,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,1377
+2016,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,348
+2016,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,385
+2017,Canada,2016A000011124,Total companies,Total track operated,Kilometres,196,units ,0,61859
+2017,Canada,2016A000011124,Total companies,Total line owned,Kilometres,196,units ,0,49130
+2017,Canada,2016A000011124,Total companies,"Line owned, first main track",Kilometres,196,units ,0,33978
+2017,Canada,2016A000011124,Total companies,"Line owned, second and other main track",Kilometres,196,units ,0,3308
+2017,Canada,2016A000011124,Total companies,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,11844
+2017,Canada,2016A000011124,Total companies,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,12729
+2017,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,7487
+2017,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,821
+2017,Canada,2016A000011124,Total companies,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,4422
+2017,Canada,2016A000011124,Regional railways,Total track operated,Kilometres,196,units ,0,8852
+2017,Canada,2016A000011124,Regional railways,Total line owned,Kilometres,196,units ,0,6843
+2017,Canada,2016A000011124,Regional railways,"Line owned, first main track",Kilometres,196,units ,0,5301
+2017,Canada,2016A000011124,Regional railways,"Line owned, second and other main track",Kilometres,196,units ,0,544
+2017,Canada,2016A000011124,Regional railways,"Line owned, industrial, yard and sidings",Kilometres,196,units ,0,998
+2017,Canada,2016A000011124,Regional railways,"Total line operated under lease, contract, trackage rights or jointly owned",Kilometres,196,units ,0,2009
+2017,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, first main track",Kilometres,196,units ,0,1291
+2017,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, second and other main track",Kilometres,196,units ,0,392
+2017,Canada,2016A000011124,Regional railways,"Line operated under lease, contract, trackage rights or jointly owned, industrial, yard and sidings",Kilometres,196,units ,0,326

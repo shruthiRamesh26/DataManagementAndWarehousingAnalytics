@@ -1,0 +1,1882 @@
+FromYear,ToYear,Location_ID,Edu_level_ID,Statistics,Value,Scalar_ID,UOM_ID
+2007,2008,CN,ALL,Constant dollars,100181,0,81
+2007,2008,CN,ALL,Percentage distribution of  expenditures,100,0,239
+2007,2008,CN,ALL,Index of change,100,0,160
+2007,2008,CN,EL,Constant dollars,58941,0,81
+2007,2008,CN,EL,Percentage distribution of  expenditures,58.8,0,239
+2007,2008,CN,EL,Index of change,100,0,160
+2007,2008,CN,PS,Constant dollars,41240,0,81
+2007,2008,CN,PS,Percentage distribution of  expenditures,41.2,0,239
+2007,2008,CN,PS,Index of change,100,0,160
+2007,2008,CN,CL,Constant dollars,15269,0,81
+2007,2008,CN,CL,Percentage distribution of  expenditures,15.2,0,239
+2007,2008,CN,CL,Index of change,100,0,160
+2007,2008,CN,UN,Constant dollars,25972,0,81
+2007,2008,CN,UN,Percentage distribution of  expenditures,25.9,0,239
+2007,2008,CN,UN,Index of change,100,0,160
+2007,2008,NL,ALL,Constant dollars,1587,0,81
+2007,2008,NL,ALL,Percentage distribution of  expenditures,100,0,239
+2007,2008,NL,ALL,Index of change,100,0,160
+2007,2008,NL,EL,Constant dollars,884,0,81
+2007,2008,NL,EL,Percentage distribution of  expenditures,55.7,0,239
+2007,2008,NL,EL,Index of change,100,0,160
+2007,2008,NL,PS,Constant dollars,703,0,81
+2007,2008,NL,PS,Percentage distribution of  expenditures,44.3,0,239
+2007,2008,NL,PS,Index of change,100,0,160
+2007,2008,NL,CL,Constant dollars,234,0,81
+2007,2008,NL,CL,Percentage distribution of  expenditures,14.8,0,239
+2007,2008,NL,CL,Index of change,100,0,160
+2007,2008,NL,UN,Constant dollars,469,0,81
+2007,2008,NL,UN,Percentage distribution of  expenditures,29.6,0,239
+2007,2008,NL,UN,Index of change,100,0,160
+2007,2008,PE,ALL,Constant dollars,400,0,81
+2007,2008,PE,ALL,Percentage distribution of  expenditures,100,0,239
+2007,2008,PE,ALL,Index of change,100,0,160
+2007,2008,PE,EL,Constant dollars,206,0,81
+2007,2008,PE,EL,Percentage distribution of  expenditures,51.5,0,239
+2007,2008,PE,EL,Index of change,100,0,160
+2007,2008,PE,PS,Constant dollars,193,0,81
+2007,2008,PE,PS,Percentage distribution of  expenditures,48.2,0,239
+2007,2008,PE,PS,Index of change,100,0,160
+2007,2008,PE,CL,Constant dollars,74,0,81
+2007,2008,PE,CL,Percentage distribution of  expenditures,18.6,0,239
+2007,2008,PE,CL,Index of change,100,0,160
+2007,2008,PE,UN,Constant dollars,118,0,81
+2007,2008,PE,UN,Percentage distribution of  expenditures,29.6,0,239
+2007,2008,PE,UN,Index of change,100,0,160
+2007,2008,NS,ALL,Constant dollars,2678,0,81
+2007,2008,NS,ALL,Percentage distribution of  expenditures,100,0,239
+2007,2008,NS,ALL,Index of change,100,0,160
+2007,2008,NS,EL,Constant dollars,1416,0,81
+2007,2008,NS,EL,Percentage distribution of  expenditures,52.9,0,239
+2007,2008,NS,EL,Index of change,100,0,160
+2007,2008,NS,PS,Constant dollars,1262,0,81
+2007,2008,NS,PS,Percentage distribution of  expenditures,47.1,0,239
+2007,2008,NS,PS,Index of change,100,0,160
+2007,2008,NS,CL,Constant dollars,299,0,81
+2007,2008,NS,CL,Percentage distribution of  expenditures,11.2,0,239
+2007,2008,NS,CL,Index of change,100,0,160
+2007,2008,NS,UN,Constant dollars,963,0,81
+2007,2008,NS,UN,Percentage distribution of  expenditures,35.9,0,239
+2007,2008,NS,UN,Index of change,100,0,160
+2007,2008,NB,ALL,Constant dollars,2079,0,81
+2007,2008,NB,ALL,Percentage distribution of  expenditures,100,0,239
+2007,2008,NB,ALL,Index of change,100,0,160
+2007,2008,NB,EL,Constant dollars,1215,0,81
+2007,2008,NB,EL,Percentage distribution of  expenditures,58.4,0,239
+2007,2008,NB,EL,Index of change,100,0,160
+2007,2008,NB,PS,Constant dollars,865,0,81
+2007,2008,NB,PS,Percentage distribution of  expenditures,41.6,0,239
+2007,2008,NB,PS,Index of change,100,0,160
+2007,2008,NB,CL,Constant dollars,255,0,81
+2007,2008,NB,CL,Percentage distribution of  expenditures,12.3,0,239
+2007,2008,NB,CL,Index of change,100,0,160
+2007,2008,NB,UN,Constant dollars,610,0,81
+2007,2008,NB,UN,Percentage distribution of  expenditures,29.3,0,239
+2007,2008,NB,UN,Index of change,100,0,160
+2007,2008,QC,ALL,Constant dollars,22221,0,81
+2007,2008,QC,ALL,Percentage distribution of  expenditures,100,0,239
+2007,2008,QC,ALL,Index of change,100,0,160
+2007,2008,QC,EL,Constant dollars,12583,0,81
+2007,2008,QC,EL,Percentage distribution of  expenditures,56.6,0,239
+2007,2008,QC,EL,Index of change,100,0,160
+2007,2008,QC,PS,Constant dollars,9638,0,81
+2007,2008,QC,PS,Percentage distribution of  expenditures,43.4,0,239
+2007,2008,QC,PS,Index of change,100,0,160
+2007,2008,QC,CL,Constant dollars,4161,0,81
+2007,2008,QC,CL,Percentage distribution of  expenditures,18.7,0,239
+2007,2008,QC,CL,Index of change,100,0,160
+2007,2008,QC,UN,Constant dollars,5477,0,81
+2007,2008,QC,UN,Percentage distribution of  expenditures,24.6,0,239
+2007,2008,QC,UN,Index of change,100,0,160
+2007,2008,ON,ALL,Constant dollars,39540,0,81
+2007,2008,ON,ALL,Percentage distribution of  expenditures,100,0,239
+2007,2008,ON,ALL,Index of change,100,0,160
+2007,2008,ON,EL,Constant dollars,24202,0,81
+2007,2008,ON,EL,Percentage distribution of  expenditures,61.2,0,239
+2007,2008,ON,EL,Index of change,100,0,160
+2007,2008,ON,PS,Constant dollars,15338,0,81
+2007,2008,ON,PS,Percentage distribution of  expenditures,38.8,0,239
+2007,2008,ON,PS,Index of change,100,0,160
+2007,2008,ON,CL,Constant dollars,4826,0,81
+2007,2008,ON,CL,Percentage distribution of  expenditures,12.2,0,239
+2007,2008,ON,CL,Index of change,100,0,160
+2007,2008,ON,UN,Constant dollars,10512,0,81
+2007,2008,ON,UN,Percentage distribution of  expenditures,26.6,0,239
+2007,2008,ON,UN,Index of change,100,0,160
+2007,2008,MB,ALL,Constant dollars,3642,0,81
+2007,2008,MB,ALL,Percentage distribution of  expenditures,100,0,239
+2007,2008,MB,ALL,Index of change,100,0,160
+2007,2008,MB,EL,Constant dollars,2442,0,81
+2007,2008,MB,EL,Percentage distribution of  expenditures,67.1,0,239
+2007,2008,MB,EL,Index of change,100,0,160
+2007,2008,MB,PS,Constant dollars,1200,0,81
+2007,2008,MB,PS,Percentage distribution of  expenditures,32.9,0,239
+2007,2008,MB,PS,Index of change,100,0,160
+2007,2008,MB,CL,Constant dollars,413,0,81
+2007,2008,MB,CL,Percentage distribution of  expenditures,11.3,0,239
+2007,2008,MB,CL,Index of change,100,0,160
+2007,2008,MB,UN,Constant dollars,787,0,81
+2007,2008,MB,UN,Percentage distribution of  expenditures,21.6,0,239
+2007,2008,MB,UN,Index of change,100,0,160
+2007,2008,SK,ALL,Constant dollars,4232,0,81
+2007,2008,SK,ALL,Percentage distribution of  expenditures,100,0,239
+2007,2008,SK,ALL,Index of change,100,0,160
+2007,2008,SK,EL,Constant dollars,2536,0,81
+2007,2008,SK,EL,Percentage distribution of  expenditures,59.9,0,239
+2007,2008,SK,EL,Index of change,100,0,160
+2007,2008,SK,PS,Constant dollars,1697,0,81
+2007,2008,SK,PS,Percentage distribution of  expenditures,40.1,0,239
+2007,2008,SK,PS,Index of change,100,0,160
+2007,2008,SK,CL,Constant dollars,608,0,81
+2007,2008,SK,CL,Percentage distribution of  expenditures,14.4,0,239
+2007,2008,SK,CL,Index of change,100,0,160
+2007,2008,SK,UN,Constant dollars,1088,0,81
+2007,2008,SK,UN,Percentage distribution of  expenditures,25.7,0,239
+2007,2008,SK,UN,Index of change,100,0,160
+2007,2008,AL,ALL,Constant dollars,11397,0,81
+2007,2008,AL,ALL,Percentage distribution of  expenditures,100,0,239
+2007,2008,AL,ALL,Index of change,100,0,160
+2007,2008,AL,EL,Constant dollars,6372,0,81
+2007,2008,AL,EL,Percentage distribution of  expenditures,55.9,0,239
+2007,2008,AL,EL,Index of change,100,0,160
+2007,2008,AL,PS,Constant dollars,5026,0,81
+2007,2008,AL,PS,Percentage distribution of  expenditures,44.1,0,239
+2007,2008,AL,PS,Index of change,100,0,160
+2007,2008,AL,CL,Constant dollars,2152,0,81
+2007,2008,AL,CL,Percentage distribution of  expenditures,18.9,0,239
+2007,2008,AL,CL,Index of change,100,0,160
+2007,2008,AL,UN,Constant dollars,2874,0,81
+2007,2008,AL,UN,Percentage distribution of  expenditures,25.2,0,239
+2007,2008,AL,UN,Index of change,100,0,160
+2007,2008,BC,ALL,Constant dollars,11770,0,81
+2007,2008,BC,ALL,Percentage distribution of  expenditures,100,0,239
+2007,2008,BC,ALL,Index of change,100,0,160
+2007,2008,BC,EL,Constant dollars,6662,0,81
+2007,2008,BC,EL,Percentage distribution of  expenditures,56.6,0,239
+2007,2008,BC,EL,Index of change,100,0,160
+2007,2008,BC,PS,Constant dollars,5109,0,81
+2007,2008,BC,PS,Percentage distribution of  expenditures,43.4,0,239
+2007,2008,BC,PS,Index of change,100,0,160
+2007,2008,BC,CL,Constant dollars,2028,0,81
+2007,2008,BC,CL,Percentage distribution of  expenditures,17.2,0,239
+2007,2008,BC,CL,Index of change,100,0,160
+2007,2008,BC,UN,Constant dollars,3081,0,81
+2007,2008,BC,UN,Percentage distribution of  expenditures,26.2,0,239
+2007,2008,BC,UN,Index of change,100,0,160
+2007,2008,YT,ALL,Constant dollars,151,0,81
+2007,2008,YT,ALL,Percentage distribution of  expenditures,100,0,239
+2007,2008,YT,ALL,Index of change,100,0,160
+2007,2008,YT,EL,Constant dollars,108,0,81
+2007,2008,YT,EL,Percentage distribution of  expenditures,71.3,0,239
+2007,2008,YT,EL,Index of change,100,0,160
+2007,2008,YT,PS,Constant dollars,43,0,81
+2007,2008,YT,PS,Percentage distribution of  expenditures,28.7,0,239
+2007,2008,YT,PS,Index of change,100,0,160
+2007,2008,YT,CL,Constant dollars,43,0,81
+2007,2008,YT,CL,Percentage distribution of  expenditures,28.7,0,239
+2007,2008,YT,CL,Index of change,100,0,160
+2007,2008,YT,UN,Constant dollars,NULL,0,81
+2007,2008,YT,UN,Percentage distribution of  expenditures,NULL,0,239
+2007,2008,YT,UN,Index of change,NULL,0,160
+2007,2008,NT,ALL,Constant dollars,363,0,81
+2007,2008,NT,ALL,Percentage distribution of  expenditures,100,0,239
+2007,2008,NT,ALL,Index of change,100,0,160
+2007,2008,NT,EL,Constant dollars,238,0,81
+2007,2008,NT,EL,Percentage distribution of  expenditures,65.5,0,239
+2007,2008,NT,EL,Index of change,100,0,160
+2007,2008,NT,PS,Constant dollars,125,0,81
+2007,2008,NT,PS,Percentage distribution of  expenditures,34.5,0,239
+2007,2008,NT,PS,Index of change,100,0,160
+2007,2008,NT,CL,Constant dollars,125,0,81
+2007,2008,NT,CL,Percentage distribution of  expenditures,34.5,0,239
+2007,2008,NT,CL,Index of change,100,0,160
+2007,2008,NT,UN,Constant dollars,NULL,0,81
+2007,2008,NT,UN,Percentage distribution of  expenditures,NULL,0,239
+2007,2008,NT,UN,Index of change,NULL,0,160
+2007,2008,NU,ALL,Constant dollars,212,0,81
+2007,2008,NU,ALL,Percentage distribution of  expenditures,100,0,239
+2007,2008,NU,ALL,Index of change,100,0,160
+2007,2008,NU,EL,Constant dollars,158,0,81
+2007,2008,NU,EL,Percentage distribution of  expenditures,74.6,0,239
+2007,2008,NU,EL,Index of change,100,0,160
+2007,2008,NU,PS,Constant dollars,54,0,81
+2007,2008,NU,PS,Percentage distribution of  expenditures,25.4,0,239
+2007,2008,NU,PS,Index of change,100,0,160
+2007,2008,NU,CL,Constant dollars,54,0,81
+2007,2008,NU,CL,Percentage distribution of  expenditures,25.4,0,239
+2007,2008,NU,CL,Index of change,100,0,160
+2007,2008,NU,UN,Constant dollars,NULL,0,81
+2007,2008,NU,UN,Percentage distribution of  expenditures,NULL,0,239
+2007,2008,NU,UN,Index of change,NULL,0,160
+2008,2009,CN,ALL,Constant dollars,100920,0,81
+2008,2009,CN,ALL,Percentage distribution of  expenditures,100,0,239
+2008,2009,CN,ALL,Index of change,101,0,160
+2008,2009,CN,EL,Constant dollars,60542,0,81
+2008,2009,CN,EL,Percentage distribution of  expenditures,60,0,239
+2008,2009,CN,EL,Index of change,103,0,160
+2008,2009,CN,PS,Constant dollars,40378,0,81
+2008,2009,CN,PS,Percentage distribution of  expenditures,40,0,239
+2008,2009,CN,PS,Index of change,98,0,160
+2008,2009,CN,CL,Constant dollars,15986,0,81
+2008,2009,CN,CL,Percentage distribution of  expenditures,15.8,0,239
+2008,2009,CN,CL,Index of change,105,0,160
+2008,2009,CN,UN,Constant dollars,24392,0,81
+2008,2009,CN,UN,Percentage distribution of  expenditures,24.2,0,239
+2008,2009,CN,UN,Index of change,94,0,160
+2008,2009,NL,ALL,Constant dollars,1493,0,81
+2008,2009,NL,ALL,Percentage distribution of  expenditures,100,0,239
+2008,2009,NL,ALL,Index of change,94,0,160
+2008,2009,NL,EL,Constant dollars,843,0,81
+2008,2009,NL,EL,Percentage distribution of  expenditures,56.5,0,239
+2008,2009,NL,EL,Index of change,95,0,160
+2008,2009,NL,PS,Constant dollars,650,0,81
+2008,2009,NL,PS,Percentage distribution of  expenditures,43.5,0,239
+2008,2009,NL,PS,Index of change,92,0,160
+2008,2009,NL,CL,Constant dollars,214,0,81
+2008,2009,NL,CL,Percentage distribution of  expenditures,14.3,0,239
+2008,2009,NL,CL,Index of change,91,0,160
+2008,2009,NL,UN,Constant dollars,437,0,81
+2008,2009,NL,UN,Percentage distribution of  expenditures,29.2,0,239
+2008,2009,NL,UN,Index of change,93,0,160
+2008,2009,PE,ALL,Constant dollars,440,0,81
+2008,2009,PE,ALL,Percentage distribution of  expenditures,100,0,239
+2008,2009,PE,ALL,Index of change,110,0,160
+2008,2009,PE,EL,Constant dollars,228,0,81
+2008,2009,PE,EL,Percentage distribution of  expenditures,51.8,0,239
+2008,2009,PE,EL,Index of change,110,0,160
+2008,2009,PE,PS,Constant dollars,212,0,81
+2008,2009,PE,PS,Percentage distribution of  expenditures,48.2,0,239
+2008,2009,PE,PS,Index of change,110,0,160
+2008,2009,PE,CL,Constant dollars,79,0,81
+2008,2009,PE,CL,Percentage distribution of  expenditures,17.9,0,239
+2008,2009,PE,CL,Index of change,106,0,160
+2008,2009,PE,UN,Constant dollars,133,0,81
+2008,2009,PE,UN,Percentage distribution of  expenditures,30.3,0,239
+2008,2009,PE,UN,Index of change,113,0,160
+2008,2009,NS,ALL,Constant dollars,2674,0,81
+2008,2009,NS,ALL,Percentage distribution of  expenditures,100,0,239
+2008,2009,NS,ALL,Index of change,100,0,160
+2008,2009,NS,EL,Constant dollars,1507,0,81
+2008,2009,NS,EL,Percentage distribution of  expenditures,56.3,0,239
+2008,2009,NS,EL,Index of change,106,0,160
+2008,2009,NS,PS,Constant dollars,1168,0,81
+2008,2009,NS,PS,Percentage distribution of  expenditures,43.7,0,239
+2008,2009,NS,PS,Index of change,93,0,160
+2008,2009,NS,CL,Constant dollars,319,0,81
+2008,2009,NS,CL,Percentage distribution of  expenditures,11.9,0,239
+2008,2009,NS,CL,Index of change,107,0,160
+2008,2009,NS,UN,Constant dollars,848,0,81
+2008,2009,NS,UN,Percentage distribution of  expenditures,31.7,0,239
+2008,2009,NS,UN,Index of change,88,0,160
+2008,2009,NB,ALL,Constant dollars,2073,0,81
+2008,2009,NB,ALL,Percentage distribution of  expenditures,100,0,239
+2008,2009,NB,ALL,Index of change,100,0,160
+2008,2009,NB,EL,Constant dollars,1293,0,81
+2008,2009,NB,EL,Percentage distribution of  expenditures,62.4,0,239
+2008,2009,NB,EL,Index of change,106,0,160
+2008,2009,NB,PS,Constant dollars,780,0,81
+2008,2009,NB,PS,Percentage distribution of  expenditures,37.6,0,239
+2008,2009,NB,PS,Index of change,90,0,160
+2008,2009,NB,CL,Constant dollars,271,0,81
+2008,2009,NB,CL,Percentage distribution of  expenditures,13.1,0,239
+2008,2009,NB,CL,Index of change,106,0,160
+2008,2009,NB,UN,Constant dollars,510,0,81
+2008,2009,NB,UN,Percentage distribution of  expenditures,24.6,0,239
+2008,2009,NB,UN,Index of change,84,0,160
+2008,2009,QC,ALL,Constant dollars,22865,0,81
+2008,2009,QC,ALL,Percentage distribution of  expenditures,100,0,239
+2008,2009,QC,ALL,Index of change,103,0,160
+2008,2009,QC,EL,Constant dollars,12716,0,81
+2008,2009,QC,EL,Percentage distribution of  expenditures,55.6,0,239
+2008,2009,QC,EL,Index of change,101,0,160
+2008,2009,QC,PS,Constant dollars,10148,0,81
+2008,2009,QC,PS,Percentage distribution of  expenditures,44.4,0,239
+2008,2009,QC,PS,Index of change,105,0,160
+2008,2009,QC,CL,Constant dollars,4384,0,81
+2008,2009,QC,CL,Percentage distribution of  expenditures,19.2,0,239
+2008,2009,QC,CL,Index of change,105,0,160
+2008,2009,QC,UN,Constant dollars,5764,0,81
+2008,2009,QC,UN,Percentage distribution of  expenditures,25.2,0,239
+2008,2009,QC,UN,Index of change,105,0,160
+2008,2009,ON,ALL,Constant dollars,39910,0,81
+2008,2009,ON,ALL,Percentage distribution of  expenditures,100,0,239
+2008,2009,ON,ALL,Index of change,101,0,160
+2008,2009,ON,EL,Constant dollars,25199,0,81
+2008,2009,ON,EL,Percentage distribution of  expenditures,63.1,0,239
+2008,2009,ON,EL,Index of change,104,0,160
+2008,2009,ON,PS,Constant dollars,14711,0,81
+2008,2009,ON,PS,Percentage distribution of  expenditures,36.9,0,239
+2008,2009,ON,PS,Index of change,96,0,160
+2008,2009,ON,CL,Constant dollars,5431,0,81
+2008,2009,ON,CL,Percentage distribution of  expenditures,13.6,0,239
+2008,2009,ON,CL,Index of change,113,0,160
+2008,2009,ON,UN,Constant dollars,9280,0,81
+2008,2009,ON,UN,Percentage distribution of  expenditures,23.3,0,239
+2008,2009,ON,UN,Index of change,88,0,160
+2008,2009,MB,ALL,Constant dollars,3675,0,81
+2008,2009,MB,ALL,Percentage distribution of  expenditures,100,0,239
+2008,2009,MB,ALL,Index of change,101,0,160
+2008,2009,MB,EL,Constant dollars,2447,0,81
+2008,2009,MB,EL,Percentage distribution of  expenditures,66.6,0,239
+2008,2009,MB,EL,Index of change,100,0,160
+2008,2009,MB,PS,Constant dollars,1226,0,81
+2008,2009,MB,PS,Percentage distribution of  expenditures,33.4,0,239
+2008,2009,MB,PS,Index of change,102,0,160
+2008,2009,MB,CL,Constant dollars,430,0,81
+2008,2009,MB,CL,Percentage distribution of  expenditures,11.7,0,239
+2008,2009,MB,CL,Index of change,104,0,160
+2008,2009,MB,UN,Constant dollars,796,0,81
+2008,2009,MB,UN,Percentage distribution of  expenditures,21.7,0,239
+2008,2009,MB,UN,Index of change,101,0,160
+2008,2009,SK,ALL,Constant dollars,3808,0,81
+2008,2009,SK,ALL,Percentage distribution of  expenditures,100,0,239
+2008,2009,SK,ALL,Index of change,90,0,160
+2008,2009,SK,EL,Constant dollars,2262,0,81
+2008,2009,SK,EL,Percentage distribution of  expenditures,59.4,0,239
+2008,2009,SK,EL,Index of change,89,0,160
+2008,2009,SK,PS,Constant dollars,1546,0,81
+2008,2009,SK,PS,Percentage distribution of  expenditures,40.6,0,239
+2008,2009,SK,PS,Index of change,91,0,160
+2008,2009,SK,CL,Constant dollars,587,0,81
+2008,2009,SK,CL,Percentage distribution of  expenditures,15.4,0,239
+2008,2009,SK,CL,Index of change,97,0,160
+2008,2009,SK,UN,Constant dollars,959,0,81
+2008,2009,SK,UN,Percentage distribution of  expenditures,25.2,0,239
+2008,2009,SK,UN,Index of change,88,0,160
+2008,2009,AL,ALL,Constant dollars,12157,0,81
+2008,2009,AL,ALL,Percentage distribution of  expenditures,100,0,239
+2008,2009,AL,ALL,Index of change,107,0,160
+2008,2009,AL,EL,Constant dollars,7190,0,81
+2008,2009,AL,EL,Percentage distribution of  expenditures,59.1,0,239
+2008,2009,AL,EL,Index of change,113,0,160
+2008,2009,AL,PS,Constant dollars,4968,0,81
+2008,2009,AL,PS,Percentage distribution of  expenditures,40.9,0,239
+2008,2009,AL,PS,Index of change,99,0,160
+2008,2009,AL,CL,Constant dollars,2167,0,81
+2008,2009,AL,CL,Percentage distribution of  expenditures,17.8,0,239
+2008,2009,AL,CL,Index of change,101,0,160
+2008,2009,AL,UN,Constant dollars,2802,0,81
+2008,2009,AL,UN,Percentage distribution of  expenditures,23,0,239
+2008,2009,AL,UN,Index of change,97,0,160
+2008,2009,BC,ALL,Constant dollars,11840,0,81
+2008,2009,BC,ALL,Percentage distribution of  expenditures,100,0,239
+2008,2009,BC,ALL,Index of change,101,0,160
+2008,2009,BC,EL,Constant dollars,6813,0,81
+2008,2009,BC,EL,Percentage distribution of  expenditures,57.5,0,239
+2008,2009,BC,EL,Index of change,102,0,160
+2008,2009,BC,PS,Constant dollars,5028,0,81
+2008,2009,BC,PS,Percentage distribution of  expenditures,42.5,0,239
+2008,2009,BC,PS,Index of change,98,0,160
+2008,2009,BC,CL,Constant dollars,1998,0,81
+2008,2009,BC,CL,Percentage distribution of  expenditures,16.9,0,239
+2008,2009,BC,CL,Index of change,99,0,160
+2008,2009,BC,UN,Constant dollars,3030,0,81
+2008,2009,BC,UN,Percentage distribution of  expenditures,25.6,0,239
+2008,2009,BC,UN,Index of change,98,0,160
+2008,2009,YT,ALL,Constant dollars,152,0,81
+2008,2009,YT,ALL,Percentage distribution of  expenditures,100,0,239
+2008,2009,YT,ALL,Index of change,101,0,160
+2008,2009,YT,EL,Constant dollars,105,0,81
+2008,2009,YT,EL,Percentage distribution of  expenditures,69.4,0,239
+2008,2009,YT,EL,Index of change,98,0,160
+2008,2009,YT,PS,Constant dollars,48,0,81
+2008,2009,YT,PS,Percentage distribution of  expenditures,31.3,0,239
+2008,2009,YT,PS,Index of change,110,0,160
+2008,2009,YT,CL,Constant dollars,48,0,81
+2008,2009,YT,CL,Percentage distribution of  expenditures,31.3,0,239
+2008,2009,YT,CL,Index of change,110,0,160
+2008,2009,YT,UN,Constant dollars,NULL,0,81
+2008,2009,YT,UN,Percentage distribution of  expenditures,NULL,0,239
+2008,2009,YT,UN,Index of change,NULL,0,160
+2008,2009,NT,ALL,Constant dollars,287,0,81
+2008,2009,NT,ALL,Percentage distribution of  expenditures,100,0,239
+2008,2009,NT,ALL,Index of change,79,0,160
+2008,2009,NT,EL,Constant dollars,210,0,81
+2008,2009,NT,EL,Percentage distribution of  expenditures,73.2,0,239
+2008,2009,NT,EL,Index of change,88,0,160
+2008,2009,NT,PS,Constant dollars,76,0,81
+2008,2009,NT,PS,Percentage distribution of  expenditures,26.5,0,239
+2008,2009,NT,PS,Index of change,61,0,160
+2008,2009,NT,CL,Constant dollars,76,0,81
+2008,2009,NT,CL,Percentage distribution of  expenditures,26.5,0,239
+2008,2009,NT,CL,Index of change,61,0,160
+2008,2009,NT,UN,Constant dollars,NULL,0,81
+2008,2009,NT,UN,Percentage distribution of  expenditures,NULL,0,239
+2008,2009,NT,UN,Index of change,NULL,0,160
+2008,2009,NU,ALL,Constant dollars,225,0,81
+2008,2009,NU,ALL,Percentage distribution of  expenditures,100,0,239
+2008,2009,NU,ALL,Index of change,106,0,160
+2008,2009,NU,EL,Constant dollars,161,0,81
+2008,2009,NU,EL,Percentage distribution of  expenditures,71.6,0,239
+2008,2009,NU,EL,Index of change,102,0,160
+2008,2009,NU,PS,Constant dollars,63,0,81
+2008,2009,NU,PS,Percentage distribution of  expenditures,27.9,0,239
+2008,2009,NU,PS,Index of change,116,0,160
+2008,2009,NU,CL,Constant dollars,63,0,81
+2008,2009,NU,CL,Percentage distribution of  expenditures,27.9,0,239
+2008,2009,NU,CL,Index of change,116,0,160
+2008,2009,NU,UN,Constant dollars,NULL,0,81
+2008,2009,NU,UN,Percentage distribution of  expenditures,NULL,0,239
+2008,2009,NU,UN,Index of change,NULL,0,160
+2009,2010,CN,ALL,Constant dollars,111329,0,81
+2009,2010,CN,ALL,Percentage distribution of  expenditures,100,0,239
+2009,2010,CN,ALL,Index of change,111,0,160
+2009,2010,CN,EL,Constant dollars,65076,0,81
+2009,2010,CN,EL,Percentage distribution of  expenditures,58.5,0,239
+2009,2010,CN,EL,Index of change,110,0,160
+2009,2010,CN,PS,Constant dollars,46253,0,81
+2009,2010,CN,PS,Percentage distribution of  expenditures,41.5,0,239
+2009,2010,CN,PS,Index of change,112,0,160
+2009,2010,CN,CL,Constant dollars,15594,0,81
+2009,2010,CN,CL,Percentage distribution of  expenditures,14,0,239
+2009,2010,CN,CL,Index of change,102,0,160
+2009,2010,CN,UN,Constant dollars,30659,0,81
+2009,2010,CN,UN,Percentage distribution of  expenditures,27.5,0,239
+2009,2010,CN,UN,Index of change,118,0,160
+2009,2010,NL,ALL,Constant dollars,1879,0,81
+2009,2010,NL,ALL,Percentage distribution of  expenditures,100,0,239
+2009,2010,NL,ALL,Index of change,118,0,160
+2009,2010,NL,EL,Constant dollars,1053,0,81
+2009,2010,NL,EL,Percentage distribution of  expenditures,56.1,0,239
+2009,2010,NL,EL,Index of change,119,0,160
+2009,2010,NL,PS,Constant dollars,825,0,81
+2009,2010,NL,PS,Percentage distribution of  expenditures,43.9,0,239
+2009,2010,NL,PS,Index of change,117,0,160
+2009,2010,NL,CL,Constant dollars,259,0,81
+2009,2010,NL,CL,Percentage distribution of  expenditures,13.8,0,239
+2009,2010,NL,CL,Index of change,110,0,160
+2009,2010,NL,UN,Constant dollars,568,0,81
+2009,2010,NL,UN,Percentage distribution of  expenditures,30.2,0,239
+2009,2010,NL,UN,Index of change,121,0,160
+2009,2010,PE,ALL,Constant dollars,446,0,81
+2009,2010,PE,ALL,Percentage distribution of  expenditures,100,0,239
+2009,2010,PE,ALL,Index of change,111,0,160
+2009,2010,PE,EL,Constant dollars,249,0,81
+2009,2010,PE,EL,Percentage distribution of  expenditures,55.9,0,239
+2009,2010,PE,EL,Index of change,121,0,160
+2009,2010,PE,PS,Constant dollars,198,0,81
+2009,2010,PE,PS,Percentage distribution of  expenditures,44.3,0,239
+2009,2010,PE,PS,Index of change,103,0,160
+2009,2010,PE,CL,Constant dollars,77,0,81
+2009,2010,PE,CL,Percentage distribution of  expenditures,17.3,0,239
+2009,2010,PE,CL,Index of change,104,0,160
+2009,2010,PE,UN,Constant dollars,120,0,81
+2009,2010,PE,UN,Percentage distribution of  expenditures,27,0,239
+2009,2010,PE,UN,Index of change,102,0,160
+2009,2010,NS,ALL,Constant dollars,3093,0,81
+2009,2010,NS,ALL,Percentage distribution of  expenditures,100,0,239
+2009,2010,NS,ALL,Index of change,115,0,160
+2009,2010,NS,EL,Constant dollars,1599,0,81
+2009,2010,NS,EL,Percentage distribution of  expenditures,51.7,0,239
+2009,2010,NS,EL,Index of change,113,0,160
+2009,2010,NS,PS,Constant dollars,1494,0,81
+2009,2010,NS,PS,Percentage distribution of  expenditures,48.3,0,239
+2009,2010,NS,PS,Index of change,118,0,160
+2009,2010,NS,CL,Constant dollars,327,0,81
+2009,2010,NS,CL,Percentage distribution of  expenditures,10.6,0,239
+2009,2010,NS,CL,Index of change,109,0,160
+2009,2010,NS,UN,Constant dollars,1167,0,81
+2009,2010,NS,UN,Percentage distribution of  expenditures,37.7,0,239
+2009,2010,NS,UN,Index of change,121,0,160
+2009,2010,NB,ALL,Constant dollars,2272,0,81
+2009,2010,NB,ALL,Percentage distribution of  expenditures,100,0,239
+2009,2010,NB,ALL,Index of change,109,0,160
+2009,2010,NB,EL,Constant dollars,1325,0,81
+2009,2010,NB,EL,Percentage distribution of  expenditures,58.3,0,239
+2009,2010,NB,EL,Index of change,109,0,160
+2009,2010,NB,PS,Constant dollars,947,0,81
+2009,2010,NB,PS,Percentage distribution of  expenditures,41.7,0,239
+2009,2010,NB,PS,Index of change,109,0,160
+2009,2010,NB,CL,Constant dollars,274,0,81
+2009,2010,NB,CL,Percentage distribution of  expenditures,12.1,0,239
+2009,2010,NB,CL,Index of change,108,0,160
+2009,2010,NB,UN,Constant dollars,673,0,81
+2009,2010,NB,UN,Percentage distribution of  expenditures,29.6,0,239
+2009,2010,NB,UN,Index of change,110,0,160
+2009,2010,QC,ALL,Constant dollars,22790,0,81
+2009,2010,QC,ALL,Percentage distribution of  expenditures,100,0,239
+2009,2010,QC,ALL,Index of change,103,0,160
+2009,2010,QC,EL,Constant dollars,12945,0,81
+2009,2010,QC,EL,Percentage distribution of  expenditures,56.8,0,239
+2009,2010,QC,EL,Index of change,103,0,160
+2009,2010,QC,PS,Constant dollars,9845,0,81
+2009,2010,QC,PS,Percentage distribution of  expenditures,43.2,0,239
+2009,2010,QC,PS,Index of change,102,0,160
+2009,2010,QC,CL,Constant dollars,3608,0,81
+2009,2010,QC,CL,Percentage distribution of  expenditures,15.8,0,239
+2009,2010,QC,CL,Index of change,87,0,160
+2009,2010,QC,UN,Constant dollars,6237,0,81
+2009,2010,QC,UN,Percentage distribution of  expenditures,27.4,0,239
+2009,2010,QC,UN,Index of change,114,0,160
+2009,2010,ON,ALL,Constant dollars,43820,0,81
+2009,2010,ON,ALL,Percentage distribution of  expenditures,100,0,239
+2009,2010,ON,ALL,Index of change,111,0,160
+2009,2010,ON,EL,Constant dollars,26398,0,81
+2009,2010,ON,EL,Percentage distribution of  expenditures,60.2,0,239
+2009,2010,ON,EL,Index of change,109,0,160
+2009,2010,ON,PS,Constant dollars,17421,0,81
+2009,2010,ON,PS,Percentage distribution of  expenditures,39.8,0,239
+2009,2010,ON,PS,Index of change,114,0,160
+2009,2010,ON,CL,Constant dollars,5634,0,81
+2009,2010,ON,CL,Percentage distribution of  expenditures,12.9,0,239
+2009,2010,ON,CL,Index of change,117,0,160
+2009,2010,ON,UN,Constant dollars,11787,0,81
+2009,2010,ON,UN,Percentage distribution of  expenditures,26.9,0,239
+2009,2010,ON,UN,Index of change,112,0,160
+2009,2010,MB,ALL,Constant dollars,4089,0,81
+2009,2010,MB,ALL,Percentage distribution of  expenditures,100,0,239
+2009,2010,MB,ALL,Index of change,112,0,160
+2009,2010,MB,EL,Constant dollars,2654,0,81
+2009,2010,MB,EL,Percentage distribution of  expenditures,64.9,0,239
+2009,2010,MB,EL,Index of change,109,0,160
+2009,2010,MB,PS,Constant dollars,1436,0,81
+2009,2010,MB,PS,Percentage distribution of  expenditures,35.1,0,239
+2009,2010,MB,PS,Index of change,120,0,160
+2009,2010,MB,CL,Constant dollars,428,0,81
+2009,2010,MB,CL,Percentage distribution of  expenditures,10.5,0,239
+2009,2010,MB,CL,Index of change,104,0,160
+2009,2010,MB,UN,Constant dollars,1008,0,81
+2009,2010,MB,UN,Percentage distribution of  expenditures,24.6,0,239
+2009,2010,MB,UN,Index of change,128,0,160
+2009,2010,SK,ALL,Constant dollars,4243,0,81
+2009,2010,SK,ALL,Percentage distribution of  expenditures,100,0,239
+2009,2010,SK,ALL,Index of change,100,0,160
+2009,2010,SK,EL,Constant dollars,2509,0,81
+2009,2010,SK,EL,Percentage distribution of  expenditures,59.1,0,239
+2009,2010,SK,EL,Index of change,99,0,160
+2009,2010,SK,PS,Constant dollars,1733,0,81
+2009,2010,SK,PS,Percentage distribution of  expenditures,40.8,0,239
+2009,2010,SK,PS,Index of change,102,0,160
+2009,2010,SK,CL,Constant dollars,627,0,81
+2009,2010,SK,CL,Percentage distribution of  expenditures,14.8,0,239
+2009,2010,SK,CL,Index of change,103,0,160
+2009,2010,SK,UN,Constant dollars,1105,0,81
+2009,2010,SK,UN,Percentage distribution of  expenditures,26.1,0,239
+2009,2010,SK,UN,Index of change,102,0,160
+2009,2010,AL,ALL,Constant dollars,14941,0,81
+2009,2010,AL,ALL,Percentage distribution of  expenditures,100,0,239
+2009,2010,AL,ALL,Index of change,131,0,160
+2009,2010,AL,EL,Constant dollars,8719,0,81
+2009,2010,AL,EL,Percentage distribution of  expenditures,58.4,0,239
+2009,2010,AL,EL,Index of change,137,0,160
+2009,2010,AL,PS,Constant dollars,6221,0,81
+2009,2010,AL,PS,Percentage distribution of  expenditures,41.6,0,239
+2009,2010,AL,PS,Index of change,124,0,160
+2009,2010,AL,CL,Constant dollars,2187,0,81
+2009,2010,AL,CL,Percentage distribution of  expenditures,14.6,0,239
+2009,2010,AL,CL,Index of change,102,0,160
+2009,2010,AL,UN,Constant dollars,4034,0,81
+2009,2010,AL,UN,Percentage distribution of  expenditures,27,0,239
+2009,2010,AL,UN,Index of change,140,0,160
+2009,2010,BC,ALL,Constant dollars,12971,0,81
+2009,2010,BC,ALL,Percentage distribution of  expenditures,100,0,239
+2009,2010,BC,ALL,Index of change,110,0,160
+2009,2010,BC,EL,Constant dollars,7075,0,81
+2009,2010,BC,EL,Percentage distribution of  expenditures,54.5,0,239
+2009,2010,BC,EL,Index of change,106,0,160
+2009,2010,BC,PS,Constant dollars,5896,0,81
+2009,2010,BC,PS,Percentage distribution of  expenditures,45.5,0,239
+2009,2010,BC,PS,Index of change,115,0,160
+2009,2010,BC,CL,Constant dollars,1976,0,81
+2009,2010,BC,CL,Percentage distribution of  expenditures,15.2,0,239
+2009,2010,BC,CL,Index of change,97,0,160
+2009,2010,BC,UN,Constant dollars,3920,0,81
+2009,2010,BC,UN,Percentage distribution of  expenditures,30.2,0,239
+2009,2010,BC,UN,Index of change,127,0,160
+2009,2010,YT,ALL,Constant dollars,160,0,81
+2009,2010,YT,ALL,Percentage distribution of  expenditures,100,0,239
+2009,2010,YT,ALL,Index of change,106,0,160
+2009,2010,YT,EL,Constant dollars,110,0,81
+2009,2010,YT,EL,Percentage distribution of  expenditures,68.4,0,239
+2009,2010,YT,EL,Index of change,102,0,160
+2009,2010,YT,PS,Constant dollars,52,0,81
+2009,2010,YT,PS,Percentage distribution of  expenditures,32.2,0,239
+2009,2010,YT,PS,Index of change,119,0,160
+2009,2010,YT,CL,Constant dollars,52,0,81
+2009,2010,YT,CL,Percentage distribution of  expenditures,32.2,0,239
+2009,2010,YT,CL,Index of change,119,0,160
+2009,2010,YT,UN,Constant dollars,NULL,0,81
+2009,2010,YT,UN,Percentage distribution of  expenditures,NULL,0,239
+2009,2010,YT,UN,Index of change,NULL,0,160
+2009,2010,NT,ALL,Constant dollars,337,0,81
+2009,2010,NT,ALL,Percentage distribution of  expenditures,100,0,239
+2009,2010,NT,ALL,Index of change,93,0,160
+2009,2010,NT,EL,Constant dollars,263,0,81
+2009,2010,NT,EL,Percentage distribution of  expenditures,78,0,239
+2009,2010,NT,EL,Index of change,110,0,160
+2009,2010,NT,PS,Constant dollars,74,0,81
+2009,2010,NT,PS,Percentage distribution of  expenditures,22,0,239
+2009,2010,NT,PS,Index of change,59,0,160
+2009,2010,NT,CL,Constant dollars,74,0,81
+2009,2010,NT,CL,Percentage distribution of  expenditures,22,0,239
+2009,2010,NT,CL,Index of change,59,0,160
+2009,2010,NT,UN,Constant dollars,NULL,0,81
+2009,2010,NT,UN,Percentage distribution of  expenditures,NULL,0,239
+2009,2010,NT,UN,Index of change,NULL,0,160
+2009,2010,NU,ALL,Constant dollars,228,0,81
+2009,2010,NU,ALL,Percentage distribution of  expenditures,100,0,239
+2009,2010,NU,ALL,Index of change,108,0,160
+2009,2010,NU,EL,Constant dollars,162,0,81
+2009,2010,NU,EL,Percentage distribution of  expenditures,71.1,0,239
+2009,2010,NU,EL,Index of change,103,0,160
+2009,2010,NU,PS,Constant dollars,66,0,81
+2009,2010,NU,PS,Percentage distribution of  expenditures,28.9,0,239
+2009,2010,NU,PS,Index of change,122,0,160
+2009,2010,NU,CL,Constant dollars,66,0,81
+2009,2010,NU,CL,Percentage distribution of  expenditures,28.9,0,239
+2009,2010,NU,CL,Index of change,122,0,160
+2009,2010,NU,UN,Constant dollars,NULL,0,81
+2009,2010,NU,UN,Percentage distribution of  expenditures,NULL,0,239
+2009,2010,NU,UN,Index of change,NULL,0,160
+2010,2011,CN,ALL,Constant dollars,112553,0,81
+2010,2011,CN,ALL,Percentage distribution of  expenditures,100,0,239
+2010,2011,CN,ALL,Index of change,112,0,160
+2010,2011,CN,EL,Constant dollars,65747,0,81
+2010,2011,CN,EL,Percentage distribution of  expenditures,58.4,0,239
+2010,2011,CN,EL,Index of change,112,0,160
+2010,2011,CN,PS,Constant dollars,46806,0,81
+2010,2011,CN,PS,Percentage distribution of  expenditures,41.6,0,239
+2010,2011,CN,PS,Index of change,113,0,160
+2010,2011,CN,CL,Constant dollars,16638,0,81
+2010,2011,CN,CL,Percentage distribution of  expenditures,14.8,0,239
+2010,2011,CN,CL,Index of change,109,0,160
+2010,2011,CN,UN,Constant dollars,30167,0,81
+2010,2011,CN,UN,Percentage distribution of  expenditures,26.8,0,239
+2010,2011,CN,UN,Index of change,116,0,160
+2010,2011,NL,ALL,Constant dollars,1799,0,81
+2010,2011,NL,ALL,Percentage distribution of  expenditures,100,0,239
+2010,2011,NL,ALL,Index of change,113,0,160
+2010,2011,NL,EL,Constant dollars,1007,0,81
+2010,2011,NL,EL,Percentage distribution of  expenditures,56,0,239
+2010,2011,NL,EL,Index of change,114,0,160
+2010,2011,NL,PS,Constant dollars,793,0,81
+2010,2011,NL,PS,Percentage distribution of  expenditures,44,0,239
+2010,2011,NL,PS,Index of change,113,0,160
+2010,2011,NL,CL,Constant dollars,222,0,81
+2010,2011,NL,CL,Percentage distribution of  expenditures,12.3,0,239
+2010,2011,NL,CL,Index of change,95,0,160
+2010,2011,NL,UN,Constant dollars,571,0,81
+2010,2011,NL,UN,Percentage distribution of  expenditures,31.7,0,239
+2010,2011,NL,UN,Index of change,122,0,160
+2010,2011,PE,ALL,Constant dollars,457,0,81
+2010,2011,PE,ALL,Percentage distribution of  expenditures,100,0,239
+2010,2011,PE,ALL,Index of change,114,0,160
+2010,2011,PE,EL,Constant dollars,243,0,81
+2010,2011,PE,EL,Percentage distribution of  expenditures,53.2,0,239
+2010,2011,PE,EL,Index of change,118,0,160
+2010,2011,PE,PS,Constant dollars,214,0,81
+2010,2011,PE,PS,Percentage distribution of  expenditures,46.8,0,239
+2010,2011,PE,PS,Index of change,111,0,160
+2010,2011,PE,CL,Constant dollars,95,0,81
+2010,2011,PE,CL,Percentage distribution of  expenditures,20.8,0,239
+2010,2011,PE,CL,Index of change,128,0,160
+2010,2011,PE,UN,Constant dollars,119,0,81
+2010,2011,PE,UN,Percentage distribution of  expenditures,26,0,239
+2010,2011,PE,UN,Index of change,100,0,160
+2010,2011,NS,ALL,Constant dollars,3089,0,81
+2010,2011,NS,ALL,Percentage distribution of  expenditures,100,0,239
+2010,2011,NS,ALL,Index of change,115,0,160
+2010,2011,NS,EL,Constant dollars,1629,0,81
+2010,2011,NS,EL,Percentage distribution of  expenditures,52.7,0,239
+2010,2011,NS,EL,Index of change,115,0,160
+2010,2011,NS,PS,Constant dollars,1460,0,81
+2010,2011,NS,PS,Percentage distribution of  expenditures,47.3,0,239
+2010,2011,NS,PS,Index of change,116,0,160
+2010,2011,NS,CL,Constant dollars,327,0,81
+2010,2011,NS,CL,Percentage distribution of  expenditures,10.6,0,239
+2010,2011,NS,CL,Index of change,109,0,160
+2010,2011,NS,UN,Constant dollars,1133,0,81
+2010,2011,NS,UN,Percentage distribution of  expenditures,36.7,0,239
+2010,2011,NS,UN,Index of change,118,0,160
+2010,2011,NB,ALL,Constant dollars,2377,0,81
+2010,2011,NB,ALL,Percentage distribution of  expenditures,100,0,239
+2010,2011,NB,ALL,Index of change,114,0,160
+2010,2011,NB,EL,Constant dollars,1371,0,81
+2010,2011,NB,EL,Percentage distribution of  expenditures,57.7,0,239
+2010,2011,NB,EL,Index of change,113,0,160
+2010,2011,NB,PS,Constant dollars,1006,0,81
+2010,2011,NB,PS,Percentage distribution of  expenditures,42.3,0,239
+2010,2011,NB,PS,Index of change,116,0,160
+2010,2011,NB,CL,Constant dollars,307,0,81
+2010,2011,NB,CL,Percentage distribution of  expenditures,12.9,0,239
+2010,2011,NB,CL,Index of change,121,0,160
+2010,2011,NB,UN,Constant dollars,699,0,81
+2010,2011,NB,UN,Percentage distribution of  expenditures,29.4,0,239
+2010,2011,NB,UN,Index of change,115,0,160
+2010,2011,QC,ALL,Constant dollars,22745,0,81
+2010,2011,QC,ALL,Percentage distribution of  expenditures,100,0,239
+2010,2011,QC,ALL,Index of change,102,0,160
+2010,2011,QC,EL,Constant dollars,13070,0,81
+2010,2011,QC,EL,Percentage distribution of  expenditures,57.5,0,239
+2010,2011,QC,EL,Index of change,104,0,160
+2010,2011,QC,PS,Constant dollars,9675,0,81
+2010,2011,QC,PS,Percentage distribution of  expenditures,42.5,0,239
+2010,2011,QC,PS,Index of change,100,0,160
+2010,2011,QC,CL,Constant dollars,3733,0,81
+2010,2011,QC,CL,Percentage distribution of  expenditures,16.4,0,239
+2010,2011,QC,CL,Index of change,90,0,160
+2010,2011,QC,UN,Constant dollars,5942,0,81
+2010,2011,QC,UN,Percentage distribution of  expenditures,26.1,0,239
+2010,2011,QC,UN,Index of change,109,0,160
+2010,2011,ON,ALL,Constant dollars,45296,0,81
+2010,2011,ON,ALL,Percentage distribution of  expenditures,100,0,239
+2010,2011,ON,ALL,Index of change,115,0,160
+2010,2011,ON,EL,Constant dollars,27105,0,81
+2010,2011,ON,EL,Percentage distribution of  expenditures,59.8,0,239
+2010,2011,ON,EL,Index of change,112,0,160
+2010,2011,ON,PS,Constant dollars,18191,0,81
+2010,2011,ON,PS,Percentage distribution of  expenditures,40.2,0,239
+2010,2011,ON,PS,Index of change,119,0,160
+2010,2011,ON,CL,Constant dollars,6378,0,81
+2010,2011,ON,CL,Percentage distribution of  expenditures,14.1,0,239
+2010,2011,ON,CL,Index of change,132,0,160
+2010,2011,ON,UN,Constant dollars,11813,0,81
+2010,2011,ON,UN,Percentage distribution of  expenditures,26.1,0,239
+2010,2011,ON,UN,Index of change,112,0,160
+2010,2011,MB,ALL,Constant dollars,4137,0,81
+2010,2011,MB,ALL,Percentage distribution of  expenditures,100,0,239
+2010,2011,MB,ALL,Index of change,114,0,160
+2010,2011,MB,EL,Constant dollars,2650,0,81
+2010,2011,MB,EL,Percentage distribution of  expenditures,64.1,0,239
+2010,2011,MB,EL,Index of change,109,0,160
+2010,2011,MB,PS,Constant dollars,1487,0,81
+2010,2011,MB,PS,Percentage distribution of  expenditures,35.9,0,239
+2010,2011,MB,PS,Index of change,124,0,160
+2010,2011,MB,CL,Constant dollars,469,0,81
+2010,2011,MB,CL,Percentage distribution of  expenditures,11.3,0,239
+2010,2011,MB,CL,Index of change,114,0,160
+2010,2011,MB,UN,Constant dollars,1018,0,81
+2010,2011,MB,UN,Percentage distribution of  expenditures,24.6,0,239
+2010,2011,MB,UN,Index of change,129,0,160
+2010,2011,SK,ALL,Constant dollars,4417,0,81
+2010,2011,SK,ALL,Percentage distribution of  expenditures,100,0,239
+2010,2011,SK,ALL,Index of change,104,0,160
+2010,2011,SK,EL,Constant dollars,2614,0,81
+2010,2011,SK,EL,Percentage distribution of  expenditures,59.2,0,239
+2010,2011,SK,EL,Index of change,103,0,160
+2010,2011,SK,PS,Constant dollars,1803,0,81
+2010,2011,SK,PS,Percentage distribution of  expenditures,40.8,0,239
+2010,2011,SK,PS,Index of change,106,0,160
+2010,2011,SK,CL,Constant dollars,590,0,81
+2010,2011,SK,CL,Percentage distribution of  expenditures,13.3,0,239
+2010,2011,SK,CL,Index of change,97,0,160
+2010,2011,SK,UN,Constant dollars,1214,0,81
+2010,2011,SK,UN,Percentage distribution of  expenditures,27.5,0,239
+2010,2011,SK,UN,Index of change,112,0,160
+2010,2011,AL,ALL,Constant dollars,14509,0,81
+2010,2011,AL,ALL,Percentage distribution of  expenditures,100,0,239
+2010,2011,AL,ALL,Index of change,127,0,160
+2010,2011,AL,EL,Constant dollars,8725,0,81
+2010,2011,AL,EL,Percentage distribution of  expenditures,60.1,0,239
+2010,2011,AL,EL,Index of change,137,0,160
+2010,2011,AL,PS,Constant dollars,5785,0,81
+2010,2011,AL,PS,Percentage distribution of  expenditures,39.9,0,239
+2010,2011,AL,PS,Index of change,115,0,160
+2010,2011,AL,CL,Constant dollars,2169,0,81
+2010,2011,AL,CL,Percentage distribution of  expenditures,15,0,239
+2010,2011,AL,CL,Index of change,101,0,160
+2010,2011,AL,UN,Constant dollars,3615,0,81
+2010,2011,AL,UN,Percentage distribution of  expenditures,24.9,0,239
+2010,2011,AL,UN,Index of change,126,0,160
+2010,2011,BC,ALL,Constant dollars,13162,0,81
+2010,2011,BC,ALL,Percentage distribution of  expenditures,100,0,239
+2010,2011,BC,ALL,Index of change,112,0,160
+2010,2011,BC,EL,Constant dollars,6929,0,81
+2010,2011,BC,EL,Percentage distribution of  expenditures,52.6,0,239
+2010,2011,BC,EL,Index of change,104,0,160
+2010,2011,BC,PS,Constant dollars,6232,0,81
+2010,2011,BC,PS,Percentage distribution of  expenditures,47.4,0,239
+2010,2011,BC,PS,Index of change,122,0,160
+2010,2011,BC,CL,Constant dollars,2171,0,81
+2010,2011,BC,CL,Percentage distribution of  expenditures,16.5,0,239
+2010,2011,BC,CL,Index of change,107,0,160
+2010,2011,BC,UN,Constant dollars,4061,0,81
+2010,2011,BC,UN,Percentage distribution of  expenditures,30.9,0,239
+2010,2011,BC,UN,Index of change,132,0,160
+2010,2011,YT,ALL,Constant dollars,170,0,81
+2010,2011,YT,ALL,Percentage distribution of  expenditures,100,0,239
+2010,2011,YT,ALL,Index of change,113,0,160
+2010,2011,YT,EL,Constant dollars,110,0,81
+2010,2011,YT,EL,Percentage distribution of  expenditures,64.9,0,239
+2010,2011,YT,EL,Index of change,102,0,160
+2010,2011,YT,PS,Constant dollars,59,0,81
+2010,2011,YT,PS,Percentage distribution of  expenditures,34.5,0,239
+2010,2011,YT,PS,Index of change,136,0,160
+2010,2011,YT,CL,Constant dollars,59,0,81
+2010,2011,YT,CL,Percentage distribution of  expenditures,34.5,0,239
+2010,2011,YT,CL,Index of change,136,0,160
+2010,2011,YT,UN,Constant dollars,NULL,0,81
+2010,2011,YT,UN,Percentage distribution of  expenditures,NULL,0,239
+2010,2011,YT,UN,Index of change,NULL,0,160
+2010,2011,NT,ALL,Constant dollars,269,0,81
+2010,2011,NT,ALL,Percentage distribution of  expenditures,100,0,239
+2010,2011,NT,ALL,Index of change,74,0,160
+2010,2011,NT,EL,Constant dollars,207,0,81
+2010,2011,NT,EL,Percentage distribution of  expenditures,77.2,0,239
+2010,2011,NT,EL,Index of change,87,0,160
+2010,2011,NT,PS,Constant dollars,61,0,81
+2010,2011,NT,PS,Percentage distribution of  expenditures,22.8,0,239
+2010,2011,NT,PS,Index of change,49,0,160
+2010,2011,NT,CL,Constant dollars,61,0,81
+2010,2011,NT,CL,Percentage distribution of  expenditures,22.8,0,239
+2010,2011,NT,CL,Index of change,49,0,160
+2010,2011,NT,UN,Constant dollars,NULL,0,81
+2010,2011,NT,UN,Percentage distribution of  expenditures,NULL,0,239
+2010,2011,NT,UN,Index of change,NULL,0,160
+2010,2011,NU,ALL,Constant dollars,207,0,81
+2010,2011,NU,ALL,Percentage distribution of  expenditures,100,0,239
+2010,2011,NU,ALL,Index of change,97,0,160
+2010,2011,NU,EL,Constant dollars,151,0,81
+2010,2011,NU,EL,Percentage distribution of  expenditures,73.2,0,239
+2010,2011,NU,EL,Index of change,96,0,160
+2010,2011,NU,PS,Constant dollars,55,0,81
+2010,2011,NU,PS,Percentage distribution of  expenditures,26.8,0,239
+2010,2011,NU,PS,Index of change,103,0,160
+2010,2011,NU,CL,Constant dollars,55,0,81
+2010,2011,NU,CL,Percentage distribution of  expenditures,26.8,0,239
+2010,2011,NU,CL,Index of change,103,0,160
+2010,2011,NU,UN,Constant dollars,NULL,0,81
+2010,2011,NU,UN,Percentage distribution of  expenditures,NULL,0,239
+2010,2011,NU,UN,Index of change,NULL,0,160
+2011,2012,CN,ALL,Constant dollars,110088,0,81
+2011,2012,CN,ALL,Percentage distribution of  expenditures,100,0,239
+2011,2012,CN,ALL,Index of change,110,0,160
+2011,2012,CN,EL,Constant dollars,64225,0,81
+2011,2012,CN,EL,Percentage distribution of  expenditures,58.3,0,239
+2011,2012,CN,EL,Index of change,109,0,160
+2011,2012,CN,PS,Constant dollars,45863,0,81
+2011,2012,CN,PS,Percentage distribution of  expenditures,41.7,0,239
+2011,2012,CN,PS,Index of change,111,0,160
+2011,2012,CN,CL,Constant dollars,15884,0,81
+2011,2012,CN,CL,Percentage distribution of  expenditures,14.4,0,239
+2011,2012,CN,CL,Index of change,104,0,160
+2011,2012,CN,UN,Constant dollars,29980,0,81
+2011,2012,CN,UN,Percentage distribution of  expenditures,27.2,0,239
+2011,2012,CN,UN,Index of change,115,0,160
+2011,2012,NL,ALL,Constant dollars,1689,0,81
+2011,2012,NL,ALL,Percentage distribution of  expenditures,100,0,239
+2011,2012,NL,ALL,Index of change,106,0,160
+2011,2012,NL,EL,Constant dollars,870,0,81
+2011,2012,NL,EL,Percentage distribution of  expenditures,51.5,0,239
+2011,2012,NL,EL,Index of change,98,0,160
+2011,2012,NL,PS,Constant dollars,819,0,81
+2011,2012,NL,PS,Percentage distribution of  expenditures,48.5,0,239
+2011,2012,NL,PS,Index of change,116,0,160
+2011,2012,NL,CL,Constant dollars,227,0,81
+2011,2012,NL,CL,Percentage distribution of  expenditures,13.4,0,239
+2011,2012,NL,CL,Index of change,97,0,160
+2011,2012,NL,UN,Constant dollars,592,0,81
+2011,2012,NL,UN,Percentage distribution of  expenditures,35.1,0,239
+2011,2012,NL,UN,Index of change,126,0,160
+2011,2012,PE,ALL,Constant dollars,464,0,81
+2011,2012,PE,ALL,Percentage distribution of  expenditures,100,0,239
+2011,2012,PE,ALL,Index of change,116,0,160
+2011,2012,PE,EL,Constant dollars,242,0,81
+2011,2012,PE,EL,Percentage distribution of  expenditures,52.2,0,239
+2011,2012,PE,EL,Index of change,117,0,160
+2011,2012,PE,PS,Constant dollars,222,0,81
+2011,2012,PE,PS,Percentage distribution of  expenditures,47.8,0,239
+2011,2012,PE,PS,Index of change,115,0,160
+2011,2012,PE,CL,Constant dollars,101,0,81
+2011,2012,PE,CL,Percentage distribution of  expenditures,21.7,0,239
+2011,2012,PE,CL,Index of change,135,0,160
+2011,2012,PE,UN,Constant dollars,122,0,81
+2011,2012,PE,UN,Percentage distribution of  expenditures,26.3,0,239
+2011,2012,PE,UN,Index of change,103,0,160
+2011,2012,NS,ALL,Constant dollars,2980,0,81
+2011,2012,NS,ALL,Percentage distribution of  expenditures,100,0,239
+2011,2012,NS,ALL,Index of change,111,0,160
+2011,2012,NS,EL,Constant dollars,1545,0,81
+2011,2012,NS,EL,Percentage distribution of  expenditures,51.9,0,239
+2011,2012,NS,EL,Index of change,109,0,160
+2011,2012,NS,PS,Constant dollars,1435,0,81
+2011,2012,NS,PS,Percentage distribution of  expenditures,48.1,0,239
+2011,2012,NS,PS,Index of change,114,0,160
+2011,2012,NS,CL,Constant dollars,302,0,81
+2011,2012,NS,CL,Percentage distribution of  expenditures,10.1,0,239
+2011,2012,NS,CL,Index of change,101,0,160
+2011,2012,NS,UN,Constant dollars,1133,0,81
+2011,2012,NS,UN,Percentage distribution of  expenditures,38,0,239
+2011,2012,NS,UN,Index of change,118,0,160
+2011,2012,NB,ALL,Constant dollars,2199,0,81
+2011,2012,NB,ALL,Percentage distribution of  expenditures,100,0,239
+2011,2012,NB,ALL,Index of change,106,0,160
+2011,2012,NB,EL,Constant dollars,1302,0,81
+2011,2012,NB,EL,Percentage distribution of  expenditures,59.2,0,239
+2011,2012,NB,EL,Index of change,107,0,160
+2011,2012,NB,PS,Constant dollars,896,0,81
+2011,2012,NB,PS,Percentage distribution of  expenditures,40.8,0,239
+2011,2012,NB,PS,Index of change,104,0,160
+2011,2012,NB,CL,Constant dollars,260,0,81
+2011,2012,NB,CL,Percentage distribution of  expenditures,11.8,0,239
+2011,2012,NB,CL,Index of change,102,0,160
+2011,2012,NB,UN,Constant dollars,636,0,81
+2011,2012,NB,UN,Percentage distribution of  expenditures,28.9,0,239
+2011,2012,NB,UN,Index of change,104,0,160
+2011,2012,QC,ALL,Constant dollars,22693,0,81
+2011,2012,QC,ALL,Percentage distribution of  expenditures,100,0,239
+2011,2012,QC,ALL,Index of change,102,0,160
+2011,2012,QC,EL,Constant dollars,13121,0,81
+2011,2012,QC,EL,Percentage distribution of  expenditures,57.8,0,239
+2011,2012,QC,EL,Index of change,104,0,160
+2011,2012,QC,PS,Constant dollars,9572,0,81
+2011,2012,QC,PS,Percentage distribution of  expenditures,42.2,0,239
+2011,2012,QC,PS,Index of change,99,0,160
+2011,2012,QC,CL,Constant dollars,3453,0,81
+2011,2012,QC,CL,Percentage distribution of  expenditures,15.2,0,239
+2011,2012,QC,CL,Index of change,83,0,160
+2011,2012,QC,UN,Constant dollars,6119,0,81
+2011,2012,QC,UN,Percentage distribution of  expenditures,27,0,239
+2011,2012,QC,UN,Index of change,112,0,160
+2011,2012,ON,ALL,Constant dollars,44373,0,81
+2011,2012,ON,ALL,Percentage distribution of  expenditures,100,0,239
+2011,2012,ON,ALL,Index of change,112,0,160
+2011,2012,ON,EL,Constant dollars,26638,0,81
+2011,2012,ON,EL,Percentage distribution of  expenditures,60,0,239
+2011,2012,ON,EL,Index of change,110,0,160
+2011,2012,ON,PS,Constant dollars,17736,0,81
+2011,2012,ON,PS,Percentage distribution of  expenditures,40,0,239
+2011,2012,ON,PS,Index of change,116,0,160
+2011,2012,ON,CL,Constant dollars,6358,0,81
+2011,2012,ON,CL,Percentage distribution of  expenditures,14.3,0,239
+2011,2012,ON,CL,Index of change,132,0,160
+2011,2012,ON,UN,Constant dollars,11377,0,81
+2011,2012,ON,UN,Percentage distribution of  expenditures,25.6,0,239
+2011,2012,ON,UN,Index of change,108,0,160
+2011,2012,MB,ALL,Constant dollars,4007,0,81
+2011,2012,MB,ALL,Percentage distribution of  expenditures,100,0,239
+2011,2012,MB,ALL,Index of change,110,0,160
+2011,2012,MB,EL,Constant dollars,2545,0,81
+2011,2012,MB,EL,Percentage distribution of  expenditures,63.5,0,239
+2011,2012,MB,EL,Index of change,104,0,160
+2011,2012,MB,PS,Constant dollars,1461,0,81
+2011,2012,MB,PS,Percentage distribution of  expenditures,36.5,0,239
+2011,2012,MB,PS,Index of change,122,0,160
+2011,2012,MB,CL,Constant dollars,418,0,81
+2011,2012,MB,CL,Percentage distribution of  expenditures,10.4,0,239
+2011,2012,MB,CL,Index of change,101,0,160
+2011,2012,MB,UN,Constant dollars,1042,0,81
+2011,2012,MB,UN,Percentage distribution of  expenditures,26,0,239
+2011,2012,MB,UN,Index of change,132,0,160
+2011,2012,SK,ALL,Constant dollars,4033,0,81
+2011,2012,SK,ALL,Percentage distribution of  expenditures,100,0,239
+2011,2012,SK,ALL,Index of change,95,0,160
+2011,2012,SK,EL,Constant dollars,2511,0,81
+2011,2012,SK,EL,Percentage distribution of  expenditures,62.3,0,239
+2011,2012,SK,EL,Index of change,99,0,160
+2011,2012,SK,PS,Constant dollars,1522,0,81
+2011,2012,SK,PS,Percentage distribution of  expenditures,37.7,0,239
+2011,2012,SK,PS,Index of change,90,0,160
+2011,2012,SK,CL,Constant dollars,493,0,81
+2011,2012,SK,CL,Percentage distribution of  expenditures,12.2,0,239
+2011,2012,SK,CL,Index of change,81,0,160
+2011,2012,SK,UN,Constant dollars,1029,0,81
+2011,2012,SK,UN,Percentage distribution of  expenditures,25.5,0,239
+2011,2012,SK,UN,Index of change,95,0,160
+2011,2012,AL,ALL,Constant dollars,14412,0,81
+2011,2012,AL,ALL,Percentage distribution of  expenditures,100,0,239
+2011,2012,AL,ALL,Index of change,126,0,160
+2011,2012,AL,EL,Constant dollars,8426,0,81
+2011,2012,AL,EL,Percentage distribution of  expenditures,58.5,0,239
+2011,2012,AL,EL,Index of change,132,0,160
+2011,2012,AL,PS,Constant dollars,5987,0,81
+2011,2012,AL,PS,Percentage distribution of  expenditures,41.5,0,239
+2011,2012,AL,PS,Index of change,119,0,160
+2011,2012,AL,CL,Constant dollars,2081,0,81
+2011,2012,AL,CL,Percentage distribution of  expenditures,14.4,0,239
+2011,2012,AL,CL,Index of change,97,0,160
+2011,2012,AL,UN,Constant dollars,3906,0,81
+2011,2012,AL,UN,Percentage distribution of  expenditures,27.1,0,239
+2011,2012,AL,UN,Index of change,136,0,160
+2011,2012,BC,ALL,Constant dollars,12748,0,81
+2011,2012,BC,ALL,Percentage distribution of  expenditures,100,0,239
+2011,2012,BC,ALL,Index of change,108,0,160
+2011,2012,BC,EL,Constant dollars,6655,0,81
+2011,2012,BC,EL,Percentage distribution of  expenditures,52.2,0,239
+2011,2012,BC,EL,Index of change,100,0,160
+2011,2012,BC,PS,Constant dollars,6093,0,81
+2011,2012,BC,PS,Percentage distribution of  expenditures,47.8,0,239
+2011,2012,BC,PS,Index of change,119,0,160
+2011,2012,BC,CL,Constant dollars,2046,0,81
+2011,2012,BC,CL,Percentage distribution of  expenditures,16,0,239
+2011,2012,BC,CL,Index of change,101,0,160
+2011,2012,BC,UN,Constant dollars,4046,0,81
+2011,2012,BC,UN,Percentage distribution of  expenditures,31.7,0,239
+2011,2012,BC,UN,Index of change,131,0,160
+2011,2012,YT,ALL,Constant dollars,158,0,81
+2011,2012,YT,ALL,Percentage distribution of  expenditures,100,0,239
+2011,2012,YT,ALL,Index of change,104,0,160
+2011,2012,YT,EL,Constant dollars,112,0,81
+2011,2012,YT,EL,Percentage distribution of  expenditures,71.3,0,239
+2011,2012,YT,EL,Index of change,104,0,160
+2011,2012,YT,PS,Constant dollars,45,0,81
+2011,2012,YT,PS,Percentage distribution of  expenditures,28.8,0,239
+2011,2012,YT,PS,Index of change,105,0,160
+2011,2012,YT,CL,Constant dollars,45,0,81
+2011,2012,YT,CL,Percentage distribution of  expenditures,28.8,0,239
+2011,2012,YT,CL,Index of change,105,0,160
+2011,2012,YT,UN,Constant dollars,NULL,0,81
+2011,2012,YT,UN,Percentage distribution of  expenditures,NULL,0,239
+2011,2012,YT,UN,Index of change,NULL,0,160
+2011,2012,NT,ALL,Constant dollars,251,0,81
+2011,2012,NT,ALL,Percentage distribution of  expenditures,100,0,239
+2011,2012,NT,ALL,Index of change,69,0,160
+2011,2012,NT,EL,Constant dollars,195,0,81
+2011,2012,NT,EL,Percentage distribution of  expenditures,77.4,0,239
+2011,2012,NT,EL,Index of change,82,0,160
+2011,2012,NT,PS,Constant dollars,57,0,81
+2011,2012,NT,PS,Percentage distribution of  expenditures,22.6,0,239
+2011,2012,NT,PS,Index of change,45,0,160
+2011,2012,NT,CL,Constant dollars,57,0,81
+2011,2012,NT,CL,Percentage distribution of  expenditures,22.6,0,239
+2011,2012,NT,CL,Index of change,45,0,160
+2011,2012,NT,UN,Constant dollars,NULL,0,81
+2011,2012,NT,UN,Percentage distribution of  expenditures,NULL,0,239
+2011,2012,NT,UN,Index of change,NULL,0,160
+2011,2012,NU,ALL,Constant dollars,203,0,81
+2011,2012,NU,ALL,Percentage distribution of  expenditures,100,0,239
+2011,2012,NU,ALL,Index of change,96,0,160
+2011,2012,NU,EL,Constant dollars,151,0,81
+2011,2012,NU,EL,Percentage distribution of  expenditures,74.5,0,239
+2011,2012,NU,EL,Index of change,95,0,160
+2011,2012,NU,PS,Constant dollars,52,0,81
+2011,2012,NU,PS,Percentage distribution of  expenditures,25.5,0,239
+2011,2012,NU,PS,Index of change,96,0,160
+2011,2012,NU,CL,Constant dollars,52,0,81
+2011,2012,NU,CL,Percentage distribution of  expenditures,25.5,0,239
+2011,2012,NU,CL,Index of change,96,0,160
+2011,2012,NU,UN,Constant dollars,NULL,0,81
+2011,2012,NU,UN,Percentage distribution of  expenditures,NULL,0,239
+2011,2012,NU,UN,Index of change,NULL,0,160
+2012,2013,CN,ALL,Constant dollars,110347,0,81
+2012,2013,CN,ALL,Percentage distribution of  expenditures,100,0,239
+2012,2013,CN,ALL,Index of change,110,0,160
+2012,2013,CN,EL,Constant dollars,64829,0,81
+2012,2013,CN,EL,Percentage distribution of  expenditures,58.8,0,239
+2012,2013,CN,EL,Index of change,110,0,160
+2012,2013,CN,PS,Constant dollars,45518,0,81
+2012,2013,CN,PS,Percentage distribution of  expenditures,41.2,0,239
+2012,2013,CN,PS,Index of change,110,0,160
+2012,2013,CN,CL,Constant dollars,15995,0,81
+2012,2013,CN,CL,Percentage distribution of  expenditures,14.5,0,239
+2012,2013,CN,CL,Index of change,105,0,160
+2012,2013,CN,UN,Constant dollars,29523,0,81
+2012,2013,CN,UN,Percentage distribution of  expenditures,26.8,0,239
+2012,2013,CN,UN,Index of change,114,0,160
+2012,2013,NL,ALL,Constant dollars,1697,0,81
+2012,2013,NL,ALL,Percentage distribution of  expenditures,100,0,239
+2012,2013,NL,ALL,Index of change,107,0,160
+2012,2013,NL,EL,Constant dollars,874,0,81
+2012,2013,NL,EL,Percentage distribution of  expenditures,51.5,0,239
+2012,2013,NL,EL,Index of change,99,0,160
+2012,2013,NL,PS,Constant dollars,822,0,81
+2012,2013,NL,PS,Percentage distribution of  expenditures,48.4,0,239
+2012,2013,NL,PS,Index of change,117,0,160
+2012,2013,NL,CL,Constant dollars,222,0,81
+2012,2013,NL,CL,Percentage distribution of  expenditures,13.1,0,239
+2012,2013,NL,CL,Index of change,95,0,160
+2012,2013,NL,UN,Constant dollars,600,0,81
+2012,2013,NL,UN,Percentage distribution of  expenditures,35.4,0,239
+2012,2013,NL,UN,Index of change,128,0,160
+2012,2013,PE,ALL,Constant dollars,451,0,81
+2012,2013,PE,ALL,Percentage distribution of  expenditures,100,0,239
+2012,2013,PE,ALL,Index of change,113,0,160
+2012,2013,PE,EL,Constant dollars,245,0,81
+2012,2013,PE,EL,Percentage distribution of  expenditures,54.3,0,239
+2012,2013,PE,EL,Index of change,119,0,160
+2012,2013,PE,PS,Constant dollars,206,0,81
+2012,2013,PE,PS,Percentage distribution of  expenditures,45.7,0,239
+2012,2013,PE,PS,Index of change,107,0,160
+2012,2013,PE,CL,Constant dollars,94,0,81
+2012,2013,PE,CL,Percentage distribution of  expenditures,20.8,0,239
+2012,2013,PE,CL,Index of change,126,0,160
+2012,2013,PE,UN,Constant dollars,112,0,81
+2012,2013,PE,UN,Percentage distribution of  expenditures,24.8,0,239
+2012,2013,PE,UN,Index of change,95,0,160
+2012,2013,NS,ALL,Constant dollars,2908,0,81
+2012,2013,NS,ALL,Percentage distribution of  expenditures,100,0,239
+2012,2013,NS,ALL,Index of change,109,0,160
+2012,2013,NS,EL,Constant dollars,1501,0,81
+2012,2013,NS,EL,Percentage distribution of  expenditures,51.6,0,239
+2012,2013,NS,EL,Index of change,106,0,160
+2012,2013,NS,PS,Constant dollars,1406,0,81
+2012,2013,NS,PS,Percentage distribution of  expenditures,48.3,0,239
+2012,2013,NS,PS,Index of change,111,0,160
+2012,2013,NS,CL,Constant dollars,306,0,81
+2012,2013,NS,CL,Percentage distribution of  expenditures,10.5,0,239
+2012,2013,NS,CL,Index of change,102,0,160
+2012,2013,NS,UN,Constant dollars,1100,0,81
+2012,2013,NS,UN,Percentage distribution of  expenditures,37.8,0,239
+2012,2013,NS,UN,Index of change,114,0,160
+2012,2013,NB,ALL,Constant dollars,2159,0,81
+2012,2013,NB,ALL,Percentage distribution of  expenditures,100,0,239
+2012,2013,NB,ALL,Index of change,104,0,160
+2012,2013,NB,EL,Constant dollars,1305,0,81
+2012,2013,NB,EL,Percentage distribution of  expenditures,60.4,0,239
+2012,2013,NB,EL,Index of change,107,0,160
+2012,2013,NB,PS,Constant dollars,854,0,81
+2012,2013,NB,PS,Percentage distribution of  expenditures,39.6,0,239
+2012,2013,NB,PS,Index of change,99,0,160
+2012,2013,NB,CL,Constant dollars,272,0,81
+2012,2013,NB,CL,Percentage distribution of  expenditures,12.6,0,239
+2012,2013,NB,CL,Index of change,107,0,160
+2012,2013,NB,UN,Constant dollars,582,0,81
+2012,2013,NB,UN,Percentage distribution of  expenditures,27,0,239
+2012,2013,NB,UN,Index of change,95,0,160
+2012,2013,QC,ALL,Constant dollars,22717,0,81
+2012,2013,QC,ALL,Percentage distribution of  expenditures,100,0,239
+2012,2013,QC,ALL,Index of change,102,0,160
+2012,2013,QC,EL,Constant dollars,13255,0,81
+2012,2013,QC,EL,Percentage distribution of  expenditures,58.3,0,239
+2012,2013,QC,EL,Index of change,105,0,160
+2012,2013,QC,PS,Constant dollars,9463,0,81
+2012,2013,QC,PS,Percentage distribution of  expenditures,41.7,0,239
+2012,2013,QC,PS,Index of change,98,0,160
+2012,2013,QC,CL,Constant dollars,3647,0,81
+2012,2013,QC,CL,Percentage distribution of  expenditures,16.1,0,239
+2012,2013,QC,CL,Index of change,88,0,160
+2012,2013,QC,UN,Constant dollars,5816,0,81
+2012,2013,QC,UN,Percentage distribution of  expenditures,25.6,0,239
+2012,2013,QC,UN,Index of change,106,0,160
+2012,2013,ON,ALL,Constant dollars,44577,0,81
+2012,2013,ON,ALL,Percentage distribution of  expenditures,100,0,239
+2012,2013,ON,ALL,Index of change,113,0,160
+2012,2013,ON,EL,Constant dollars,26442,0,81
+2012,2013,ON,EL,Percentage distribution of  expenditures,59.3,0,239
+2012,2013,ON,EL,Index of change,109,0,160
+2012,2013,ON,PS,Constant dollars,18135,0,81
+2012,2013,ON,PS,Percentage distribution of  expenditures,40.7,0,239
+2012,2013,ON,PS,Index of change,118,0,160
+2012,2013,ON,CL,Constant dollars,6140,0,81
+2012,2013,ON,CL,Percentage distribution of  expenditures,13.8,0,239
+2012,2013,ON,CL,Index of change,127,0,160
+2012,2013,ON,UN,Constant dollars,11995,0,81
+2012,2013,ON,UN,Percentage distribution of  expenditures,26.9,0,239
+2012,2013,ON,UN,Index of change,114,0,160
+2012,2013,MB,ALL,Constant dollars,4126,0,81
+2012,2013,MB,ALL,Percentage distribution of  expenditures,100,0,239
+2012,2013,MB,ALL,Index of change,113,0,160
+2012,2013,MB,EL,Constant dollars,2653,0,81
+2012,2013,MB,EL,Percentage distribution of  expenditures,64.3,0,239
+2012,2013,MB,EL,Index of change,109,0,160
+2012,2013,MB,PS,Constant dollars,1473,0,81
+2012,2013,MB,PS,Percentage distribution of  expenditures,35.7,0,239
+2012,2013,MB,PS,Index of change,123,0,160
+2012,2013,MB,CL,Constant dollars,468,0,81
+2012,2013,MB,CL,Percentage distribution of  expenditures,11.3,0,239
+2012,2013,MB,CL,Index of change,113,0,160
+2012,2013,MB,UN,Constant dollars,1005,0,81
+2012,2013,MB,UN,Percentage distribution of  expenditures,24.4,0,239
+2012,2013,MB,UN,Index of change,128,0,160
+2012,2013,SK,ALL,Constant dollars,4200,0,81
+2012,2013,SK,ALL,Percentage distribution of  expenditures,100,0,239
+2012,2013,SK,ALL,Index of change,99,0,160
+2012,2013,SK,EL,Constant dollars,2714,0,81
+2012,2013,SK,EL,Percentage distribution of  expenditures,64.6,0,239
+2012,2013,SK,EL,Index of change,107,0,160
+2012,2013,SK,PS,Constant dollars,1485,0,81
+2012,2013,SK,PS,Percentage distribution of  expenditures,35.4,0,239
+2012,2013,SK,PS,Index of change,87,0,160
+2012,2013,SK,CL,Constant dollars,435,0,81
+2012,2013,SK,CL,Percentage distribution of  expenditures,10.4,0,239
+2012,2013,SK,CL,Index of change,72,0,160
+2012,2013,SK,UN,Constant dollars,1050,0,81
+2012,2013,SK,UN,Percentage distribution of  expenditures,25,0,239
+2012,2013,SK,UN,Index of change,97,0,160
+2012,2013,AL,ALL,Constant dollars,14056,0,81
+2012,2013,AL,ALL,Percentage distribution of  expenditures,100,0,239
+2012,2013,AL,ALL,Index of change,123,0,160
+2012,2013,AL,EL,Constant dollars,8520,0,81
+2012,2013,AL,EL,Percentage distribution of  expenditures,60.6,0,239
+2012,2013,AL,EL,Index of change,134,0,160
+2012,2013,AL,PS,Constant dollars,5536,0,81
+2012,2013,AL,PS,Percentage distribution of  expenditures,39.4,0,239
+2012,2013,AL,PS,Index of change,110,0,160
+2012,2013,AL,CL,Constant dollars,2098,0,81
+2012,2013,AL,CL,Percentage distribution of  expenditures,14.9,0,239
+2012,2013,AL,CL,Index of change,98,0,160
+2012,2013,AL,UN,Constant dollars,3438,0,81
+2012,2013,AL,UN,Percentage distribution of  expenditures,24.5,0,239
+2012,2013,AL,UN,Index of change,120,0,160
+2012,2013,BC,ALL,Constant dollars,12801,0,81
+2012,2013,BC,ALL,Percentage distribution of  expenditures,100,0,239
+2012,2013,BC,ALL,Index of change,109,0,160
+2012,2013,BC,EL,Constant dollars,6836,0,81
+2012,2013,BC,EL,Percentage distribution of  expenditures,53.4,0,239
+2012,2013,BC,EL,Index of change,103,0,160
+2012,2013,BC,PS,Constant dollars,5965,0,81
+2012,2013,BC,PS,Percentage distribution of  expenditures,46.6,0,239
+2012,2013,BC,PS,Index of change,117,0,160
+2012,2013,BC,CL,Constant dollars,2141,0,81
+2012,2013,BC,CL,Percentage distribution of  expenditures,16.7,0,239
+2012,2013,BC,CL,Index of change,106,0,160
+2012,2013,BC,UN,Constant dollars,3824,0,81
+2012,2013,BC,UN,Percentage distribution of  expenditures,29.9,0,239
+2012,2013,BC,UN,Index of change,124,0,160
+2012,2013,YT,ALL,Constant dollars,166,0,81
+2012,2013,YT,ALL,Percentage distribution of  expenditures,100,0,239
+2012,2013,YT,ALL,Index of change,110,0,160
+2012,2013,YT,EL,Constant dollars,115,0,81
+2012,2013,YT,EL,Percentage distribution of  expenditures,69.3,0,239
+2012,2013,YT,EL,Index of change,107,0,160
+2012,2013,YT,PS,Constant dollars,51,0,81
+2012,2013,YT,PS,Percentage distribution of  expenditures,30.7,0,239
+2012,2013,YT,PS,Index of change,118,0,160
+2012,2013,YT,CL,Constant dollars,51,0,81
+2012,2013,YT,CL,Percentage distribution of  expenditures,30.7,0,239
+2012,2013,YT,CL,Index of change,118,0,160
+2012,2013,YT,UN,Constant dollars,NULL,0,81
+2012,2013,YT,UN,Percentage distribution of  expenditures,NULL,0,239
+2012,2013,YT,UN,Index of change,NULL,0,160
+2012,2013,NT,ALL,Constant dollars,284,0,81
+2012,2013,NT,ALL,Percentage distribution of  expenditures,100,0,239
+2012,2013,NT,ALL,Index of change,78,0,160
+2012,2013,NT,EL,Constant dollars,222,0,81
+2012,2013,NT,EL,Percentage distribution of  expenditures,78.2,0,239
+2012,2013,NT,EL,Index of change,93,0,160
+2012,2013,NT,PS,Constant dollars,62,0,81
+2012,2013,NT,PS,Percentage distribution of  expenditures,21.8,0,239
+2012,2013,NT,PS,Index of change,50,0,160
+2012,2013,NT,CL,Constant dollars,62,0,81
+2012,2013,NT,CL,Percentage distribution of  expenditures,21.8,0,239
+2012,2013,NT,CL,Index of change,50,0,160
+2012,2013,NT,UN,Constant dollars,NULL,0,81
+2012,2013,NT,UN,Percentage distribution of  expenditures,NULL,0,239
+2012,2013,NT,UN,Index of change,NULL,0,160
+2012,2013,NU,ALL,Constant dollars,206,0,81
+2012,2013,NU,ALL,Percentage distribution of  expenditures,100,0,239
+2012,2013,NU,ALL,Index of change,97,0,160
+2012,2013,NU,EL,Constant dollars,146,0,81
+2012,2013,NU,EL,Percentage distribution of  expenditures,70.9,0,239
+2012,2013,NU,EL,Index of change,92,0,160
+2012,2013,NU,PS,Constant dollars,60,0,81
+2012,2013,NU,PS,Percentage distribution of  expenditures,29.1,0,239
+2012,2013,NU,PS,Index of change,111,0,160
+2012,2013,NU,CL,Constant dollars,60,0,81
+2012,2013,NU,CL,Percentage distribution of  expenditures,29.1,0,239
+2012,2013,NU,CL,Index of change,111,0,160
+2012,2013,NU,UN,Constant dollars,NULL,0,81
+2012,2013,NU,UN,Percentage distribution of  expenditures,NULL,0,239
+2012,2013,NU,UN,Index of change,NULL,0,160
+2013,2014,CN,ALL,Constant dollars,112938,0,81
+2013,2014,CN,ALL,Percentage distribution of  expenditures,100,0,239
+2013,2014,CN,ALL,Index of change,113,0,160
+2013,2014,CN,EL,Constant dollars,65699,0,81
+2013,2014,CN,EL,Percentage distribution of  expenditures,58.2,0,239
+2013,2014,CN,EL,Index of change,111,0,160
+2013,2014,CN,PS,Constant dollars,47240,0,81
+2013,2014,CN,PS,Percentage distribution of  expenditures,41.8,0,239
+2013,2014,CN,PS,Index of change,115,0,160
+2013,2014,CN,CL,Constant dollars,16998,0,81
+2013,2014,CN,CL,Percentage distribution of  expenditures,15.1,0,239
+2013,2014,CN,CL,Index of change,111,0,160
+2013,2014,CN,UN,Constant dollars,30242,0,81
+2013,2014,CN,UN,Percentage distribution of  expenditures,26.8,0,239
+2013,2014,CN,UN,Index of change,116,0,160
+2013,2014,NL,ALL,Constant dollars,1632,0,81
+2013,2014,NL,ALL,Percentage distribution of  expenditures,100,0,239
+2013,2014,NL,ALL,Index of change,103,0,160
+2013,2014,NL,EL,Constant dollars,872,0,81
+2013,2014,NL,EL,Percentage distribution of  expenditures,53.4,0,239
+2013,2014,NL,EL,Index of change,99,0,160
+2013,2014,NL,PS,Constant dollars,760,0,81
+2013,2014,NL,PS,Percentage distribution of  expenditures,46.6,0,239
+2013,2014,NL,PS,Index of change,108,0,160
+2013,2014,NL,CL,Constant dollars,199,0,81
+2013,2014,NL,CL,Percentage distribution of  expenditures,12.2,0,239
+2013,2014,NL,CL,Index of change,85,0,160
+2013,2014,NL,UN,Constant dollars,561,0,81
+2013,2014,NL,UN,Percentage distribution of  expenditures,34.4,0,239
+2013,2014,NL,UN,Index of change,119,0,160
+2013,2014,PE,ALL,Constant dollars,455,0,81
+2013,2014,PE,ALL,Percentage distribution of  expenditures,100,0,239
+2013,2014,PE,ALL,Index of change,114,0,160
+2013,2014,PE,EL,Constant dollars,248,0,81
+2013,2014,PE,EL,Percentage distribution of  expenditures,54.4,0,239
+2013,2014,PE,EL,Index of change,120,0,160
+2013,2014,PE,PS,Constant dollars,206,0,81
+2013,2014,PE,PS,Percentage distribution of  expenditures,45.3,0,239
+2013,2014,PE,PS,Index of change,107,0,160
+2013,2014,PE,CL,Constant dollars,98,0,81
+2013,2014,PE,CL,Percentage distribution of  expenditures,21.5,0,239
+2013,2014,PE,CL,Index of change,131,0,160
+2013,2014,PE,UN,Constant dollars,109,0,81
+2013,2014,PE,UN,Percentage distribution of  expenditures,24.1,0,239
+2013,2014,PE,UN,Index of change,92,0,160
+2013,2014,NS,ALL,Constant dollars,2935,0,81
+2013,2014,NS,ALL,Percentage distribution of  expenditures,100,0,239
+2013,2014,NS,ALL,Index of change,110,0,160
+2013,2014,NS,EL,Constant dollars,1514,0,81
+2013,2014,NS,EL,Percentage distribution of  expenditures,51.6,0,239
+2013,2014,NS,EL,Index of change,107,0,160
+2013,2014,NS,PS,Constant dollars,1420,0,81
+2013,2014,NS,PS,Percentage distribution of  expenditures,48.4,0,239
+2013,2014,NS,PS,Index of change,113,0,160
+2013,2014,NS,CL,Constant dollars,325,0,81
+2013,2014,NS,CL,Percentage distribution of  expenditures,11.1,0,239
+2013,2014,NS,CL,Index of change,109,0,160
+2013,2014,NS,UN,Constant dollars,1095,0,81
+2013,2014,NS,UN,Percentage distribution of  expenditures,37.3,0,239
+2013,2014,NS,UN,Index of change,114,0,160
+2013,2014,NB,ALL,Constant dollars,2103,0,81
+2013,2014,NB,ALL,Percentage distribution of  expenditures,100,0,239
+2013,2014,NB,ALL,Index of change,101,0,160
+2013,2014,NB,EL,Constant dollars,1240,0,81
+2013,2014,NB,EL,Percentage distribution of  expenditures,58.9,0,239
+2013,2014,NB,EL,Index of change,102,0,160
+2013,2014,NB,PS,Constant dollars,864,0,81
+2013,2014,NB,PS,Percentage distribution of  expenditures,41.1,0,239
+2013,2014,NB,PS,Index of change,100,0,160
+2013,2014,NB,CL,Constant dollars,289,0,81
+2013,2014,NB,CL,Percentage distribution of  expenditures,13.8,0,239
+2013,2014,NB,CL,Index of change,114,0,160
+2013,2014,NB,UN,Constant dollars,575,0,81
+2013,2014,NB,UN,Percentage distribution of  expenditures,27.3,0,239
+2013,2014,NB,UN,Index of change,94,0,160
+2013,2014,QC,ALL,Constant dollars,23561,0,81
+2013,2014,QC,ALL,Percentage distribution of  expenditures,100,0,239
+2013,2014,QC,ALL,Index of change,106,0,160
+2013,2014,QC,EL,Constant dollars,13710,0,81
+2013,2014,QC,EL,Percentage distribution of  expenditures,58.2,0,239
+2013,2014,QC,EL,Index of change,109,0,160
+2013,2014,QC,PS,Constant dollars,9851,0,81
+2013,2014,QC,PS,Percentage distribution of  expenditures,41.8,0,239
+2013,2014,QC,PS,Index of change,102,0,160
+2013,2014,QC,CL,Constant dollars,3768,0,81
+2013,2014,QC,CL,Percentage distribution of  expenditures,16,0,239
+2013,2014,QC,CL,Index of change,91,0,160
+2013,2014,QC,UN,Constant dollars,6084,0,81
+2013,2014,QC,UN,Percentage distribution of  expenditures,25.8,0,239
+2013,2014,QC,UN,Index of change,111,0,160
+2013,2014,ON,ALL,Constant dollars,46016,0,81
+2013,2014,ON,ALL,Percentage distribution of  expenditures,100,0,239
+2013,2014,ON,ALL,Index of change,116,0,160
+2013,2014,ON,EL,Constant dollars,26934,0,81
+2013,2014,ON,EL,Percentage distribution of  expenditures,58.5,0,239
+2013,2014,ON,EL,Index of change,111,0,160
+2013,2014,ON,PS,Constant dollars,19082,0,81
+2013,2014,ON,PS,Percentage distribution of  expenditures,41.5,0,239
+2013,2014,ON,PS,Index of change,124,0,160
+2013,2014,ON,CL,Constant dollars,6635,0,81
+2013,2014,ON,CL,Percentage distribution of  expenditures,14.4,0,239
+2013,2014,ON,CL,Index of change,137,0,160
+2013,2014,ON,UN,Constant dollars,12447,0,81
+2013,2014,ON,UN,Percentage distribution of  expenditures,27,0,239
+2013,2014,ON,UN,Index of change,118,0,160
+2013,2014,MB,ALL,Constant dollars,4247,0,81
+2013,2014,MB,ALL,Percentage distribution of  expenditures,100,0,239
+2013,2014,MB,ALL,Index of change,117,0,160
+2013,2014,MB,EL,Constant dollars,2772,0,81
+2013,2014,MB,EL,Percentage distribution of  expenditures,65.3,0,239
+2013,2014,MB,EL,Index of change,114,0,160
+2013,2014,MB,PS,Constant dollars,1475,0,81
+2013,2014,MB,PS,Percentage distribution of  expenditures,34.7,0,239
+2013,2014,MB,PS,Index of change,123,0,160
+2013,2014,MB,CL,Constant dollars,502,0,81
+2013,2014,MB,CL,Percentage distribution of  expenditures,11.8,0,239
+2013,2014,MB,CL,Index of change,122,0,160
+2013,2014,MB,UN,Constant dollars,972,0,81
+2013,2014,MB,UN,Percentage distribution of  expenditures,22.9,0,239
+2013,2014,MB,UN,Index of change,124,0,160
+2013,2014,SK,ALL,Constant dollars,4458,0,81
+2013,2014,SK,ALL,Percentage distribution of  expenditures,100,0,239
+2013,2014,SK,ALL,Index of change,105,0,160
+2013,2014,SK,EL,Constant dollars,2795,0,81
+2013,2014,SK,EL,Percentage distribution of  expenditures,62.7,0,239
+2013,2014,SK,EL,Index of change,110,0,160
+2013,2014,SK,PS,Constant dollars,1662,0,81
+2013,2014,SK,PS,Percentage distribution of  expenditures,37.3,0,239
+2013,2014,SK,PS,Index of change,98,0,160
+2013,2014,SK,CL,Constant dollars,515,0,81
+2013,2014,SK,CL,Percentage distribution of  expenditures,11.6,0,239
+2013,2014,SK,CL,Index of change,85,0,160
+2013,2014,SK,UN,Constant dollars,1148,0,81
+2013,2014,SK,UN,Percentage distribution of  expenditures,25.8,0,239
+2013,2014,SK,UN,Index of change,106,0,160
+2013,2014,AL,ALL,Constant dollars,14168,0,81
+2013,2014,AL,ALL,Percentage distribution of  expenditures,100,0,239
+2013,2014,AL,ALL,Index of change,124,0,160
+2013,2014,AL,EL,Constant dollars,8488,0,81
+2013,2014,AL,EL,Percentage distribution of  expenditures,59.9,0,239
+2013,2014,AL,EL,Index of change,133,0,160
+2013,2014,AL,PS,Constant dollars,5680,0,81
+2013,2014,AL,PS,Percentage distribution of  expenditures,40.1,0,239
+2013,2014,AL,PS,Index of change,113,0,160
+2013,2014,AL,CL,Constant dollars,2231,0,81
+2013,2014,AL,CL,Percentage distribution of  expenditures,15.8,0,239
+2013,2014,AL,CL,Index of change,104,0,160
+2013,2014,AL,UN,Constant dollars,3448,0,81
+2013,2014,AL,UN,Percentage distribution of  expenditures,24.3,0,239
+2013,2014,AL,UN,Index of change,120,0,160
+2013,2014,BC,ALL,Constant dollars,12961,0,81
+2013,2014,BC,ALL,Percentage distribution of  expenditures,100,0,239
+2013,2014,BC,ALL,Index of change,110,0,160
+2013,2014,BC,EL,Constant dollars,6795,0,81
+2013,2014,BC,EL,Percentage distribution of  expenditures,52.4,0,239
+2013,2014,BC,EL,Index of change,102,0,160
+2013,2014,BC,PS,Constant dollars,6167,0,81
+2013,2014,BC,PS,Percentage distribution of  expenditures,47.6,0,239
+2013,2014,BC,PS,Index of change,121,0,160
+2013,2014,BC,CL,Constant dollars,2290,0,81
+2013,2014,BC,CL,Percentage distribution of  expenditures,17.7,0,239
+2013,2014,BC,CL,Index of change,113,0,160
+2013,2014,BC,UN,Constant dollars,3877,0,81
+2013,2014,BC,UN,Percentage distribution of  expenditures,29.9,0,239
+2013,2014,BC,UN,Index of change,126,0,160
+2013,2014,YT,ALL,Constant dollars,177,0,81
+2013,2014,YT,ALL,Percentage distribution of  expenditures,100,0,239
+2013,2014,YT,ALL,Index of change,117,0,160
+2013,2014,YT,EL,Constant dollars,126,0,81
+2013,2014,YT,EL,Percentage distribution of  expenditures,71.3,0,239
+2013,2014,YT,EL,Index of change,117,0,160
+2013,2014,YT,PS,Constant dollars,51,0,81
+2013,2014,YT,PS,Percentage distribution of  expenditures,28.7,0,239
+2013,2014,YT,PS,Index of change,117,0,160
+2013,2014,YT,CL,Constant dollars,51,0,81
+2013,2014,YT,CL,Percentage distribution of  expenditures,28.7,0,239
+2013,2014,YT,CL,Index of change,117,0,160
+2013,2014,YT,UN,Constant dollars,NULL,0,81
+2013,2014,YT,UN,Percentage distribution of  expenditures,NULL,0,239
+2013,2014,YT,UN,Index of change,NULL,0,160
+2013,2014,NT,ALL,Constant dollars,280,0,81
+2013,2014,NT,ALL,Percentage distribution of  expenditures,100,0,239
+2013,2014,NT,ALL,Index of change,77,0,160
+2013,2014,NT,EL,Constant dollars,212,0,81
+2013,2014,NT,EL,Percentage distribution of  expenditures,75.5,0,239
+2013,2014,NT,EL,Index of change,89,0,160
+2013,2014,NT,PS,Constant dollars,69,0,81
+2013,2014,NT,PS,Percentage distribution of  expenditures,24.5,0,239
+2013,2014,NT,PS,Index of change,55,0,160
+2013,2014,NT,CL,Constant dollars,69,0,81
+2013,2014,NT,CL,Percentage distribution of  expenditures,24.5,0,239
+2013,2014,NT,CL,Index of change,55,0,160
+2013,2014,NT,UN,Constant dollars,NULL,0,81
+2013,2014,NT,UN,Percentage distribution of  expenditures,NULL,0,239
+2013,2014,NT,UN,Index of change,NULL,0,160
+2013,2014,NU,ALL,Constant dollars,219,0,81
+2013,2014,NU,ALL,Percentage distribution of  expenditures,100,0,239
+2013,2014,NU,ALL,Index of change,103,0,160
+2013,2014,NU,EL,Constant dollars,154,0,81
+2013,2014,NU,EL,Percentage distribution of  expenditures,70.3,0,239
+2013,2014,NU,EL,Index of change,97,0,160
+2013,2014,NU,PS,Constant dollars,65,0,81
+2013,2014,NU,PS,Percentage distribution of  expenditures,29.7,0,239
+2013,2014,NU,PS,Index of change,121,0,160
+2013,2014,NU,CL,Constant dollars,65,0,81
+2013,2014,NU,CL,Percentage distribution of  expenditures,29.7,0,239
+2013,2014,NU,CL,Index of change,121,0,160
+2013,2014,NU,UN,Constant dollars,NULL,0,81
+2013,2014,NU,UN,Percentage distribution of  expenditures,NULL,0,239
+2013,2014,NU,UN,Index of change,NULL,0,160
+2014,2015,CN,ALL,Constant dollars,114202,0,81
+2014,2015,CN,ALL,Percentage distribution of  expenditures,100,0,239
+2014,2015,CN,ALL,Index of change,114,0,160
+2014,2015,CN,EL,Constant dollars,66073,0,81
+2014,2015,CN,EL,Percentage distribution of  expenditures,57.9,0,239
+2014,2015,CN,EL,Index of change,112,0,160
+2014,2015,CN,PS,Constant dollars,48127,0,81
+2014,2015,CN,PS,Percentage distribution of  expenditures,42.1,0,239
+2014,2015,CN,PS,Index of change,117,0,160
+2014,2015,CN,CL,Constant dollars,17472,0,81
+2014,2015,CN,CL,Percentage distribution of  expenditures,15.3,0,239
+2014,2015,CN,CL,Index of change,114,0,160
+2014,2015,CN,UN,Constant dollars,30657,0,81
+2014,2015,CN,UN,Percentage distribution of  expenditures,26.8,0,239
+2014,2015,CN,UN,Index of change,118,0,160
+2014,2015,NL,ALL,Constant dollars,1649,0,81
+2014,2015,NL,ALL,Percentage distribution of  expenditures,100,0,239
+2014,2015,NL,ALL,Index of change,104,0,160
+2014,2015,NL,EL,Constant dollars,870,0,81
+2014,2015,NL,EL,Percentage distribution of  expenditures,52.7,0,239
+2014,2015,NL,EL,Index of change,98,0,160
+2014,2015,NL,PS,Constant dollars,779,0,81
+2014,2015,NL,PS,Percentage distribution of  expenditures,47.3,0,239
+2014,2015,NL,PS,Index of change,111,0,160
+2014,2015,NL,CL,Constant dollars,214,0,81
+2014,2015,NL,CL,Percentage distribution of  expenditures,13,0,239
+2014,2015,NL,CL,Index of change,91,0,160
+2014,2015,NL,UN,Constant dollars,566,0,81
+2014,2015,NL,UN,Percentage distribution of  expenditures,34.3,0,239
+2014,2015,NL,UN,Index of change,120,0,160
+2014,2015,PE,ALL,Constant dollars,440,0,81
+2014,2015,PE,ALL,Percentage distribution of  expenditures,100,0,239
+2014,2015,PE,ALL,Index of change,110,0,160
+2014,2015,PE,EL,Constant dollars,246,0,81
+2014,2015,PE,EL,Percentage distribution of  expenditures,55.8,0,239
+2014,2015,PE,EL,Index of change,119,0,160
+2014,2015,PE,PS,Constant dollars,194,0,81
+2014,2015,PE,PS,Percentage distribution of  expenditures,44.2,0,239
+2014,2015,PE,PS,Index of change,101,0,160
+2014,2015,PE,CL,Constant dollars,86,0,81
+2014,2015,PE,CL,Percentage distribution of  expenditures,19.6,0,239
+2014,2015,PE,CL,Index of change,116,0,160
+2014,2015,PE,UN,Constant dollars,109,0,81
+2014,2015,PE,UN,Percentage distribution of  expenditures,24.7,0,239
+2014,2015,PE,UN,Index of change,92,0,160
+2014,2015,NS,ALL,Constant dollars,2991,0,81
+2014,2015,NS,ALL,Percentage distribution of  expenditures,100,0,239
+2014,2015,NS,ALL,Index of change,112,0,160
+2014,2015,NS,EL,Constant dollars,1555,0,81
+2014,2015,NS,EL,Percentage distribution of  expenditures,52,0,239
+2014,2015,NS,EL,Index of change,110,0,160
+2014,2015,NS,PS,Constant dollars,1437,0,81
+2014,2015,NS,PS,Percentage distribution of  expenditures,48,0,239
+2014,2015,NS,PS,Index of change,114,0,160
+2014,2015,NS,CL,Constant dollars,345,0,81
+2014,2015,NS,CL,Percentage distribution of  expenditures,11.5,0,239
+2014,2015,NS,CL,Index of change,115,0,160
+2014,2015,NS,UN,Constant dollars,1092,0,81
+2014,2015,NS,UN,Percentage distribution of  expenditures,36.5,0,239
+2014,2015,NS,UN,Index of change,113,0,160
+2014,2015,NB,ALL,Constant dollars,2159,0,81
+2014,2015,NB,ALL,Percentage distribution of  expenditures,100,0,239
+2014,2015,NB,ALL,Index of change,104,0,160
+2014,2015,NB,EL,Constant dollars,1271,0,81
+2014,2015,NB,EL,Percentage distribution of  expenditures,58.9,0,239
+2014,2015,NB,EL,Index of change,105,0,160
+2014,2015,NB,PS,Constant dollars,887,0,81
+2014,2015,NB,PS,Percentage distribution of  expenditures,41.1,0,239
+2014,2015,NB,PS,Index of change,103,0,160
+2014,2015,NB,CL,Constant dollars,301,0,81
+2014,2015,NB,CL,Percentage distribution of  expenditures,14,0,239
+2014,2015,NB,CL,Index of change,118,0,160
+2014,2015,NB,UN,Constant dollars,587,0,81
+2014,2015,NB,UN,Percentage distribution of  expenditures,27.2,0,239
+2014,2015,NB,UN,Index of change,96,0,160
+2014,2015,QC,ALL,Constant dollars,23563,0,81
+2014,2015,QC,ALL,Percentage distribution of  expenditures,100,0,239
+2014,2015,QC,ALL,Index of change,106,0,160
+2014,2015,QC,EL,Constant dollars,13777,0,81
+2014,2015,QC,EL,Percentage distribution of  expenditures,58.5,0,239
+2014,2015,QC,EL,Index of change,109,0,160
+2014,2015,QC,PS,Constant dollars,9786,0,81
+2014,2015,QC,PS,Percentage distribution of  expenditures,41.5,0,239
+2014,2015,QC,PS,Index of change,102,0,160
+2014,2015,QC,CL,Constant dollars,3833,0,81
+2014,2015,QC,CL,Percentage distribution of  expenditures,16.3,0,239
+2014,2015,QC,CL,Index of change,92,0,160
+2014,2015,QC,UN,Constant dollars,5952,0,81
+2014,2015,QC,UN,Percentage distribution of  expenditures,25.3,0,239
+2014,2015,QC,UN,Index of change,109,0,160
+2014,2015,ON,ALL,Constant dollars,46774,0,81
+2014,2015,ON,ALL,Percentage distribution of  expenditures,100,0,239
+2014,2015,ON,ALL,Index of change,118,0,160
+2014,2015,ON,EL,Constant dollars,27411,0,81
+2014,2015,ON,EL,Percentage distribution of  expenditures,58.6,0,239
+2014,2015,ON,EL,Index of change,113,0,160
+2014,2015,ON,PS,Constant dollars,19363,0,81
+2014,2015,ON,PS,Percentage distribution of  expenditures,41.4,0,239
+2014,2015,ON,PS,Index of change,126,0,160
+2014,2015,ON,CL,Constant dollars,6840,0,81
+2014,2015,ON,CL,Percentage distribution of  expenditures,14.6,0,239
+2014,2015,ON,CL,Index of change,142,0,160
+2014,2015,ON,UN,Constant dollars,12522,0,81
+2014,2015,ON,UN,Percentage distribution of  expenditures,26.8,0,239
+2014,2015,ON,UN,Index of change,119,0,160
+2014,2015,MB,ALL,Constant dollars,4403,0,81
+2014,2015,MB,ALL,Percentage distribution of  expenditures,100,0,239
+2014,2015,MB,ALL,Index of change,121,0,160
+2014,2015,MB,EL,Constant dollars,2894,0,81
+2014,2015,MB,EL,Percentage distribution of  expenditures,65.7,0,239
+2014,2015,MB,EL,Index of change,119,0,160
+2014,2015,MB,PS,Constant dollars,1508,0,81
+2014,2015,MB,PS,Percentage distribution of  expenditures,34.3,0,239
+2014,2015,MB,PS,Index of change,126,0,160
+2014,2015,MB,CL,Constant dollars,507,0,81
+2014,2015,MB,CL,Percentage distribution of  expenditures,11.5,0,239
+2014,2015,MB,CL,Index of change,123,0,160
+2014,2015,MB,UN,Constant dollars,1002,0,81
+2014,2015,MB,UN,Percentage distribution of  expenditures,22.8,0,239
+2014,2015,MB,UN,Index of change,127,0,160
+2014,2015,SK,ALL,Constant dollars,4798,0,81
+2014,2015,SK,ALL,Percentage distribution of  expenditures,100,0,239
+2014,2015,SK,ALL,Index of change,113,0,160
+2014,2015,SK,EL,Constant dollars,2989,0,81
+2014,2015,SK,EL,Percentage distribution of  expenditures,62.3,0,239
+2014,2015,SK,EL,Index of change,118,0,160
+2014,2015,SK,PS,Constant dollars,1809,0,81
+2014,2015,SK,PS,Percentage distribution of  expenditures,37.7,0,239
+2014,2015,SK,PS,Index of change,107,0,160
+2014,2015,SK,CL,Constant dollars,608,0,81
+2014,2015,SK,CL,Percentage distribution of  expenditures,12.7,0,239
+2014,2015,SK,CL,Index of change,100,0,160
+2014,2015,SK,UN,Constant dollars,1201,0,81
+2014,2015,SK,UN,Percentage distribution of  expenditures,25,0,239
+2014,2015,SK,UN,Index of change,110,0,160
+2014,2015,AL,ALL,Constant dollars,14273,0,81
+2014,2015,AL,ALL,Percentage distribution of  expenditures,100,0,239
+2014,2015,AL,ALL,Index of change,125,0,160
+2014,2015,AL,EL,Constant dollars,8286,0,81
+2014,2015,AL,EL,Percentage distribution of  expenditures,58.1,0,239
+2014,2015,AL,EL,Index of change,130,0,160
+2014,2015,AL,PS,Constant dollars,5988,0,81
+2014,2015,AL,PS,Percentage distribution of  expenditures,42,0,239
+2014,2015,AL,PS,Index of change,119,0,160
+2014,2015,AL,CL,Constant dollars,2282,0,81
+2014,2015,AL,CL,Percentage distribution of  expenditures,16,0,239
+2014,2015,AL,CL,Index of change,106,0,160
+2014,2015,AL,UN,Constant dollars,3706,0,81
+2014,2015,AL,UN,Percentage distribution of  expenditures,26,0,239
+2014,2015,AL,UN,Index of change,129,0,160
+2014,2015,BC,ALL,Constant dollars,12893,0,81
+2014,2015,BC,ALL,Percentage distribution of  expenditures,100,0,239
+2014,2015,BC,ALL,Index of change,110,0,160
+2014,2015,BC,EL,Constant dollars,6534,0,81
+2014,2015,BC,EL,Percentage distribution of  expenditures,50.7,0,239
+2014,2015,BC,EL,Index of change,98,0,160
+2014,2015,BC,PS,Constant dollars,6358,0,81
+2014,2015,BC,PS,Percentage distribution of  expenditures,49.3,0,239
+2014,2015,BC,PS,Index of change,124,0,160
+2014,2015,BC,CL,Constant dollars,2326,0,81
+2014,2015,BC,CL,Percentage distribution of  expenditures,18,0,239
+2014,2015,BC,CL,Index of change,115,0,160
+2014,2015,BC,UN,Constant dollars,4033,0,81
+2014,2015,BC,UN,Percentage distribution of  expenditures,31.3,0,239
+2014,2015,BC,UN,Index of change,131,0,160
+2014,2015,YT,ALL,Constant dollars,202,0,81
+2014,2015,YT,ALL,Percentage distribution of  expenditures,100,0,239
+2014,2015,YT,ALL,Index of change,133,0,160
+2014,2015,YT,EL,Constant dollars,148,0,81
+2014,2015,YT,EL,Percentage distribution of  expenditures,73.6,0,239
+2014,2015,YT,EL,Index of change,138,0,160
+2014,2015,YT,PS,Constant dollars,53,0,81
+2014,2015,YT,PS,Percentage distribution of  expenditures,26.4,0,239
+2014,2015,YT,PS,Index of change,123,0,160
+2014,2015,YT,CL,Constant dollars,53,0,81
+2014,2015,YT,CL,Percentage distribution of  expenditures,26.4,0,239
+2014,2015,YT,CL,Index of change,123,0,160
+2014,2015,YT,UN,Constant dollars,NULL,0,81
+2014,2015,YT,UN,Percentage distribution of  expenditures,NULL,0,239
+2014,2015,YT,UN,Index of change,NULL,0,160
+2014,2015,NT,ALL,Constant dollars,282,0,81
+2014,2015,NT,ALL,Percentage distribution of  expenditures,100,0,239
+2014,2015,NT,ALL,Index of change,78,0,160
+2014,2015,NT,EL,Constant dollars,215,0,81
+2014,2015,NT,EL,Percentage distribution of  expenditures,76.1,0,239
+2014,2015,NT,EL,Index of change,90,0,160
+2014,2015,NT,PS,Constant dollars,68,0,81
+2014,2015,NT,PS,Percentage distribution of  expenditures,24.2,0,239
+2014,2015,NT,PS,Index of change,55,0,160
+2014,2015,NT,CL,Constant dollars,68,0,81
+2014,2015,NT,CL,Percentage distribution of  expenditures,24.2,0,239
+2014,2015,NT,CL,Index of change,55,0,160
+2014,2015,NT,UN,Constant dollars,NULL,0,81
+2014,2015,NT,UN,Percentage distribution of  expenditures,NULL,0,239
+2014,2015,NT,UN,Index of change,NULL,0,160
+2014,2015,NU,ALL,Constant dollars,210,0,81
+2014,2015,NU,ALL,Percentage distribution of  expenditures,100,0,239
+2014,2015,NU,ALL,Index of change,99,0,160
+2014,2015,NU,EL,Constant dollars,148,0,81
+2014,2015,NU,EL,Percentage distribution of  expenditures,70.5,0,239
+2014,2015,NU,EL,Index of change,93,0,160
+2014,2015,NU,PS,Constant dollars,63,0,81
+2014,2015,NU,PS,Percentage distribution of  expenditures,30,0,239
+2014,2015,NU,PS,Index of change,116,0,160
+2014,2015,NU,CL,Constant dollars,63,0,81
+2014,2015,NU,CL,Percentage distribution of  expenditures,30,0,239
+2014,2015,NU,CL,Index of change,116,0,160
+2014,2015,NU,UN,Constant dollars,NULL,0,81
+2014,2015,NU,UN,Percentage distribution of  expenditures,NULL,0,239
+2014,2015,NU,UN,Index of change,NULL,0,160
+2015,2016,CN,ALL,Constant dollars,115975,0,81
+2015,2016,CN,ALL,Percentage distribution of  expenditures,100,0,239
+2015,2016,CN,ALL,Index of change,116,0,160
+2015,2016,CN,EL,Constant dollars,67858,0,81
+2015,2016,CN,EL,Percentage distribution of  expenditures,58.5,0,239
+2015,2016,CN,EL,Index of change,115,0,160
+2015,2016,CN,PS,Constant dollars,48117,0,81
+2015,2016,CN,PS,Percentage distribution of  expenditures,41.5,0,239
+2015,2016,CN,PS,Index of change,117,0,160
+2015,2016,CN,CL,Constant dollars,18268,0,81
+2015,2016,CN,CL,Percentage distribution of  expenditures,15.8,0,239
+2015,2016,CN,CL,Index of change,120,0,160
+2015,2016,CN,UN,Constant dollars,29848,0,81
+2015,2016,CN,UN,Percentage distribution of  expenditures,25.7,0,239
+2015,2016,CN,UN,Index of change,115,0,160
+2015,2016,NL,ALL,Constant dollars,1762,0,81
+2015,2016,NL,ALL,Percentage distribution of  expenditures,100,0,239
+2015,2016,NL,ALL,Index of change,111,0,160
+2015,2016,NL,EL,Constant dollars,977,0,81
+2015,2016,NL,EL,Percentage distribution of  expenditures,55.4,0,239
+2015,2016,NL,EL,Index of change,111,0,160
+2015,2016,NL,PS,Constant dollars,785,0,81
+2015,2016,NL,PS,Percentage distribution of  expenditures,44.6,0,239
+2015,2016,NL,PS,Index of change,112,0,160
+2015,2016,NL,CL,Constant dollars,224,0,81
+2015,2016,NL,CL,Percentage distribution of  expenditures,12.7,0,239
+2015,2016,NL,CL,Index of change,96,0,160
+2015,2016,NL,UN,Constant dollars,561,0,81
+2015,2016,NL,UN,Percentage distribution of  expenditures,31.9,0,239
+2015,2016,NL,UN,Index of change,120,0,160
+2015,2016,PE,ALL,Constant dollars,435,0,81
+2015,2016,PE,ALL,Percentage distribution of  expenditures,100,0,239
+2015,2016,PE,ALL,Index of change,109,0,160
+2015,2016,PE,EL,Constant dollars,235,0,81
+2015,2016,PE,EL,Percentage distribution of  expenditures,54,0,239
+2015,2016,PE,EL,Index of change,114,0,160
+2015,2016,PE,PS,Constant dollars,200,0,81
+2015,2016,PE,PS,Percentage distribution of  expenditures,46,0,239
+2015,2016,PE,PS,Index of change,104,0,160
+2015,2016,PE,CL,Constant dollars,87,0,81
+2015,2016,PE,CL,Percentage distribution of  expenditures,20,0,239
+2015,2016,PE,CL,Index of change,117,0,160
+2015,2016,PE,UN,Constant dollars,113,0,81
+2015,2016,PE,UN,Percentage distribution of  expenditures,25.9,0,239
+2015,2016,PE,UN,Index of change,95,0,160
+2015,2016,NS,ALL,Constant dollars,3010,0,81
+2015,2016,NS,ALL,Percentage distribution of  expenditures,100,0,239
+2015,2016,NS,ALL,Index of change,112,0,160
+2015,2016,NS,EL,Constant dollars,1585,0,81
+2015,2016,NS,EL,Percentage distribution of  expenditures,52.6,0,239
+2015,2016,NS,EL,Index of change,112,0,160
+2015,2016,NS,PS,Constant dollars,1425,0,81
+2015,2016,NS,PS,Percentage distribution of  expenditures,47.3,0,239
+2015,2016,NS,PS,Index of change,113,0,160
+2015,2016,NS,CL,Constant dollars,348,0,81
+2015,2016,NS,CL,Percentage distribution of  expenditures,11.6,0,239
+2015,2016,NS,CL,Index of change,116,0,160
+2015,2016,NS,UN,Constant dollars,1077,0,81
+2015,2016,NS,UN,Percentage distribution of  expenditures,35.8,0,239
+2015,2016,NS,UN,Index of change,112,0,160
+2015,2016,NB,ALL,Constant dollars,2071,0,81
+2015,2016,NB,ALL,Percentage distribution of  expenditures,100,0,239
+2015,2016,NB,ALL,Index of change,100,0,160
+2015,2016,NB,EL,Constant dollars,1275,0,81
+2015,2016,NB,EL,Percentage distribution of  expenditures,61.6,0,239
+2015,2016,NB,EL,Index of change,105,0,160
+2015,2016,NB,PS,Constant dollars,795,0,81
+2015,2016,NB,PS,Percentage distribution of  expenditures,38.4,0,239
+2015,2016,NB,PS,Index of change,92,0,160
+2015,2016,NB,CL,Constant dollars,298,0,81
+2015,2016,NB,CL,Percentage distribution of  expenditures,14.4,0,239
+2015,2016,NB,CL,Index of change,117,0,160
+2015,2016,NB,UN,Constant dollars,498,0,81
+2015,2016,NB,UN,Percentage distribution of  expenditures,24,0,239
+2015,2016,NB,UN,Index of change,82,0,160
+2015,2016,QC,ALL,Constant dollars,23375,0,81
+2015,2016,QC,ALL,Percentage distribution of  expenditures,100,0,239
+2015,2016,QC,ALL,Index of change,105,0,160
+2015,2016,QC,EL,Constant dollars,13713,0,81
+2015,2016,QC,EL,Percentage distribution of  expenditures,58.7,0,239
+2015,2016,QC,EL,Index of change,109,0,160
+2015,2016,QC,PS,Constant dollars,9662,0,81
+2015,2016,QC,PS,Percentage distribution of  expenditures,41.3,0,239
+2015,2016,QC,PS,Index of change,100,0,160
+2015,2016,QC,CL,Constant dollars,3809,0,81
+2015,2016,QC,CL,Percentage distribution of  expenditures,16.3,0,239
+2015,2016,QC,CL,Index of change,92,0,160
+2015,2016,QC,UN,Constant dollars,5853,0,81
+2015,2016,QC,UN,Percentage distribution of  expenditures,25,0,239
+2015,2016,QC,UN,Index of change,107,0,160
+2015,2016,ON,ALL,Constant dollars,45803,0,81
+2015,2016,ON,ALL,Percentage distribution of  expenditures,100,0,239
+2015,2016,ON,ALL,Index of change,116,0,160
+2015,2016,ON,EL,Constant dollars,27005,0,81
+2015,2016,ON,EL,Percentage distribution of  expenditures,59,0,239
+2015,2016,ON,EL,Index of change,112,0,160
+2015,2016,ON,PS,Constant dollars,18799,0,81
+2015,2016,ON,PS,Percentage distribution of  expenditures,41,0,239
+2015,2016,ON,PS,Index of change,123,0,160
+2015,2016,ON,CL,Constant dollars,6992,0,81
+2015,2016,ON,CL,Percentage distribution of  expenditures,15.3,0,239
+2015,2016,ON,CL,Index of change,145,0,160
+2015,2016,ON,UN,Constant dollars,11806,0,81
+2015,2016,ON,UN,Percentage distribution of  expenditures,25.8,0,239
+2015,2016,ON,UN,Index of change,112,0,160
+2015,2016,MB,ALL,Constant dollars,4631,0,81
+2015,2016,MB,ALL,Percentage distribution of  expenditures,100,0,239
+2015,2016,MB,ALL,Index of change,127,0,160
+2015,2016,MB,EL,Constant dollars,2966,0,81
+2015,2016,MB,EL,Percentage distribution of  expenditures,64.1,0,239
+2015,2016,MB,EL,Index of change,121,0,160
+2015,2016,MB,PS,Constant dollars,1665,0,81
+2015,2016,MB,PS,Percentage distribution of  expenditures,36,0,239
+2015,2016,MB,PS,Index of change,139,0,160
+2015,2016,MB,CL,Constant dollars,625,0,81
+2015,2016,MB,CL,Percentage distribution of  expenditures,13.5,0,239
+2015,2016,MB,CL,Index of change,151,0,160
+2015,2016,MB,UN,Constant dollars,1041,0,81
+2015,2016,MB,UN,Percentage distribution of  expenditures,22.5,0,239
+2015,2016,MB,UN,Index of change,132,0,160
+2015,2016,SK,ALL,Constant dollars,4713,0,81
+2015,2016,SK,ALL,Percentage distribution of  expenditures,100,0,239
+2015,2016,SK,ALL,Index of change,111,0,160
+2015,2016,SK,EL,Constant dollars,2980,0,81
+2015,2016,SK,EL,Percentage distribution of  expenditures,63.2,0,239
+2015,2016,SK,EL,Index of change,118,0,160
+2015,2016,SK,PS,Constant dollars,1732,0,81
+2015,2016,SK,PS,Percentage distribution of  expenditures,36.8,0,239
+2015,2016,SK,PS,Index of change,102,0,160
+2015,2016,SK,CL,Constant dollars,615,0,81
+2015,2016,SK,CL,Percentage distribution of  expenditures,13,0,239
+2015,2016,SK,CL,Index of change,101,0,160
+2015,2016,SK,UN,Constant dollars,1117,0,81
+2015,2016,SK,UN,Percentage distribution of  expenditures,23.7,0,239
+2015,2016,SK,UN,Index of change,103,0,160
+2015,2016,AL,ALL,Constant dollars,16559,0,81
+2015,2016,AL,ALL,Percentage distribution of  expenditures,100,0,239
+2015,2016,AL,ALL,Index of change,145,0,160
+2015,2016,AL,EL,Constant dollars,10240,0,81
+2015,2016,AL,EL,Percentage distribution of  expenditures,61.8,0,239
+2015,2016,AL,EL,Index of change,161,0,160
+2015,2016,AL,PS,Constant dollars,6319,0,81
+2015,2016,AL,PS,Percentage distribution of  expenditures,38.2,0,239
+2015,2016,AL,PS,Index of change,126,0,160
+2015,2016,AL,CL,Constant dollars,2631,0,81
+2015,2016,AL,CL,Percentage distribution of  expenditures,15.9,0,239
+2015,2016,AL,CL,Index of change,122,0,160
+2015,2016,AL,UN,Constant dollars,3689,0,81
+2015,2016,AL,UN,Percentage distribution of  expenditures,22.3,0,239
+2015,2016,AL,UN,Index of change,128,0,160
+2015,2016,BC,ALL,Constant dollars,12563,0,81
+2015,2016,BC,ALL,Percentage distribution of  expenditures,100,0,239
+2015,2016,BC,ALL,Index of change,107,0,160
+2015,2016,BC,EL,Constant dollars,6279,0,81
+2015,2016,BC,EL,Percentage distribution of  expenditures,50,0,239
+2015,2016,BC,EL,Index of change,94,0,160
+2015,2016,BC,PS,Constant dollars,6284,0,81
+2015,2016,BC,PS,Percentage distribution of  expenditures,50,0,239
+2015,2016,BC,PS,Index of change,123,0,160
+2015,2016,BC,CL,Constant dollars,2415,0,81
+2015,2016,BC,CL,Percentage distribution of  expenditures,19.2,0,239
+2015,2016,BC,CL,Index of change,119,0,160
+2015,2016,BC,UN,Constant dollars,3869,0,81
+2015,2016,BC,UN,Percentage distribution of  expenditures,30.8,0,239
+2015,2016,BC,UN,Index of change,126,0,160
+2015,2016,YT,ALL,Constant dollars,189,0,81
+2015,2016,YT,ALL,Percentage distribution of  expenditures,100,0,239
+2015,2016,YT,ALL,Index of change,125,0,160
+2015,2016,YT,EL,Constant dollars,137,0,81
+2015,2016,YT,EL,Percentage distribution of  expenditures,72.5,0,239
+2015,2016,YT,EL,Index of change,127,0,160
+2015,2016,YT,PS,Constant dollars,52,0,81
+2015,2016,YT,PS,Percentage distribution of  expenditures,27.5,0,239
+2015,2016,YT,PS,Index of change,120,0,160
+2015,2016,YT,CL,Constant dollars,52,0,81
+2015,2016,YT,CL,Percentage distribution of  expenditures,27.5,0,239
+2015,2016,YT,CL,Index of change,120,0,160
+2015,2016,NT,ALL,Constant dollars,288,0,81
+2015,2016,NT,ALL,Percentage distribution of  expenditures,100,0,239
+2015,2016,NT,ALL,Index of change,79,0,160
+2015,2016,NT,EL,Constant dollars,220,0,81
+2015,2016,NT,EL,Percentage distribution of  expenditures,76.5,0,239
+2015,2016,NT,EL,Index of change,93,0,160
+2015,2016,NT,PS,Constant dollars,68,0,81
+2015,2016,NT,PS,Percentage distribution of  expenditures,23.5,0,239
+2015,2016,NT,PS,Index of change,54,0,160
+2015,2016,NT,CL,Constant dollars,68,0,81
+2015,2016,NT,CL,Percentage distribution of  expenditures,23.5,0,239
+2015,2016,NT,CL,Index of change,54,0,160
+2015,2016,NU,ALL,Constant dollars,208,0,81
+2015,2016,NU,ALL,Percentage distribution of  expenditures,100,0,239
+2015,2016,NU,ALL,Index of change,98,0,160
+2015,2016,NU,EL,Constant dollars,146,0,81
+2015,2016,NU,EL,Percentage distribution of  expenditures,70.3,0,239
+2015,2016,NU,EL,Index of change,92,0,160
+2015,2016,NU,PS,Constant dollars,62,0,81
+2015,2016,NU,PS,Percentage distribution of  expenditures,29.7,0,239
+2015,2016,NU,PS,Index of change,114,0,160
+2015,2016,NU,CL,Constant dollars,62,0,81
+2015,2016,NU,CL,Percentage distribution of  expenditures,29.7,0,239
+2015,2016,NU,CL,Index of change,114,0,160

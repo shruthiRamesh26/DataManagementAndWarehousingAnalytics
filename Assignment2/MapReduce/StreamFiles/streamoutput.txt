@@ -1,0 +1,7 @@
+economy 	 1 
+university 	 7 
+bus 	 4 
+oil 	 22 
+buses 	 15 
+population 	 9 
+expensive 	 42 

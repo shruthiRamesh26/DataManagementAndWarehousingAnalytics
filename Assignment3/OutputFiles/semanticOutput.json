@@ -1,0 +1,142 @@
+{
+  "canada": [
+    {
+      "count": 2,
+      "totalwords": 133,
+      "filename": "article1001.txt",
+      "relFreq": 0.015037593984962405
+    },
+    {
+      "count": 1,
+      "totalwords": 77,
+      "filename": "article1040.txt",
+      "relFreq": 0.012987012987012988
+    },
+    {
+      "count": 1,
+      "totalwords": 220,
+      "filename": "article1058.txt",
+      "relFreq": 0.004545454545454545
+    },
+    {
+      "count": 2,
+      "totalwords": 107,
+      "filename": "article1062.txt",
+      "relFreq": 0.018691588785046728
+    },
+    {
+      "count": 2,
+      "totalwords": 109,
+      "filename": "article1065.txt",
+      "relFreq": 0.01834862385321101
+    },
+    {
+      "count": 2,
+      "totalwords": 71,
+      "filename": "article1187.txt",
+      "relFreq": 0.028169014084507043
+    },
+    {
+      "count": 1,
+      "totalwords": 638,
+      "filename": "article1209.txt",
+      "relFreq": 0.001567398119122257
+    },
+    {
+      "count": 1,
+      "totalwords": 21,
+      "filename": "article151.txt",
+      "relFreq": 0.047619047619047616
+    },
+    {
+      "count": 1,
+      "totalwords": 175,
+      "filename": "article174.txt",
+      "relFreq": 0.005714285714285714
+    },
+    {
+      "count": 1,
+      "totalwords": 357,
+      "filename": "article214.txt",
+      "relFreq": 0.0028011204481792717
+    },
+    {
+      "count": 3,
+      "totalwords": 97,
+      "filename": "article223.txt",
+      "relFreq": 0.030927835051546393
+    },
+    {
+      "count": 1,
+      "totalwords": 96,
+      "filename": "article25.txt",
+      "relFreq": 0.010416666666666666
+    },
+    {
+      "count": 4,
+      "totalwords": 176,
+      "filename": "article277.txt",
+      "relFreq": 0.022727272727272728
+    },
+    {
+      "count": 3,
+      "totalwords": 174,
+      "filename": "article310.txt",
+      "relFreq": 0.017241379310344827
+    },
+    {
+      "count": 1,
+      "totalwords": 632,
+      "filename": "article354.txt",
+      "relFreq": 0.0015822784810126582
+    },
+    {
+      "count": 2,
+      "totalwords": 401,
+      "filename": "article365.txt",
+      "relFreq": 0.004987531172069825
+    },
+    {
+      "count": 1,
+      "totalwords": 120,
+      "filename": "article531.txt",
+      "relFreq": 0.008333333333333333
+    },
+    {
+      "count": 1,
+      "totalwords": 84,
+      "filename": "article574.txt",
+      "relFreq": 0.011904761904761904
+    },
+    {
+      "count": 2,
+      "totalwords": 186,
+      "filename": "article639.txt",
+      "relFreq": 0.010752688172043012
+    },
+    {
+      "count": 1,
+      "totalwords": 423,
+      "filename": "article663.txt",
+      "relFreq": 0.002364066193853428
+    },
+    {
+      "count": 1,
+      "totalwords": 150,
+      "filename": "article766.txt",
+      "relFreq": 0.006666666666666667
+    },
+    {
+      "count": 3,
+      "totalwords": 243,
+      "filename": "article779.txt",
+      "relFreq": 0.012345679012345678
+    },
+    {
+      "count": 2,
+      "totalwords": 80,
+      "filename": "article780.txt",
+      "relFreq": 0.025
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+agriculture 	 41 
+university 	 4 
+oil 	 233 
+expensive 	 1 
+vehicle 	 12 
+population 	 4 
+economy 	 96 
